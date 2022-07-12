@@ -1,0 +1,15 @@
+body {
+    color: green;
+}
+
+#third {
+    color: darkblue;
+}
+
+#heading {
+    color: green !important;
+}
+
+.example {
+    color: orange;
+}
