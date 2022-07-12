@@ -1,0 +1,39 @@
+/* Box Model */
+.container {
+    display: inline-block;
+    background: rgba(253, 136, 26, 0.253);
+    /* width: fit-content;
+    height: fit-content; */
+}
+
+.container > .box {
+    background: rgba(141, 238, 50, 0.205);
+    border: 10px solid rgba(160, 142, 39, 0.397);
+    padding: 50px;
+    margin: 50px;
+}
+
+.container > .box > .innerBox {
+    width: 400px;
+    height: 200px;
+    background: rgba(48, 94, 155, 0.267);
+}
+
+
+/* CSS Style Normalization*/
+body {
+    background: rgb(88, 88, 88);
+    overflow-x: hidden;
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Centering our Example*/
+.center {
+    /* We will learn a lot more about flexbox later today because it's awesome! */
+    display: flex;
+    width: 100vw;
+    height: 100vh; 
+    justify-content: center;
+    align-items: center;
+}
