@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+#background-img {
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+}
+
+#heading-container {
+    height: 100vh;
+    margin-bottom: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* rem */
+/* em */
