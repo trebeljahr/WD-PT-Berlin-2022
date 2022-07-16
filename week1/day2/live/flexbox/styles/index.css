@@ -4,6 +4,9 @@ body {
     overflow-x: hidden;
 }
 
+hr {
+    border: 0;
+}
 #background-img {
     width: 100vw;
     height: 100vh;
