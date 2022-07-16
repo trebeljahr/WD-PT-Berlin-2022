@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+/* MOBILE FIRST */
+
+.vmax {
+  background-color: aqua;
+  width: 100vmax;
+  height: 100vmax;
+}
+
+.vmin {
+  background-color: yellow;
+  width: 80vmin;
+  height: 80vmin;
+}
+
+.square {
+    background-color: black;
+    width: calc(100vmin - 50px);
+    height: calc(100vmin - 50px);
+}
+
+.vwvh {
+  background-color: red;
+  width: 50vh;
+  height: 50vw;
+}
+
+.responsive {
+  background-color: blue;
+  width: 300px;
+  height: 100px;
+}
+
+@media (min-width: 600px) {
+  .responsive {
+    background-color: green;
+    width: 500px;
+    height: 200px;
+  }
+}
+
+@media (min-height: 500px) and (min-width: 1200px) {
+  .responsive {
+    background-color: turquoise;
+    width: 1000px;
+    height: 500px;
+  }
+}
+
+/* rem, em */
+:root {
+  font-size: 10vw;
+}
+
+@media (min-width: 1000px) {
+  :root {
+    font-size: 20px;
+  }
+}
+
+#section1 {
+  font-size: 2rem;
+}
+
+h1 {
+  font-size: 2em;
+}
+h2 {
+  font-size: 1em;
+}
+
+#section2 {
+  font-size: 1rem;
+}
