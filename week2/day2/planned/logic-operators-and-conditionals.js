@@ -48,7 +48,7 @@ if (number !== 10) {
 
 // conditionals and loops
 const age = 30;
-console.log("typeof age variable:", typeof age);
+console.log("typeof age variable:", age);
 if (age > 18) {
   console.log("You are allowed to drive!");
 } else if (age === 17) {
