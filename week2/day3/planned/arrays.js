@@ -40,6 +40,7 @@ console.log(ticTacToeBoard[0]);
 // what about the top right?
 
 empty[3] = "x";
+
 console.log(empty.length);
 
 const chars = [];
