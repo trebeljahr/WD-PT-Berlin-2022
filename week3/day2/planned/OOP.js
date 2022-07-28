@@ -3,7 +3,7 @@ const spiderMan = {
   firstName: "Peter",
   lastName: "Parker",
   revealSecretIdentity() {
-    console.log("🕸️ I am spider man 🕸️");
+    console.log("🕸️  I am spider man 🕸️");
   },
   sayHello: function () {
     console.log(`Hello there I am ${this.firstName} ${this.lastName}`);
