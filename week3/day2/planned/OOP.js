@@ -101,7 +101,6 @@ dumbledore.summonPatronus;
 // what about storing the house they belong to at Hogwarts?
 
 // ok enough of the Harry Potter example.
-
 // let's have fun with some shapes!
 class Shape {
   constructor(shapeName, corners, edges) {
