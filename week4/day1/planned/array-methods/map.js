@@ -13,6 +13,7 @@ console.log({ someNumbersCubed });
 // how could we do it?
 
 const someOtherNumbers = [1, 2, 3];
+
 const cube = (num) => num * num * num;
 const someOtherNumbersCubed = someOtherNumbers.map(cube);
 console.log({ someOtherNumbersCubed });
