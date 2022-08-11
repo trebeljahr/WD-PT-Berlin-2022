@@ -35,10 +35,19 @@ const initialX = 100;
 const initialY = 100;
 let x = initialX;
 let y = initialY;
+const pacmanSpeed = 3;
+
+let openAngle = 45;
+let openingSpeed = 3;
 
 function draw() {
   background(100);
   fill("yellow");
+  openAngle += openingSpeed;
+  if (openAngle >= 90 || openAngle <= 45) {
+    openingSpeed = -openingSpeed;
+  }
+
   arc(x, y, 80, 80, -45 + angle, 180 + 45 + angle, PIE);
 
   if (angle === 90) {
