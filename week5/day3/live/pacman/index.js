@@ -1,4 +1,10 @@
 let angle;
+let pacmanSound;
+
+function preload() {
+  soundFormats("wav");
+  pacmanSound = loadSound("pacman_chomp.wav");
+}
 
 function setup() {
   stopGame();
@@ -7,6 +13,7 @@ function setup() {
 
 function startGame() {
   console.log("Hello we ran");
+  // pacmanSound.loop();
   createCanvas(window.innerWidth, window.innerHeight);
   angleMode(DEGREES);
   loop();
@@ -35,11 +42,20 @@ const initialX = 100;
 const initialY = 100;
 let x = initialX;
 let y = initialY;
+const pacmanSpeed = 3;
+
+let openAngle = 85;
+let increment = -2;
 
 function draw() {
   background(100);
   fill("yellow");
-  arc(x, y, 80, 80, -45 + angle, 180 + 45 + angle, PIE);
+  openAngle += increment;
+  if (openAngle > 85 || openAngle < 45) {
+    increment = -increment;
+  }
+
+  arc(x, y, 80, 80, -openAngle + angle, 180 + openAngle + angle, PIE);
 
   if (angle === 90) {
     x += pacmanSpeed;
