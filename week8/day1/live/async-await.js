@@ -9,17 +9,14 @@ function sleep(amount, resolveValue) {
 async function firstAsyncFunction() {
   // instead of .then((result) => console.log(result))
   try {
-    const result = await sleep(1000, "1");
-    const result2 = result + "!!!!";
+    const result = await sleep(1000, "1").then((result) => result);
     // don't go further... wait.
     console.log(result);
+
+    const result2 = await sleep(1000, "2").catch((err) => {
+      console.log(err);
+    });
     console.log(result2);
-    try {
-      const result3 = await sleep(1000, "2");
-      console.log(result3);
-    } catch (error) {
-      console.log(error);
-    }
   } catch (error) {
     console.log(error);
   }
