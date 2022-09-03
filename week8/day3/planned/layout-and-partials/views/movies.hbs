@@ -1,0 +1,29 @@
+<h1>This is all the movies</h1>
+<div class="movies-container">
+	{{#each movieList}}
+		{{!-- we now add a reference to partials/movieCard --}}
+		{{!-- {{> <name of the partial file> <the data>}} --}}
+
+		{{!-- 
+			Important! if we pass data into the partial we have two options: 
+			the first is to pass the whole context, the second is to pass single variables
+			in here we use the ../isMainPage to go one context up to still have access to it
+			since we switched contexts with the #each block!	
+		--}}
+		{{> movieCard this isMainPage=../isMainPage}}
+
+		{{!-- 
+			<div class="movie-card">
+				<a href="/{{slug}}">
+					<div class="frame{{#if isMainPage}} zoom{{/if}}" style="background-image: url('{{poster}}')"></div>
+				</a>
+				
+				<h2>
+					{{title}}
+				</h2>
+			</div> 
+		--}}
+		
+	{{/each}}
+
+</div>

@@ -1,0 +1,60 @@
+body {
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+.movies-container {
+  display: flex;
+  width: 100vw;
+  flex-wrap: wrap;
+  margin-left: -20px;
+}
+
+.movie-card {
+  margin: 20px;
+  width: 25vw;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.frame {
+  width: 25vw;
+  height: 50vh;
+  background: transparent no-repeat center;
+  background-size: cover;
+}
+
+.img-container {
+  width: 25vw;
+  height: 50vh;
+  overflow: hidden;
+}
+
+.zoom {
+  transition: transform 0.2s;
+}
+
+.zoom:hover {
+  transform: scale(1.2);
+}
+
+.navbar {
+  width: 100%;
+  background: rgb(28, 74, 128);
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+
+.navbar > p, .navbar > a {
+  padding: 10px;
+  margin: 0px;
+  text-decoration: none;
+  color: white;
+}
+
+.main-content {
+  padding: 20px;
+}

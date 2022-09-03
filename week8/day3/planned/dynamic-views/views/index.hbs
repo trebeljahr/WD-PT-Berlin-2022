@@ -1,0 +1,78 @@
+
+<img src="https://media2.giphy.com/media/sRK7BHWD7aDoXHOGlI/giphy.gif" alt="moustache curls">
+<h1>Handlebars - The Moustache</h1>
+
+<h2>Basics</h2>
+<h3>Hello {{name}}</h3>
+<hr> 
+
+<h2>#if</h2>
+{{#if city}}
+	<h3>You are in {{city}}</h3>
+{{/if}}
+<hr> 
+
+<h2>#if else</h2>
+{{#if city}}
+	<h3>You are in {{city}}</h3>
+{{else}}
+	<h3>Hi there wherever you are 👋</h3>
+{{/if}}
+<hr> 
+
+<h2>#unless</h2>
+{{#unless city}}
+	<h3>WARNING: You didn't specify a city!</h3>
+{{/unless}}
+<hr>
+
+<h2>#with</h2>
+{{#with movie}}
+    <h3>Movie: {{name}}</h3>
+    <p>{{name}} is a {{genre}} movie.</p>
+{{/with}}
+<hr>
+
+<h2>#each</h2>
+<h2>Todo List: </h2>
+<ul>
+	{{#each todos}}
+		<li>{{this}}</li>
+	{{/each}}
+</ul>
+<hr>
+
+<h2>@index</h2>
+<h2>Todo List: </h2>
+<ul>
+	{{#each todos}}
+		<li>{{@index}} {{this}}</li>
+	{{/each}}
+</ul>
+<hr>
+
+<h2>lookup</h2>
+<ul>
+{{#each people}}
+	<li>
+		{{.}} lives in {{lookup ../cities @index}}
+	</li>
+	{{!-- IMPORTANT this switches "context" --}}
+
+	{{!-- 
+	<p>Doesn't work: {{name}}</p>
+	<p>Does work: {{../name}}</p> 
+	--}}
+{{/each}}
+</ul>
+
+<h2>upper</h2>
+<h3>Rick says: {{upper "wabalabadubdub!"}}</h3>
+<h3>Morty says: {{lower "I AM MORTY!!!"}} </h3>
+{{!-- doesn't work --}}
+{{heading}}
+{{!-- this string gets treated as html by using 3 {{{}}} --}}
+{{{heading}}}
+
+{{!-- be careful since this can be used for evil purposes!--}}
+{{{xss}}}

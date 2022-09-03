@@ -1,0 +1,11 @@
+<div class="movie-card">
+  {{#if isMainPage}}<a href="/{{slug}}">{{/if}}
+  <div class="img-container"> 
+  	<div class="frame{{#if isMainPage}} zoom{{/if}}" style="background-image: url('{{poster}}')"></div>
+  </div>
+  {{#if isMainPage}}</a>{{/if}}
+  
+  <h2>
+	{{title}}
+  </h2>
+</div>

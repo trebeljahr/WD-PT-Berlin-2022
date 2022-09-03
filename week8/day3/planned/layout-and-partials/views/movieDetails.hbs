@@ -1,0 +1,15 @@
+<h1>Details</h1>
+{{!-- here we use the movieCard as well --}}
+<div class="movies-container"> 
+{{> movieCard movie isMainPage=isMainPage}}
+</div>
+
+<p style="margin-top: -20px">Filmed in {{movie.year}}</p>
+<p>by <b>{{movie.director}}</b></p>
+<h2>Genres:</h2>
+<ul>
+	{{#each movie.genre}}
+		<li>{{this}}</li>
+	{{/each}}
+</ul>
+

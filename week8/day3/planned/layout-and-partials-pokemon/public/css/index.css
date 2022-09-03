@@ -1,0 +1,39 @@
+body {
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+.pokemon-image {
+  width: 25vw;
+  height: 25vw;
+  object-fit: cover;
+  object-position: center;
+}
+
+.random-pokemon {
+  display: flex;
+  flex-direction: column;
+  justify-content:  center;
+  align-items: center;
+  height: 100vh;
+}
+
+.navbar {
+  width: 100%;
+  background: rgb(28, 74, 128);
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+
+.navbar > p, .navbar > a {
+  padding: 10px;
+  margin: 0px;
+  text-decoration: none;
+  color: white;
+}
+
+.main-content {
+  padding: 20px;
+}
