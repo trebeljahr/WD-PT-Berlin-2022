@@ -1,0 +1,53 @@
+<h1>Hello {{firstName}}</h1>
+
+<p>This is a paragraph. This site has been viewed {{pageViews}} times</p>
+
+<h2>#if</h2>
+{{#if city}}
+  <h3>You are in {{city}}</h3>
+{{/if}}
+
+<h2>#if else</h2>
+{{#if city}}
+  <h3>You are in {{city}}</h3>
+{{else}}
+  <h3>Noo, you are not in a city...</h3>
+{{/if}}
+
+<h2>#unless</h2>
+{{#unless city}}
+  <h3>WARNING: NO city!!!</h3>
+{{/unless}}
+
+<h2>#with</h2>
+{{#with movie}}
+  <h3>Movie: {{name}}</h3>
+  <p>{{name}}
+    is a movie, directed by
+    {{director}}
+    and it lasts for
+    {{#if hours}}
+      {{hours}}
+      hours and
+    {{/if}}
+    {{mins}}
+    minutes</p>
+
+  <p>This is firstName: {{../firstName}}</p>
+{{/with}}
+
+<h2>#each and @index and "lookup"</h2>
+<h3>Todo List:</h3>
+<ul>
+    {{#each todos}}
+        <li>{{plusOne @index}} {{upperCase this}} in {{lookup ../cities @index}}</li>
+    {{/each}}
+</ul>
+
+{{sum 1 2}}
+
+{{htmlString}}
+{{!-- xss attack -> handlebars by default should be safe --}}
+
+{{!-- don't do that if you don't absolutely have --}}
+{{!-- {{{htmlString}}} --}}

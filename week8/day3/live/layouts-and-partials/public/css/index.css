@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  overflow-x: hidden;
+}
+
+.pokemon-image {
+  width: 25vw;
+  height: 25vw;
+}
+
+.navbar,
+.footer {
+  background: royalblue;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 0;
+}
+
+.main-content {
+  min-height: 100vh;
+}
+
+p {
+  margin: 0;
+}
