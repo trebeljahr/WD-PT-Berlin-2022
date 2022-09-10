@@ -1,0 +1,19 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Image Upload</title>
+  </head>
+  <body>
+    <form action="{{uploadPath}}" method="post" enctype="multipart/form-data">
+      <input
+        name="image"
+        type="file"
+        accept="image/png, image/jpeg, image/jpg"
+      />
+      <button type="submit">Send!</button>
+
+    </form>
+  </body>
+</html>

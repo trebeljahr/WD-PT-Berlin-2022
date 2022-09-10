@@ -1,0 +1,21 @@
+{
+  "name": "express-get-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "express-fileupload": "^1.4.0",
+    "hbs": "^4.2.0",
+    "nanoid": "^4.0.0",
+    "sharp": "^0.31.0",
+    "uuid": "^9.0.0"
+  }
+}
