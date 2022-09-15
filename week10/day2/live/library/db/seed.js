@@ -10,6 +10,8 @@ const { default: myMongoose } = require("mongoose");
 myMongoose.createConnection();
 
 const { Book } = require("../models/Book.model");
+const { toSlug } = require("../utils/toSlug");
+
 const books = [
   {
     title: "The Hunger Games",
@@ -87,7 +89,7 @@ require("../db");
 
 Book.insertMany(
   books.map((book) => {
-    const slug = book.title.trim().split(" ").join("-").toLowerCase();
+    const slug = toSlug(book.title);
     console.log(book.title);
     console.log(slug);
     const improvedBook = { ...book, slug };
