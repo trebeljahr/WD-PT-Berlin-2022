@@ -28,6 +28,32 @@ const pokemonSchema = mongoose.Schema({
   },
   pokeType: { type: mongoose.Schema.Types.ObjectId, ref: "PokeType" },
   moves: [{ type: mongoose.Schema.Types.ObjectId, ref: "PokeMove" }],
+  evolutionId: { type: mongoose.Schema.Types.ObjectId, ref: "Pokemon" },
+  trainerId: Number,
+});
+
+const trainerSchema = mongoose.Schema({
+  name: { type: String, required: true },
+  _id: { required: true, type: Number, unique: true },
+});
+
+const Trainer = mongoose.model("Trainer", trainerSchema);
+
+const ash = new Trainer({ name: "Ash", _id: 1 });
+await ash.save();
+
+pokemonSchema.virtual("trainer", {
+  ref: "Trainer",
+  localField: "trainerId",
+  foreignField: "_id",
+  justOne: true,
+});
+
+pokemonSchema.virtual("nextEvolution", {
+  ref: "Pokemon",
+  localField: "evolutionId",
+  foreignField: "_id",
+  justOne: true,
 });
 
 pokemonSchema.methods.attack = async function (attackIndex, _id) {
@@ -158,9 +184,32 @@ const charizard = new Pokemon({
   moves: [flamethrower],
   hitpoints: 400,
 });
+const charmeleon = new Pokemon({
+  name: "Charmeleon",
+  pokeType: fireType,
+  moves: [flamethrower],
+  hitpoints: 400,
+  evolutionId: charizard._id,
+});
+const charmander = new Pokemon({
+  name: "Charmander",
+  pokeType: fireType,
+  moves: [flamethrower],
+  hitpoints: 400,
+  evolutionId: charmeleon._id,
+  trainerId: ash._id,
+});
+
+await charizard.save();
+await charmeleon.save();
+await charmander.save();
+
+const foundCharmander = await Pokemon.findOne({ name: "Charmander" });
+console.log(foundCharmander);
+console.log(foundCharmander.nextEvolution);
+console.log(foundCharmander.trainer);
 
 await pikachu.save();
-await charizard.save();
 
 console.log(pikachu);
 console.log(pikachu.pokeType);

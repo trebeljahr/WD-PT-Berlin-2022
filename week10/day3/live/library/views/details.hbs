@@ -1,15 +1,12 @@
 <div id="book-details">
 {{#with book}}
-  <h1>{{title}} by {{author}}</h1>
+  <h1>{{title}} {{#if author}}by{{/if}} {{author.firstName}} {{author.lastName}}</h1>
   <h2>Rating: {{rating}}</h2>
   <p>Description: {{description}}</p>
   {{!-- <form action="/library/{{slug}}/delete" method="post"> --}}
   {{!-- <input value="{{slug}}" name="bookSlug" style="display: none" /> --}}
   {{! <button type="submit">Delete!</button>
   </form> }}
-
-
-
   <button id="delete-btn">Delete!</button>
 {{/with}}
 </div>
@@ -23,5 +20,13 @@
 
 <button id="edit-btn">Toggle Editing</button>
 
+{{#each comments}}
+  <p>{{message}}</p>
+{{/each}}
+
+<form action="/library/{{book._id}}/comment/create" method="POST">
+  <input type="text" placeholder="Write your comment here" name="message">
+  <input type="submit" value="Send!" />
+</form> 
 
 <script src="/js/details.js"></script>

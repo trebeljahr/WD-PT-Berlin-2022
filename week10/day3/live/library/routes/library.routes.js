@@ -1,5 +1,7 @@
 const router = require("express").Router();
+const { Author } = require("../models/Author.model");
 const { Book } = require("../models/Book.model");
+const { Comment } = require("../models/Comment.model");
 const { toSlug } = require("../utils/toSlug");
 
 console.log("What is Book here?", Book);
@@ -9,8 +11,9 @@ router.get("/", async (req, res) => {
   res.render("library", { books });
 });
 
-router.get("/create", (req, res) => {
-  res.render("create");
+router.get("/create", async (req, res) => {
+  const authors = await Author.find();
+  res.render("create", { authors });
 });
 
 router.get("/:bookSlug/edit", (req, res) => {
@@ -51,14 +54,37 @@ router.post("/create", async (req, res) => {
 router.post("/:bookSlug/delete", async (req, res) => {
   // req.body
   console.log("Before", await Book.countDocuments());
-  await Book.findOneAndDelete({ slug: req.params.bookSlug });
+  const book = await Book.findOneAndDelete({ slug: req.params.bookSlug });
+
+  await Comment.deleteMany({ bookId: book._id });
   console.log("After", await Book.countDocuments());
   res.redirect("/");
 });
 
 router.get("/:bookSlug", async (req, res) => {
   const foundBook = await Book.findOne({ slug: req.params.bookSlug });
-  res.render("details", { book: foundBook });
+  console.log(foundBook);
+  // const author = await Author.findById(foundBook.author);
+  await foundBook.populate("author");
+  console.log(foundBook);
+
+  const comments = await Comment.find({ bookId: foundBook._id });
+  console.log(comments);
+
+  res.render("details", { book: foundBook, comments });
+});
+
+router.post("/:bookId/comment/create", async (req, res) => {
+  console.log(req.params.bookId);
+
+  const newComment = new Comment({
+    bookId: req.params.bookId,
+    message: req.body.message,
+  });
+  await newComment.save();
+
+  const foundBook = await Book.findById(req.params.bookId);
+  res.redirect(`/library/${foundBook.slug}`);
 });
 
 module.exports = router;

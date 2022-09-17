@@ -4,12 +4,13 @@
   value="{{title}}"
   placeholder="Enter the title for the book"
 />
-<input
-  type="text"
-  name="author"
-  value="{{author}}"
-  placeholder="Enter the author for the book"
-/>
+
+<select name="author">
+  {{#each authors}}
+    <option value="{{_id}}">{{firstName}} {{lastName}}</option>
+  {{/each}}
+</select>
+
 <input
   type="number"
   name="rating"

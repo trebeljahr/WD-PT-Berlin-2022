@@ -8,6 +8,22 @@ const mongoose = require("mongoose");
 //     rating: 10,
 //   },
 
+const harryPotter1 = {
+  title: "Harry Potter",
+  author: {
+    firstName: "J.K",
+    lastName: "Rowwling",
+  },
+};
+
+const harryPotter2 = {
+  title: "Harry Potter 2",
+  author: {
+    firstName: "J.K",
+    lastName: "Rowwling",
+  },
+};
+
 const bookSchema = new mongoose.Schema({
   title: {
     required: true,
@@ -15,7 +31,7 @@ const bookSchema = new mongoose.Schema({
     unique: true,
   },
   description: String,
-  author: String,
+  author: { type: mongoose.Schema.Types.ObjectId, ref: "author" },
   rating: {
     type: Number,
     max: 10,

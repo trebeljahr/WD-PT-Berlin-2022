@@ -33,6 +33,9 @@ app.use("/", index);
 const libraryRouter = require("./routes/library.routes");
 app.use("/library", libraryRouter);
 
+const authorRoutes = require("./routes/author.routes");
+app.use("/authors", authorRoutes);
+
 // ❗ To handle errors. Routes that don't exist or errors that you handle in specific routes
 require("./error-handling")(app);
 

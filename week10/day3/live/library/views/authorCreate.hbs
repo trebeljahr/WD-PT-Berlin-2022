@@ -1,0 +1,28 @@
+{{#if success}}
+  <h1>{{success}}</h1>
+{{/if}}
+
+<form action="/authors/create" method="post">
+  <input
+    name="firstName"
+    type="text"
+    value=""
+    placeholder="Enter Author First Name"
+  />
+  <input
+    name="lastName"
+    type="text"
+    value=""
+    placeholder="Enter Author Last Name"
+  />
+
+  <input name="age" type="number" value="" placeholder="Enter Author Age" />
+  <input
+    name="description"
+    type="text"
+    value=""
+    placeholder="Enter Author Description"
+  />
+
+  <button type="submit">Create Author!</button>
+</form>
