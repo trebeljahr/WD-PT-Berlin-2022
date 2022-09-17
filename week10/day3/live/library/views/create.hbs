@@ -1,0 +1,8 @@
+{{#if success}}
+  <h1>{{success}}</h1>
+{{/if}}
+
+<form action="/library/create" method="post">
+  {{> bookForm}}
+  <button type="submit">Create Book!</button>
+</form>

@@ -1,0 +1,35 @@
+{{#with book}}
+	<h1>Information for {{title}}</h1>
+	<h3>Written by:</h3>
+	{{#with author}}
+	<p>{{name}} {{lastName}}</p>
+	<p>Nationality: {{nationality}}</p>
+	<img src="{{pictureUrl}}" alt="picture for {{name}} {{lastname}}" height="200px">
+	{{/with}}
+	<p>Summary: {{description}}</p>
+	<p>Rating: {{rating}}</p>
+	<a href="/books/edit/{{_id}}">Edit this book ✏️</a>
+	<a href="/books/delete/{{_id}}">Delete this book ❌</a>
+{{/with}}
+
+<h3>Reviews</h3>
+{{!-- list the reviews --}}
+{{#if book.reviews}}
+	{{#each book.reviews}}
+		<div>
+			<p>{{text}}</p>
+			<p>Added by: {{user}}</p>
+		</div>
+	{{/each}}
+{{else}}
+<h5>No reviews yet</h5>
+{{/if}}
+
+<h3>Add a review</h3>
+<form action="/books/{{book._id}}/reviews" method="POST">
+	<label for="user">Your name: </label>
+	<input type="text" name="user" id="user">
+	<label for="text">Text: </label>
+	<input type="text" name="text" id="text">
+	<button type="submit">Add this review</button>
+</form>

@@ -1,0 +1,27 @@
+<div id="book-details">
+{{#with book}}
+  <h1>{{title}} by {{author}}</h1>
+  <h2>Rating: {{rating}}</h2>
+  <p>Description: {{description}}</p>
+  {{!-- <form action="/library/{{slug}}/delete" method="post"> --}}
+  {{!-- <input value="{{slug}}" name="bookSlug" style="display: none" /> --}}
+  {{! <button type="submit">Delete!</button>
+  </form> }}
+
+
+
+  <button id="delete-btn">Delete!</button>
+{{/with}}
+</div>
+
+
+<form id="edit-form" class="hidden" action="/library/{{book.slug}}/edit" method="post">
+  {{> bookForm book}}
+  <button type="submit">Save!</button>
+</form>
+
+
+<button id="edit-btn">Toggle Editing</button>
+
+
+<script src="/js/details.js"></script>
