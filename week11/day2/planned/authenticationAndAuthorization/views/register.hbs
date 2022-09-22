@@ -1,0 +1,7 @@
+<h1>Please Register :)</h1>
+<form action="/register" method="POST" enctype="application/json">
+   {{> authForm}}
+</form>
+{{#if error}}
+<h2 style="color: red;">{{error}}</h2>
+{{/if}}

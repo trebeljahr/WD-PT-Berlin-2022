@@ -1,0 +1,17 @@
+{
+  "name": "asynchronous-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asynchrony-in-node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "fibonacci": "^1.6.10",
+    "request": "^2.88.2"
+  }
+}

@@ -1,0 +1,29 @@
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>{{title}}</title>
+    <link rel="stylesheet" href="/stylesheets/style.css" />
+  </head>
+
+  <body>
+    <nav>
+      {{#unless user.username}}
+        <a href="/login">Login</a>
+        <a href="/register">Register</a>
+      {{/unless}}
+      {{#if user.admin}}
+        <a href="/admin/all-users">All Users</a>
+      {{/if}}
+      {{#if user.username}}
+        <a href="/profile">Profile</a>
+      {{/if}}
+    </nav>
+    {{{body}}}
+
+    <script src="/js/script.js"></script>
+  </body>
+
+</html>
