@@ -1,0 +1,11 @@
+.bg-image {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: white;
+	background-image: url('https://images.unsplash.com/photo-1560969184-10fe8719e047?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2670&q=80');
+	background-position: center;
+	background-size: cover;
+	height: 60vh;
+	margin-top: 60px;
+}

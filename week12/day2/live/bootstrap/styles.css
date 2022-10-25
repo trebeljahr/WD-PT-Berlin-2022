@@ -1,0 +1,11 @@
+.navbar-dark {
+  --bs-navbar-color: blue;
+}
+
+body {
+  height: 300vh;
+}
+
+:root {
+  --bs-dark-rgb: 255, 255, 0;
+}
