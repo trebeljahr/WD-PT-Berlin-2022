@@ -1,7 +1,32 @@
 import { useState } from "react";
 import { nanoid } from "nanoid";
 
-const Comments = ({ comments, addComment, toggleLikeOnComment }) => {
+const LikeButton = ({ liked, likeFn }) => {
+  return (
+    <button
+      onClick={likeFn}
+      className="likeBtn"
+      style={{
+        color: liked ? "red" : "grey",
+      }}
+    >
+      ♥
+    </button>
+  );
+};
+
+const SingleComment = ({ comment, toggleLikeOnComment }) => {
+  const { id, date, text, liked } = comment;
+  return (
+    <div key={id}>
+      <p>Created {formatDate(date)} s ago</p>
+      <p>{text}</p>
+      <LikeButton liked={liked} likeFn={() => toggleLikeOnComment(id)} />
+    </div>
+  );
+};
+
+const NewCommentBox = ({ addComment }) => {
   const [commentInput, setCommentInput] = useState("");
 
   const handleChange = (event) => {
@@ -14,32 +39,7 @@ const Comments = ({ comments, addComment, toggleLikeOnComment }) => {
   };
 
   return (
-    <div className="comment-box">
-      <h2>Comments:</h2>
-      {[...comments]
-        .sort(({ date: date1 }, { date: date2 }) => {
-          const msSinceCreation1 = Math.floor((Date.now() - date1) / 1000);
-          const msSinceCreation2 = Math.floor((Date.now() - date2) / 1000);
-          return msSinceCreation2 - msSinceCreation1;
-        })
-        .map(({ text, id, date, liked }) => {
-          return (
-            <div key={id}>
-              <p>Created {Math.floor((Date.now() - date) / 1000)} s ago</p>
-              <p>{text}</p>
-              <button
-                onClick={() => toggleLikeOnComment(id)}
-                className="likeBtn"
-                style={{
-                  color: liked ? "red" : "grey",
-                }}
-              >
-                ♥
-              </button>
-            </div>
-          );
-        })}
-      {/* controlled input */}
+    <div>
       <input
         onChange={handleChange}
         value={commentInput}
@@ -50,6 +50,24 @@ const Comments = ({ comments, addComment, toggleLikeOnComment }) => {
   );
 };
 
+const Comments = ({ comments, toggleLikeOnComment }) => {
+  return (
+    <div className="comment-box">
+      <h2>Comments:</h2>
+      {comments.map((comment) => (
+        <SingleComment
+          key={comment.id}
+          comment={comment}
+          toggleLikeOnComment={toggleLikeOnComment}
+        />
+      ))}
+    </div>
+  );
+};
+
+function formatDate(date) {
+  return Math.floor((Date.now() - date) / 1000);
+}
 const initializeComments = () =>
   ["This is fine", "Told you so", "First", "Best comment ever"].map(
     (comment) => {
@@ -65,7 +83,9 @@ export const FetchComments = () => {
       return [
         ...oldComments,
         { text: commentText, id: nanoid(), date: Date.now(), liked: false },
-      ];
+      ].sort(({ date: date1 }, { date: date2 }) => {
+        return formatDate(date1) - formatDate(date2);
+      });
     });
   };
 
@@ -80,10 +100,9 @@ export const FetchComments = () => {
     });
   };
   return (
-    <Comments
-      comments={comments}
-      addComment={addComment}
-      toggleLikeOnComment={toggleLikeOnComment}
-    />
+    <>
+      <Comments comments={comments} toggleLikeOnComment={toggleLikeOnComment} />
+      <NewCommentBox addComment={addComment} />
+    </>
   );
 };
