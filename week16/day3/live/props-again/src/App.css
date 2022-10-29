@@ -1,0 +1,8 @@
+.likeBtn {
+  background-color: transparent;
+  border: none;
+}
+
+.likeBtn:hover {
+  background-color: lightblue;
+}
