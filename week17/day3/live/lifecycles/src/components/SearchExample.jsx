@@ -5,6 +5,8 @@ import { baseUrl, SingleCharacter } from "./FetchExample";
 export const SearchExample = () => {
   const [searchInput, setSearchInput] = useState("");
   const [listOfCharacters, setListOfCharacters] = useState([]);
+  const [error, setError] = useState(null);
+
   const controllerRef = useRef(null);
 
   function handleChange(event) {
@@ -15,7 +17,7 @@ export const SearchExample = () => {
   const listenForEnterKey = (event) => {
     async function fetchCharacters() {
       if (controllerRef.current) {
-        controllerRef.current.abort();
+        controllerRef.current.abort("User typed too fast");
       }
 
       controllerRef.current = new AbortController();
@@ -25,16 +27,26 @@ export const SearchExample = () => {
         const res = await fetch(url, {
           signal: controllerRef?.current?.signal,
         });
+        if (res.status !== 200) {
+          throw new Error("Something went wrong with the API");
+        }
+
         const data = await res.json();
         setListOfCharacters(data.results);
 
         controllerRef.current = null;
       } catch (err) {
+        console.log(err);
         console.error("something went wrong", err);
+        if (err instanceof DOMException) {
+          return;
+        }
+        setError("There was an error!");
       }
     }
 
     if (event.key === "Enter") {
+      setError(false);
       fetchCharacters();
     }
   };
@@ -102,8 +114,10 @@ export const SearchExample = () => {
   useEffect(() => {
     console.log(listOfCharacters);
   }, [listOfCharacters]);
+
   return (
     <div>
+      {error && <h2 style={{ color: "red" }}>{error}</h2>}
       <input
         onChange={handleChange}
         value={searchInput}
