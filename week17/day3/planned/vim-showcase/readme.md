@@ -23,7 +23,7 @@ zb puts it at the bottom.
 
 o makes a new line and puts you into insert mode.
 
-e jumps to the end of the word. 
+b jumps to the beggining. e jumps to the end of the word. 
 
 c deletes a selection and places the cursor.
 r replaces with some letter
@@ -55,6 +55,7 @@ Inserting is an action. So is yanking, deleting, pasting.
 
 yy yanks a whole line (copies). 
 
+yy yanks a whole line (copies). 
 While in normal mode you can paste with p what you yanked.
 
 dd deletes a whole line.
@@ -69,8 +70,9 @@ c is for changing a letter. c can be combined with movement. like "ciw" which me
 0 jumps to the beginning of the line.
 $ to the end.
 
-[ some text in brackets select it with "vi[" which means v – visual, i – inner, [ brackets! ]
+[ some text in brackets select it with "vi[" which means v – visual, i – inner,  brackets! ]
 ( also works here "vi(" )
+{ hello there }
 
 lastly: 
 macros!
@@ -104,8 +106,24 @@ qh 0 r# f"x ldf, A,<ESC>p 0df, $px :s/,/\t/g<enter> jq
 
 practice time
 first let's copy paste example from above.
+192.168.0.20	ocpmaster01.home.ca	ocpmaster01	#OCP Master Node 1
+192.168.0.21	ocpmaster02.home.ca	ocpmaster02	#OCP Master Node 2
+192.168.0.22	ocpmaster03.home.ca	ocpmaster03	#OCP Master Node 3
+192.168.0.30	ocpnode01.home.ca	ocpnode01	#OCP Worker Node 1
+192.168.0.31	ocpnode02.home.ca	ocpnode02	#OCP Worker Node 2
+192.168.0.32	ocpnode03.home.ca	ocpnode03	#OCP Worker Node 3
+192.168.0.144	ansibleh01.home.ca	ansibleh01	#Ansible Host 1
+192.168.0.145	ansibleh02.home.ca	ansibleh02	#Ansible Host 2
 
 To replay the macro @h –> because h is the register we used.
 Number + @@ replays last used buffer number of times!
 
 gg jumps to the top.
+
+https://vim-adventures.com/
+https://neovim.io/
+https://dev.to/elvessousa/my-basic-neovim-setup-253l
+https://vim.rtorr.com/
+https://thoughtbot.com/upcase/vim
+https://missing.csail.mit.edu/2020/editors/
+https://www.youtube.com/watch?v=wlR5gYd6um0
