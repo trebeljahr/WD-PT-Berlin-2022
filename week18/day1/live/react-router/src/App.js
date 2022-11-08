@@ -101,23 +101,38 @@ function CharacterOverview() {
   );
 }
 
+function Custom404Page() {
+  return <h1>404 - Sorry this page doesn't exist!</h1>;
+}
+
+function SomeDifferentPageLayout() {
+  return (
+    <div>
+      <Outlet />
+    </div>
+  );
+}
+
 function App() {
   return (
     <Routes>
-      <Route element={<PageLayout />}>
-        <Route path={"/"} element={<h1>Main Page</h1>} />
-        <Route path={"/hello"} element={<h1>Hello React Router</h1>} />
-        <Route path="/character" element={<CharacterLayout />}>
+      <Route path="/main-pages" element={<PageLayout />}>
+        <Route index element={<h1>Main Page</h1>} />
+        <Route path="hello" element={<h1>Hello React Router</h1>} />
+        <Route path="character" element={<CharacterLayout />}>
           {/* path={"/"} */}
           <Route index element={<CharacterOverview />} />
           <Route path={":id"} element={<CharacterPage />} />
           {/* multiple params are possible, just like in express! :id/:name/:smth */}
         </Route>
+      </Route>
 
-        <Route
-          path="*"
-          element={<h1>404 - Sorry this page doesn't exist!</h1>}
-        />
+      <Route path="/" element={<SomeDifferentPageLayout />}>
+        <Route index element={<h1>Home Page Different Display</h1>} />
+      </Route>
+
+      <Route path="*" element={<PageLayout />}>
+        <Route path="*" element={<Custom404Page />} />
       </Route>
     </Routes>
   );
