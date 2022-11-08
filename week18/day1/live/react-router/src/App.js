@@ -116,8 +116,9 @@ function SomeDifferentPageLayout() {
 function App() {
   return (
     <Routes>
-      <Route path="/main-pages" element={<PageLayout />}>
-        <Route index element={<h1>Main Page</h1>} />
+      <Route index element={<h1>Home Page Different Display</h1>} />
+
+      <Route element={<PageLayout />}>
         <Route path="hello" element={<h1>Hello React Router</h1>} />
         <Route path="character" element={<CharacterLayout />}>
           {/* path={"/"} */}
@@ -125,13 +126,6 @@ function App() {
           <Route path={":id"} element={<CharacterPage />} />
           {/* multiple params are possible, just like in express! :id/:name/:smth */}
         </Route>
-      </Route>
-
-      <Route path="/" element={<SomeDifferentPageLayout />}>
-        <Route index element={<h1>Home Page Different Display</h1>} />
-      </Route>
-
-      <Route path="*" element={<PageLayout />}>
         <Route path="*" element={<Custom404Page />} />
       </Route>
     </Routes>
