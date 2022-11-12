@@ -74,39 +74,45 @@ function FormComponent() {
   );
 }
 
-function FetchComponent() {
+const useFetch = (url) => {
   const [data, setData] = useState(null);
-  const [pokemonImage, setPokemonImage] = useState(null);
-  const [pokeName, setPokeName] = useState("");
 
-  const handleInput = (e) => setPokeName(e.target.value);
   useEffect(() => {
     async function fetchData() {
       try {
-        const pokeRes = await fetch(BASE_URL + `/pokemon/${pokeName}`);
-        console.log(pokeRes);
-
-        const pokeData = await pokeRes.json();
-        console.log(pokeData);
-
-        setPokemonImage(pokeData.data[0].sprite);
-      } catch (err) {
-        setPokemonImage(null);
+        const res = await fetch(url);
+        const resData = await res.json();
+        if (res.ok) {
+          setData(resData);
+        } else {
+          throw new Error(resData.error);
+        }
+      } catch (error) {
+        console.error(error);
       }
     }
     fetchData();
-  }, [pokeName]);
+  }, [url]);
+
+  return data;
+};
+
+function FetchComponent() {
+  const [pokemonImage, setPokemonImage] = useState(null);
+  const [pokeName, setPokeName] = useState("");
+
+  const data = useFetch(BASE_URL);
+
+  const pokeApiData = useFetch(BASE_URL + `/pokemon/${pokeName}`);
+
+  const handleInput = (e) => setPokeName(e.target.value);
 
   useEffect(() => {
-    async function fetchData() {
-      const res = await fetch(BASE_URL);
-      console.log(res);
-      const resData = await res.json();
-      console.log(resData);
-      setData(resData);
-    }
-    fetchData();
-  }, []);
+    console.log(pokeApiData);
+    pokeApiData && setPokemonImage(pokeApiData.data[0].sprite);
+  }, [pokeApiData]);
+
+  console.log({ pokemonImage });
   return (
     <>
       <h1>{data ? data.message : "Loading..."}</h1>

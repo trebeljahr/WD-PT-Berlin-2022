@@ -50,7 +50,7 @@ app.get("/pokemon/:slug", async (req, res) => {
     console.log(data);
     res.json({ data });
   } catch (err) {
-    res.status(400).json({ error: err });
+    res.status(400).json({ error: err.message });
   }
 });
 
