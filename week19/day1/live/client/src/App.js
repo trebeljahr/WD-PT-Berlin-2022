@@ -1,6 +1,9 @@
 import "./App.css";
-import { useEffect, useRef, useState } from "react";
+import { useContext, useEffect, useRef, useState } from "react";
 import { BASE_URL } from "./consts";
+import { LoginForm, LoginOrSignupForm, SignupForm } from "./SignupForm";
+import { Route, Routes, useNavigate } from "react-router-dom";
+import { UserContext } from "./UserContext";
 
 function UploadFile() {
   const [userAvatar, setUserAvatar] = useState("");
@@ -39,37 +42,6 @@ function UploadFile() {
           <button onClick={handleUpload}>Send to Server!</button>
         </>
       )}
-    </>
-  );
-}
-
-function FormComponent() {
-  const [inputValue, setInputValue] = useState("");
-  const handleChange = (e) => setInputValue(e.target.value);
-
-  const sendToServer = async () => {
-    console.log(inputValue);
-    try {
-      const res = await fetch(BASE_URL + "/form-handler", {
-        method: "POST", // or 'PUT'
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({ name: inputValue }),
-      });
-      console.log(res.ok);
-    } catch (err) {
-      console.error(err);
-    }
-
-    console.log("We reach here...");
-    setInputValue("");
-  };
-
-  return (
-    <>
-      <input value={inputValue} onChange={handleChange} />
-      <button onClick={sendToServer}>Send!</button>
     </>
   );
 }
@@ -124,12 +96,57 @@ function FetchComponent() {
   );
 }
 
+function Home() {
+  return <h1>Homepage</h1>;
+}
+
+function Profile() {
+  const { user, logoutUser } = useContext(UserContext);
+  const navigate = useNavigate();
+  const logout = async () => {
+    try {
+      await fetch(BASE_URL + "/logout", {
+        method: "POST",
+        credentials: "include",
+      });
+
+      // if (!res.ok) {
+      //   const data = await res.json();
+      //   throw new Error(data.error);
+      // }
+      logoutUser();
+
+      navigate("/");
+    } catch (error) {
+      console.warn(error.message);
+    }
+  };
+
+  if (!user) {
+    navigate("/login");
+    return null;
+  }
+
+  return (
+    <>
+      <h1>Hello there {user.username} </h1>
+      <button onClick={logout}>Logout</button>
+    </>
+  );
+}
+
 function App() {
   return (
     <>
-      <FetchComponent />
-      <FormComponent />
-      <UploadFile />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/login" element={<LoginForm />} />
+        <Route path="/signup" element={<SignupForm />} />
+        <Route path="/profile" element={<Profile />} />
+      </Routes>
+      {/* <FetchComponent /> */}
+
+      {/* <UploadFile /> */}
     </>
   );
 }
