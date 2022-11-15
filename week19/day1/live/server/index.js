@@ -6,11 +6,14 @@ import fileUpload from "express-fileupload";
 import path from "path";
 import { dirname } from "path";
 import { fileURLToPath } from "url";
+import { connectToMongoose } from "./db";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 config();
+
+await connectToMongoose();
 
 const app = express();
 const PORT = process.env.PORT || 5000;
