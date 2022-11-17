@@ -1,10 +1,9 @@
-import { useContext } from "react";
 import { useNavigate } from "react-router-dom";
 import { BASE_URL } from "../consts";
-import { UserContext } from "../contexts/UserContext";
+import { useAuth } from "../contexts/UserContext";
 
 export function Profile() {
-  const { user, logoutUser } = useContext(UserContext);
+  const { user, logoutUser } = useAuth();
   const navigate = useNavigate();
   const logout = async () => {
     try {
@@ -18,11 +17,6 @@ export function Profile() {
       console.warn(error.message);
     }
   };
-
-  if (!user) {
-    navigate("/login");
-    return null;
-  }
 
   return (
     <>

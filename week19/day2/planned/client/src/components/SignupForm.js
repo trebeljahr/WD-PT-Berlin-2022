@@ -1,7 +1,7 @@
-import { useContext, useState } from "react";
+import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { BASE_URL } from "../consts";
-import { UserContext } from "../contexts/UserContext";
+import { useAuth } from "../contexts/UserContext";
 
 const emptySignupState = {
   username: "",
@@ -11,7 +11,7 @@ const emptySignupState = {
 function LoginOrSignupForm({ isSignup = false }) {
   const [signupState, setSignupState] = useState(emptySignupState);
   const navigate = useNavigate();
-  const { loginUser } = useContext(UserContext);
+  const { loginUser } = useAuth();
 
   const handleChange = (e) =>
     setSignupState((old) => ({ ...old, [e.target.name]: e.target.value }));
