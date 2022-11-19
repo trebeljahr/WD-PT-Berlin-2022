@@ -1,0 +1,386 @@
+[
+  {
+    "client_msg_id": "d6f1234c-d9b3-40b8-afe6-1ac43e3a4319",
+    "type": "message",
+    "user": "U03NBCRJ99U",
+    "text": "When is it the demo time?",
+    "ts": "1661593019.015689",
+    "thread_ts": "1661593019.015689",
+    "last_read": "1661593047.884129",
+    "subscribed": true,
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U03P4005U76",
+        "ts": "1661593032.395549"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1661593042.398119"
+      },
+      {
+        "user": "U03NBCRJ99U",
+        "ts": "1661593047.884129"
+      }
+    ],
+    "latest_reply": "1661593047.884129",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4Qy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "When is it the demo time?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g573a376398a",
+      "image_72": "https://secure.gravatar.com/avatar/573a376398a82acb061e12fb20ba25f7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Antonio",
+      "real_name": "Antonio Vara Piquer",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "ghezath",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U03NBCRJ99U",
+      "U03P4005U76"
+    ]
+  },
+  {
+    "client_msg_id": "90aee5b4-f52b-4946-adc8-bea105feb653",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "we said 15:00.",
+    "ts": "1661593032.395549",
+    "thread_ts": "1661593019.015689",
+    "parent_user_id": "U03NBCRJ99U",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GOMgE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "we said 15:00."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "73328dc3-27c9-43e1-be84-235b2f93e42c",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "and then until the end of today :slightly_smiling_face:",
+    "ts": "1661593042.398119",
+    "thread_ts": "1661593019.015689",
+    "parent_user_id": "U03NBCRJ99U",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Dl2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "and then until the end of today "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "88a50e9a-95d5-4420-925d-6190fb2d4d9e",
+    "type": "message",
+    "user": "U03NBCRJ99U",
+    "text": "ok",
+    "ts": "1661593047.884129",
+    "thread_ts": "1661593019.015689",
+    "parent_user_id": "U03NBCRJ99U",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2RQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ok"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g573a376398a",
+      "image_72": "https://secure.gravatar.com/avatar/573a376398a82acb061e12fb20ba25f7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Antonio",
+      "real_name": "Antonio Vara Piquer",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "ghezath",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4cba3ce0-2306-403c-810e-9c20a63b7e46",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "I have a git question",
+    "ts": "1661594763.869709",
+    "edited": {
+      "user": "U03NJ0VSF8A",
+      "ts": "1661594773.000000"
+    },
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "eyes",
+        "count": 1,
+        "users": [
+          "U03P4005U76"
+        ]
+      },
+      {
+        "name": "white_check_mark",
+        "count": 1,
+        "users": [
+          "U03P4005U76"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YeQW1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have a git question"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "09622d5a-2687-4e43-934c-f728f3fb13e9",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "I'll get some food now.",
+    "ts": "1661595199.305109",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JNM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'll get some food now."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5b98042f-a13e-49d5-be3d-a11729cc5f68",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "no questions?",
+    "ts": "1661601593.163289",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "eyes",
+        "count": 1,
+        "users": [
+          "U03P4005U76"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vuV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "no questions?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

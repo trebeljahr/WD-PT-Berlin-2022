@@ -1,0 +1,247 @@
+[
+  {
+    "client_msg_id": "0147088c-0acd-4f2f-a84c-0c537eaa7fc9",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "No, usually Iron launcher should install everything with npm. But maybe it detects you're on Windows or something and then doesn't work correctly...",
+    "ts": "1663223651.997839",
+    "thread_ts": "1663183841.439569",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7Pg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "No, usually Iron launcher should install everything with npm. But maybe it detects you're on Windows or something and then doesn't work correctly..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "04106585-c631-4e71-a037-e0346b0a1152",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "But as long as you have package.json set up from iron launcher with the dependency list, running the extra 'npm i' will install everything necessary to run npm start/run dev.",
+    "ts": "1663223773.401339",
+    "thread_ts": "1663183841.439569",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "C+fv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "But as long as you have package.json set up from iron launcher with the dependency list, running the extra 'npm i' will install everything necessary to run npm start/run dev."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "26490577-3643-4c81-a53d-705411394248",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "I copied the package.json from your project, then it worked. Let´s wait for the other windows users to try it...\nIn the student portal it says windows users have to install ironlauncher globally in a terminal with admin rights. Tried that but still no dependencies :man-shrugging:",
+    "ts": "1663224000.613739",
+    "thread_ts": "1663183841.439569",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+mR=O",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I copied the package.json from your project, then it worked. Let´s wait for the other windows users to try it...\nIn the student portal it says windows users have to install ironlauncher globally in a terminal with admin rights. Tried that but still no dependencies "
+              },
+              {
+                "type": "emoji",
+                "name": "man-shrugging",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "615a3b60-86bd-4fea-a3f8-b772085f84df",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "windows is bad. doesn't work for me either. that's okay, i'll just copy the .json from the github page",
+    "ts": "1663247746.000909",
+    "thread_ts": "1663183841.439569",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UCGEy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "windows is bad. doesn't work for me either. that's okay, i'll just copy the .json from the github page"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ae84cb6a-57ee-4c4a-af1b-a003501f8e84",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "Yeah... it works with WSL2...",
+    "ts": "1663249298.959409",
+    "thread_ts": "1663183841.439569",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b4FG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah... it works with WSL2..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,674 @@
+[
+  {
+    "client_msg_id": "388be37a-c914-4a40-ae87-a931c836e59f",
+    "type": "message",
+    "user": "U03NKPQSAA0",
+    "text": "Good morning everyone, sorry about the confusion I thought it has been already clarified!\n1/ *End of year holidays: from 19th of December to the 9th of January (3 weeks).*\n*Coming back on the 09.01, it will be your last bootcamp week (week 24).* \n*Week 25 will be Career Week.* \n\n2/ you have been invited to the Google Calendar of the bootcamp in July :blush: Please check it regularly, everything is mentioned there!\n\nHope that helps! Let me know if anything else is unclear",
+    "ts": "1667205420.555539",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8U91",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Good morning everyone, sorry about the confusion I thought it has been already clarified!\n1/ "
+              },
+              {
+                "type": "text",
+                "text": "End of year holidays: from 19th of December to the 9th of January (3 weeks).",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Coming back on the 09.01, it will be your last bootcamp week (week 24). ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Week 25 will be Career Week. ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n2/ you have been invited to the Google Calendar of the bootcamp in July "
+              },
+              {
+                "type": "emoji",
+                "name": "blush",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Please check it regularly, everything is mentioned there!\n\nHope that helps! Let me know if anything else is unclear"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "161b83e3a9a4",
+      "image_72": "https://avatars.slack-edge.com/2022-10-18/4224394580103_161b83e3a9a4989c5f84_72.png",
+      "first_name": "Joyce",
+      "real_name": "Joyce Bride - Program",
+      "display_name": "Joyce Bride",
+      "team": "T03NM2X0JCR",
+      "name": "joyce.bride",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b5b5bd9c-cd74-45ad-963e-1a2f7a3071ee",
+    "type": "message",
+    "user": "U03NBCRJ99U",
+    "text": "other question, is tomorrow holyday?",
+    "ts": "1667205493.131489",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1nI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "other question, is tomorrow holyday?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g573a376398a",
+      "image_72": "https://secure.gravatar.com/avatar/573a376398a82acb061e12fb20ba25f7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Antonio",
+      "real_name": "Antonio Vara Piquer",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "ghezath",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8c1f2f02-b6fd-423d-8ffa-4f3f39d1711c",
+    "type": "message",
+    "user": "U03NKPQSAA0",
+    "text": "It is not a holiday in Berlin!",
+    "ts": "1667205539.771489",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "w=g04",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It is not a holiday in Berlin!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "161b83e3a9a4",
+      "image_72": "https://avatars.slack-edge.com/2022-10-18/4224394580103_161b83e3a9a4989c5f84_72.png",
+      "first_name": "Joyce",
+      "real_name": "Joyce Bride - Program",
+      "display_name": "Joyce Bride",
+      "team": "T03NM2X0JCR",
+      "name": "joyce.bride",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9b927d76-e7f0-4d6f-9aa5-d985aea78f8a",
+    "type": "message",
+    "user": "U03NF3FU4CD",
+    "text": "Hi \u003c@U03NKPQSAA0\u003e  in the contract you specify the dates (from 7.12.2022 until 25.11.2022) The issue is that after that dates I have planned several things and I don't know if I will be able to assist to the rest of the days. What can we do?",
+    "ts": "1667206407.643629",
+    "thread_ts": "1667206407.643629",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U03NF3FU4CD",
+        "ts": "1667206562.556269"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1667207666.911089"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1667207670.016299"
+      }
+    ],
+    "latest_reply": "1667207670.016299",
+    "files": [
+      {
+        "id": "F048BHS5631",
+        "created": 1667206277,
+        "timestamp": 1667206277,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03NF3FU4CD",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 43286,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F048BHS5631-image.png",
+        "url_private_download": "attachments/F048BHS5631-image.png",
+        "original_h": 302,
+        "original_w": 722,
+        "thumb_64": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048BHS5631-367268fbd7/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048BHS5631-367268fbd7/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048BHS5631-367268fbd7/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048BHS5631-367268fbd7/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 151,
+        "thumb_480": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048BHS5631-367268fbd7/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 201,
+        "thumb_720": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048BHS5631-367268fbd7/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 301,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://wd-pt-12jul.slack.com/files/U03NF3FU4CD/F048BHS5631/image.png",
+        "permalink_public": "https://slack-files.com/T03NM2X0JCR-F048BHS5631-99fda2856c",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fJJo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi "
+              },
+              {
+                "type": "user",
+                "user_id": "U03NKPQSAA0"
+              },
+              {
+                "type": "text",
+                "text": "  in the contract you specify the dates (from 7.12.2022 until 25.11.2022) The issue is that after that dates I have planned several things and I don't know if I will be able to assist to the rest of the days. What can we do?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "gffbd1f8138d",
+      "image_72": "https://secure.gravatar.com/avatar/ffbd1f8138d8ce7282914f927aa4c382.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Hector",
+      "real_name": "Hector Fernandez",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "hfernandez04",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U03NF3FU4CD",
+      "U03NJ0V8G2W"
+    ]
+  },
+  {
+    "client_msg_id": "e96e22c0-cbf3-4014-b825-d0c3046daf48",
+    "type": "message",
+    "user": "U03NKPQSAA0",
+    "text": "Hi Hector, I have never seen this contract but it seems weird as the bootcamp is 25 weeks. It can't finish in November. Let me contact the Admissions team.",
+    "ts": "1667206560.594589",
+    "thread_ts": "1667206560.594589",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U03NF3FU4CD",
+        "ts": "1667206605.002109"
+      }
+    ],
+    "latest_reply": "1667206605.002109",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U03NF3FU4CD"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hq7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi Hector, I have never seen this contract but it seems weird as the bootcamp is 25 weeks. It can't finish in November. Let me contact the Admissions team."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "161b83e3a9a4",
+      "image_72": "https://avatars.slack-edge.com/2022-10-18/4224394580103_161b83e3a9a4989c5f84_72.png",
+      "first_name": "Joyce",
+      "real_name": "Joyce Bride - Program",
+      "display_name": "Joyce Bride",
+      "team": "T03NM2X0JCR",
+      "name": "joyce.bride",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U03NF3FU4CD"
+    ]
+  },
+  {
+    "client_msg_id": "eefbb6a0-f7dc-4ab4-bccf-51ee9a002d4d",
+    "type": "message",
+    "user": "U03NF3FU4CD",
+    "text": "is the last project starting on 25.11.2022?",
+    "ts": "1667206562.556269",
+    "thread_ts": "1667206407.643629",
+    "parent_user_id": "U03NF3FU4CD",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Toy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "is the last project starting on 25.11.2022?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "gffbd1f8138d",
+      "image_72": "https://secure.gravatar.com/avatar/ffbd1f8138d8ce7282914f927aa4c382.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Hector",
+      "real_name": "Hector Fernandez",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "hfernandez04",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7af3baa5-d758-42cb-8a30-6c97aa9f434b",
+    "type": "message",
+    "user": "U03NF3FU4CD",
+    "text": "Thank you!",
+    "ts": "1667206605.002109",
+    "thread_ts": "1667206560.594589",
+    "parent_user_id": "U03NKPQSAA0",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MYy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "gffbd1f8138d",
+      "image_72": "https://secure.gravatar.com/avatar/ffbd1f8138d8ce7282914f927aa4c382.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Hector",
+      "real_name": "Hector Fernandez",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "hfernandez04",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2c4d428e-5031-4a83-b1e2-889dccaea01a",
+    "type": "message",
+    "user": "U03NKPQSAA0",
+    "text": "I also added the bootcamp overview on top of the channel, if you forgot about it :wink:",
+    "ts": "1667207175.869649",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b3gO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I also added the bootcamp overview on top of the channel, if you forgot about it "
+              },
+              {
+                "type": "emoji",
+                "name": "wink",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "161b83e3a9a4",
+      "image_72": "https://avatars.slack-edge.com/2022-10-18/4224394580103_161b83e3a9a4989c5f84_72.png",
+      "first_name": "Joyce",
+      "real_name": "Joyce Bride - Program",
+      "display_name": "Joyce Bride",
+      "team": "T03NM2X0JCR",
+      "name": "joyce.bride",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "03e2c38c-ebda-4b06-b4ca-c2e1ebf20659",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "Looks like in your contract only the start was postponed...",
+    "ts": "1667207666.911089",
+    "thread_ts": "1667206407.643629",
+    "parent_user_id": "U03NF3FU4CD",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tYs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Looks like in your contract only the start was postponed..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "72bcf42e-0746-47a5-8b60-d92e52086f19",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "ts": "1667207670.016299",
+    "thread_ts": "1667206407.643629",
+    "parent_user_id": "U03NF3FU4CD",
+    "files": [
+      {
+        "id": "F048BLY9TKR",
+        "created": 1667207667,
+        "timestamp": 1667207667,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03NJ0V8G2W",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 54030,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F048BLY9TKR-image.png",
+        "url_private_download": "attachments/F048BLY9TKR-image.png",
+        "original_h": 352,
+        "original_w": 867,
+        "thumb_64": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048BLY9TKR-4e175361af/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048BLY9TKR-4e175361af/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048BLY9TKR-4e175361af/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048BLY9TKR-4e175361af/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 146,
+        "thumb_480": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048BLY9TKR-4e175361af/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 195,
+        "thumb_720": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048BLY9TKR-4e175361af/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 292,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://wd-pt-12jul.slack.com/files/U03NJ0V8G2W/F048BLY9TKR/image.png",
+        "permalink_public": "https://slack-files.com/T03NM2X0JCR-F048BLY9TKR-ac53ab40d4",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

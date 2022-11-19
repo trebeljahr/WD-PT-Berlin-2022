@@ -1,0 +1,112 @@
+[
+  {
+    "client_msg_id": "b3974793-bbf9-46fd-994e-74e701163091",
+    "type": "message",
+    "user": "U03NKPQSAA0",
+    "text": "Good morning dear \u003c!channel\u003e,\nI hope you are doing well on this Week 15 :rocket:\n\n• *Please don't forget to answer the survey tonight* :white_check_mark: It really helps us to have your feedback.\n• *It's time for the 1 on 1s again*! It's been a long time we haven't talk. I will send you a message to set this up during the week. As always, it is just a quick conversation to know how you are feeling. Looking forward to seeing your faces :blush:\n• FYI: Mariel left Ironhack and we wish her all the best. Please reach out to me from now on if you need anything.\nHave a lovely day!\n\nYour Program Manager\nJoyce :sparkles:",
+    "ts": "1666087065.344739",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "biv18",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Good morning dear "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": ",\nI hope you are doing well on this Week 15 "
+              },
+              {
+                "type": "emoji",
+                "name": "rocket",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Please don't forget to answer the survey tonight\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"emoji\",\"name\":\"white_check_mark\",\"unicode\":\"2705\"},{\"type\":\"text\",\"text\":\" It really helps us to have your feedback.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"It's time for the 1 on 1s again\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"! It's been a long time we haven't talk. I will send you a message to set this up during the week. As always, it is just a quick conversation to know how you are feeling. Looking forward to seeing your faces \"},{\"type\":\"emoji\",\"name\":\"blush\",\"unicode\":\"1f60a\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"FYI: Mariel left Ironhack and we wish her all the best. Please reach out to me from now on if you need anything.\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nHave a lovely day!\n\nYour Program Manager\nJoyce "
+              },
+              {
+                "type": "emoji",
+                "name": "sparkles",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "161b83e3a9a4",
+      "image_72": "https://avatars.slack-edge.com/2022-10-18/4224394580103_161b83e3a9a4989c5f84_72.png",
+      "first_name": "Joyce",
+      "real_name": "Joyce Bride - Program",
+      "display_name": "Joyce Bride",
+      "team": "T03NM2X0JCR",
+      "name": "joyce.bride",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U046XPVNE2Z",
+    "text": "\u003c@U046XPVNE2Z\u003e se ha unido al canal",
+    "ts": "1666106924.197009",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "95e7a4ad5c7f",
+      "image_72": "https://avatars.slack-edge.com/2022-10-18/4262795442640_95e7a4ad5c7f1a455980_72.jpg",
+      "first_name": "Marc",
+      "real_name": "Marc Peter Dauter",
+      "display_name": "Marc Peter Dauter",
+      "team": "T03NM2X0JCR",
+      "name": "marc.dauter",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

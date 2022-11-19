@@ -1,0 +1,127 @@
+[
+  {
+    "client_msg_id": "106b4c3e-2a26-42bb-b3f8-202ac116252f",
+    "type": "message",
+    "user": "U03NKPQSAA0",
+    "text": "Hi \u003c!channel\u003e, just a little reminder that you will have a *Touchpoint session* with \u003c@U041YEBQVHB\u003e on *Monday at 6pm* :rocket:\nHave a nice week!",
+    "ts": "1668781210.622759",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "wink",
+        "count": 3,
+        "users": [
+          "U03NWL0SHQR",
+          "U03NJ0VSF8A",
+          "U041YEBQVHB"
+        ]
+      },
+      {
+        "name": "this-is-fine",
+        "count": 1,
+        "users": [
+          "U03NJ0V8G2W"
+        ]
+      },
+      {
+        "name": "innocent",
+        "count": 1,
+        "users": [
+          "U041YEBQVHB"
+        ]
+      },
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U041YEBQVHB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WyS1b",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": ", just a little reminder that you will have a"
+              },
+              {
+                "type": "text",
+                "text": " Touchpoint session ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "with "
+              },
+              {
+                "type": "user",
+                "user_id": "U041YEBQVHB"
+              },
+              {
+                "type": "text",
+                "text": " on "
+              },
+              {
+                "type": "text",
+                "text": "Monday at 6pm",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "rocket",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\nHave a nice week!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "161b83e3a9a4",
+      "image_72": "https://avatars.slack-edge.com/2022-10-18/4224394580103_161b83e3a9a4989c5f84_72.png",
+      "first_name": "Joyce",
+      "real_name": "Joyce Bride - Program",
+      "display_name": "Joyce Bride",
+      "team": "T03NM2X0JCR",
+      "name": "joyce.bride",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

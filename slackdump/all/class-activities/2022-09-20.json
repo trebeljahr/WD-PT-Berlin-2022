@@ -1,0 +1,522 @@
+[
+  {
+    "client_msg_id": "2a90c38a-7ac8-495c-b96a-77f9061d1969",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "\u003chttps://prod.liveshare.vsengsaas.visualstudio.com/join?B38A43B198161E61CAE004F72DD45C684788\u003e",
+    "ts": "1663692081.208459",
+    "attachments": [
+      {
+        "fallback": "Visual Studio Code for the Web",
+        "id": 1,
+        "title": "Visual Studio Code for the Web",
+        "title_link": "https://prod.liveshare.vsengsaas.visualstudio.com/join?B38A43B198161E61CAE004F72DD45C684788",
+        "text": "Build with Visual Studio Code, anywhere, anytime, entirely in your browser.",
+        "service_name": "vscode.dev",
+        "from_url": "https://prod.liveshare.vsengsaas.visualstudio.com/join?B38A43B198161E61CAE004F72DD45C684788",
+        "original_url": "https://prod.liveshare.vsengsaas.visualstudio.com/join?B38A43B198161E61CAE004F72DD45C684788",
+        "blocks": null
+      }
+    ],
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nHMc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://prod.liveshare.vsengsaas.visualstudio.com/join?B38A43B198161E61CAE004F72DD45C684788",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0d79eee7-dca1-48aa-90e6-4ca879af821d",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "Exercise:\nBuild a recursive algorithm that finds the greatest common divisor of two numbers.\nTime: 30 mins",
+    "ts": "1663695720.960909",
+    "thread_ts": "1663695720.960909",
+    "last_read": "1663697051.149259",
+    "subscribed": true,
+    "reply_count": 7,
+    "replies": [
+      {
+        "user": "U03P4005U76",
+        "ts": "1663695944.295109"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1663696381.475599"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1663696593.843909"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1663696596.039049"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1663696798.933729"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1663696970.176009"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1663697051.149259"
+      }
+    ],
+    "latest_reply": "1663697051.149259",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HsBo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Exercise:\nBuild a recursive algorithm that finds the greatest common divisor of two numbers.\nTime: 30 mins"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U03P4005U76"
+    ]
+  },
+  {
+    "client_msg_id": "9e1f81af-b32c-421c-aa14-4951963d7f40",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "a hint that might help:\n\nrules:\n`if y is zero then x is the gcd`, else `the gcd is always the gcd of y and remainder of x/y`",
+    "ts": "1663695944.295109",
+    "thread_ts": "1663695720.960909",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=xw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "a hint that might help:\n\nrules:\n"
+              },
+              {
+                "type": "text",
+                "text": "if y is zero then x is the gcd",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ", else "
+              },
+              {
+                "type": "text",
+                "text": "the gcd is always the gcd of y and remainder of x/y",
+                "style": {
+                  "code": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c2cce969-aab8-4519-b599-8f2b859f058a",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "for those who are quick - you can try writing a binary search next.\n\nidea here would be you have a sorted list of ascending numbers.\n\nyou want to find some number x in the list.\n\nyou can bascially divide the list into 2 parts -\u0026gt; left + right, along the middle.\n\nIf the middle index is your element, your'e done (base case)\n\nElse you recurse -\u0026gt; either searching the right part of the array if x \u0026gt; middle or the left part if x \u0026lt; middle",
+    "ts": "1663696381.475599",
+    "thread_ts": "1663695720.960909",
+    "edited": {
+      "user": "U03P4005U76",
+      "ts": "1663697079.000000"
+    },
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TJ=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "for those who are quick - you can try writing a binary search next.\n\nidea here would be you have a sorted list of ascending numbers.\n\nyou want to find some number x in the list.\n\nyou can bascially divide the list into 2 parts -\u003e left + right, along the middle.\n\nIf the middle index is your element, your'e done (base case)\n\nElse you recurse -\u003e either searching the right part of the array if x \u003e middle or the left part if x \u003c middle"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e7569182-b6eb-41d2-8724-b4d2338b8170",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "right part would start from (middle + 1) and reach until the end",
+    "ts": "1663696593.843909",
+    "thread_ts": "1663695720.960909",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Cz5bS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "right part would start from (middle + 1) and reach until the end"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2c50b080-8a44-440d-926f-3cfd6a390031",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "left part would start from beginning and reach until (middle - 1)",
+    "ts": "1663696596.039049",
+    "thread_ts": "1663695720.960909",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zOM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "left part would start from beginning and reach until (middle - 1)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c240c59e-ff8b-4fa1-8824-fa52ef6e3198",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "this would be the kata for it :wink:\n\u003chttps://practice.geeksforgeeks.org/problems/who-will-win-1587115621/1\u003e",
+    "ts": "1663696798.933729",
+    "thread_ts": "1663695720.960909",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Xt74A",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this would be the kata for it "
+              },
+              {
+                "type": "emoji",
+                "name": "wink",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://practice.geeksforgeeks.org/problems/who-will-win-1587115621/1",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ebe0b616-1f6b-4c12-9510-feb889b2f0d4",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "also btw.\nthe Algorithm for GCD is known as Euclids Algorithm. And its old\n\u003chttps://en.wikipedia.org/wiki/Euclidean_algorithm\u003e",
+    "ts": "1663696970.176009",
+    "thread_ts": "1663695720.960909",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Pa/xX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "also btw.\nthe Algorithm for GCD is known as Euclids Algorithm. And its old\n"
+              },
+              {
+                "type": "link",
+                "url": "https://en.wikipedia.org/wiki/Euclidean_algorithm",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9a5a046d-1d96-4636-938f-8578cef5a9ec",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "also, another fun fact, most (not quite sure, maybe even all) recursive algorithms can be written with iterative methods as well.",
+    "ts": "1663697051.149259",
+    "thread_ts": "1663695720.960909",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/9GJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "also, another fun fact, most (not quite sure, maybe even all) recursive algorithms can be written with iterative methods as well."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "client_msg_id": "342807d5-1e10-4a9b-ae00-f09695ca819d",
+    "type": "message",
+    "user": "U03NWL0SHQR",
+    "text": "I took me about 40 days to build the laser cutter (counting between the first and the last pictures), maybe with an average time of 3h to 4h/day.",
+    "ts": "1668866423.736269",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "fire",
+        "count": 1,
+        "users": [
+          "U03NF3FU4CD"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ewNCl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I took me about 40 days to build the laser cutter (counting between the first and the last pictures), maybe with an average time of 3h to 4h/day."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "74ac6c12d62e",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3767739155858_74ac6c12d62eaa26467e_72.jpg",
+      "first_name": "João",
+      "real_name": "João Serafim",
+      "display_name": "João Serafim",
+      "team": "T03NM2X0JCR",
+      "name": "serafim.joao",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "eeebc897-71ce-414c-a97d-f01daf9e8368",
+    "type": "message",
+    "user": "U03NBCRJ99U",
+    "text": ":scream:",
+    "ts": "1668866448.866659",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MGtq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "scream",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g573a376398a",
+      "image_72": "https://secure.gravatar.com/avatar/573a376398a82acb061e12fb20ba25f7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Antonio",
+      "real_name": "Antonio Vara Piquer",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "ghezath",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

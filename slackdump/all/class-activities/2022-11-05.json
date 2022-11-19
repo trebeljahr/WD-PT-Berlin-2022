@@ -1,0 +1,230 @@
+[
+  {
+    "client_msg_id": "b7453d1f-f489-4d10-8f16-da490d813948",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "I'll be a bit late for class today, maybe 4-5 minutes. Still walking back home.",
+    "ts": "1667638593.047339",
+    "thread_ts": "1667638593.047339",
+    "last_read": "1667638757.717529",
+    "subscribed": true,
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U03NF3FU4CD",
+        "ts": "1667638757.717529"
+      }
+    ],
+    "latest_reply": "1667638757.717529",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "count": 2,
+        "users": [
+          "U03NF3FU4CD",
+          "U03NLD7B69J"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7G=s",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'll be a bit late for class today, maybe 4-5 minutes. Still walking back home."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U03NF3FU4CD"
+    ]
+  },
+  {
+    "client_msg_id": "0b122f6c-9ac6-4a21-879e-0ddee9c671dd",
+    "type": "message",
+    "user": "U03NF3FU4CD",
+    "text": "Josh is also gonna be a bit late because he forgot the charger at home and is biking back there to take it",
+    "ts": "1667638757.717529",
+    "thread_ts": "1667638593.047339",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vRTb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Josh is also gonna be a bit late because he forgot the charger at home and is biking back there to take it"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "gffbd1f8138d",
+      "image_72": "https://secure.gravatar.com/avatar/ffbd1f8138d8ce7282914f927aa4c382.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Hector",
+      "real_name": "Hector Fernandez",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "hfernandez04",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "32221d13-0e17-48ce-95d2-790f56cfed77",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "\u003chttps://prod.liveshare.vsengsaas.visualstudio.com/join?B76A8CF6D201DA52A73FAE639F78A5654190\u003e",
+    "ts": "1667639630.583989",
+    "attachments": [
+      {
+        "fallback": "Visual Studio Code for the Web",
+        "id": 1,
+        "title": "Visual Studio Code for the Web",
+        "title_link": "https://prod.liveshare.vsengsaas.visualstudio.com/join?B76A8CF6D201DA52A73FAE639F78A5654190",
+        "text": "Build with Visual Studio Code, anywhere, anytime, entirely in your browser.",
+        "service_name": "vscode.dev",
+        "from_url": "https://prod.liveshare.vsengsaas.visualstudio.com/join?B76A8CF6D201DA52A73FAE639F78A5654190",
+        "original_url": "https://prod.liveshare.vsengsaas.visualstudio.com/join?B76A8CF6D201DA52A73FAE639F78A5654190",
+        "blocks": null
+      }
+    ],
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eZV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://prod.liveshare.vsengsaas.visualstudio.com/join?B76A8CF6D201DA52A73FAE639F78A5654190",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8810fc5a-1a69-4d05-aa5e-14ccec82c0c7",
+    "type": "message",
+    "user": "U03NWL0SHQR",
+    "text": "Daily sit down? :grinning:",
+    "ts": "1667664265.429049",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NF+C",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Daily sit down? "
+              },
+              {
+                "type": "emoji",
+                "name": "grinning",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "74ac6c12d62e",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3767739155858_74ac6c12d62eaa26467e_72.jpg",
+      "first_name": "João",
+      "real_name": "João Serafim",
+      "display_name": "João Serafim",
+      "team": "T03NM2X0JCR",
+      "name": "serafim.joao",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]
