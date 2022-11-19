@@ -1,0 +1,181 @@
+[
+  {
+    "client_msg_id": "e10d4ea5-5495-4c97-8a9a-105937ec9ef7",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "\u003chttps://github.com/public-apis/public-apis\u003e",
+    "ts": "1661927535.362629",
+    "thread_ts": "1661927535.362629",
+    "attachments": [
+      {
+        "color": "24292f",
+        "fallback": "public-apis/public-apis",
+        "id": 1,
+        "title": "public-apis/public-apis",
+        "text": "A collective list of free APIs",
+        "fields": [
+          {
+            "title": "Website",
+            "value": "\u003chttp://public-apis.org\u003e",
+            "short": true
+          },
+          {
+            "title": "Stars",
+            "value": "207405",
+            "short": true
+          }
+        ],
+        "blocks": null
+      }
+    ],
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1661961163.219689"
+      }
+    ],
+    "latest_reply": "1661961163.219689",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "S5itD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/public-apis/public-apis",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U03NJ0VSF8A"
+    ]
+  },
+  {
+    "client_msg_id": "bb241eff-8724-4160-afe3-b090921c18ef",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "fun!",
+    "ts": "1661961163.219689",
+    "thread_ts": "1661927535.362629",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/y6bQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "fun!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "464c20bd-f99f-4287-b86a-1b9775196c29",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "Maybe it was in the prework install list, but installing a JSON viewer extension into your browser is nice. (JSON Lite, JSONView) Also there are tools like this: \u003chttps://jsoncrack.com/editor\u003e",
+    "ts": "1661975349.530539",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5fq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Maybe it was in the prework install list, but installing a JSON viewer extension into your browser is nice. (JSON Lite, JSONView) Also there are tools like this: "
+              },
+              {
+                "type": "link",
+                "url": "https://jsoncrack.com/editor",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

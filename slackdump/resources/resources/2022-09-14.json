@@ -1,0 +1,193 @@
+[
+  {
+    "client_msg_id": "f83cc0f5-5450-4a84-96d7-2df0e79595be",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "If you change this setting in VSCode to \"short\" then a small tag will be displayed identifying where your open files are located. Kinda neat when you have 3 index.js files open",
+    "ts": "1663154843.828329",
+    "edited": {
+      "user": "U03NJ0VSF8A",
+      "ts": "1663154866.000000"
+    },
+    "files": [
+      {
+        "id": "F041X7Q9CJ3",
+        "created": 1663154837,
+        "timestamp": 1663154837,
+        "name": "Screenshot_2.jpg",
+        "title": "Screenshot_2.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U03NJ0VSF8A",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 67378,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F041X7Q9CJ3-Screenshot_2.jpg",
+        "url_private_download": "attachments/F041X7Q9CJ3-Screenshot_2.jpg",
+        "original_h": 601,
+        "original_w": 1086,
+        "thumb_64": "https://files.slack.com/files-tmb/T03NM2X0JCR-F041X7Q9CJ3-24cc9090e0/screenshot_2_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T03NM2X0JCR-F041X7Q9CJ3-24cc9090e0/screenshot_2_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T03NM2X0JCR-F041X7Q9CJ3-24cc9090e0/screenshot_2_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T03NM2X0JCR-F041X7Q9CJ3-24cc9090e0/screenshot_2_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 199,
+        "thumb_480": "https://files.slack.com/files-tmb/T03NM2X0JCR-F041X7Q9CJ3-24cc9090e0/screenshot_2_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 266,
+        "thumb_720": "https://files.slack.com/files-tmb/T03NM2X0JCR-F041X7Q9CJ3-24cc9090e0/screenshot_2_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 398,
+        "thumb_960": "https://files.slack.com/files-tmb/T03NM2X0JCR-F041X7Q9CJ3-24cc9090e0/screenshot_2_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 531,
+        "thumb_1024": "https://files.slack.com/files-tmb/T03NM2X0JCR-F041X7Q9CJ3-24cc9090e0/screenshot_2_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 567,
+        "permalink": "https://wd-pt-12jul.slack.com/files/U03NJ0VSF8A/F041X7Q9CJ3/screenshot_2.jpg",
+        "permalink_public": "https://slack-files.com/T03NM2X0JCR-F041X7Q9CJ3-85eed1d0f8",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F042568B2P8",
+        "created": 1663154840,
+        "timestamp": 1663154840,
+        "name": "Screenshot_3.jpg",
+        "title": "Screenshot_3.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U03NJ0VSF8A",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 6506,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F042568B2P8-Screenshot_3.jpg",
+        "url_private_download": "attachments/F042568B2P8-Screenshot_3.jpg",
+        "original_h": 54,
+        "original_w": 671,
+        "thumb_64": "https://files.slack.com/files-tmb/T03NM2X0JCR-F042568B2P8-41611f8bf6/screenshot_3_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T03NM2X0JCR-F042568B2P8-41611f8bf6/screenshot_3_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T03NM2X0JCR-F042568B2P8-41611f8bf6/screenshot_3_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T03NM2X0JCR-F042568B2P8-41611f8bf6/screenshot_3_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 29,
+        "thumb_480": "https://files.slack.com/files-tmb/T03NM2X0JCR-F042568B2P8-41611f8bf6/screenshot_3_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 39,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://wd-pt-12jul.slack.com/files/U03NJ0VSF8A/F042568B2P8/screenshot_3.jpg",
+        "permalink_public": "https://slack-files.com/T03NM2X0JCR-F042568B2P8-89f190c00c",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "star-struck",
+        "count": 1,
+        "users": [
+          "U03NJ0V8G2W"
+        ]
+      },
+      {
+        "name": "clap",
+        "count": 1,
+        "users": [
+          "U03NF3FU4CD"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iAIf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If you change this setting in VSCode to \"short\" then a small tag will be displayed identifying where your open files are located. Kinda neat when you have 3 index.js files open"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

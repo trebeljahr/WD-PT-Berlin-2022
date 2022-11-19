@@ -1,0 +1,59 @@
+[
+  {
+    "client_msg_id": "2d80b08d-4be8-4f36-bb89-06213523b039",
+    "type": "message",
+    "user": "U03NWL0SHQR",
+    "text": "\u003chttps://twitter.com/DThompsonDev/status/1570394233915293697?s=20\u0026amp;t=ErnZglQl7Oq-dB7iVOASkA\u003e",
+    "ts": "1663358503.730669",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "rolling_on_the_floor_laughing",
+        "count": 2,
+        "users": [
+          "U03NF3FU4CD",
+          "U03NJ0VSF8A"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mKG0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://twitter.com/DThompsonDev/status/1570394233915293697?s=20\u0026t=ErnZglQl7Oq-dB7iVOASkA",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "74ac6c12d62e",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3767739155858_74ac6c12d62eaa26467e_72.jpg",
+      "first_name": "João",
+      "real_name": "João Serafim",
+      "display_name": "João Serafim",
+      "team": "T03NM2X0JCR",
+      "name": "serafim.joao",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

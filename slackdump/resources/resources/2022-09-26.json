@@ -1,0 +1,163 @@
+[
+  {
+    "client_msg_id": "c2403737-3e01-4f2e-bc94-3f4388e4b19e",
+    "type": "message",
+    "user": "U03NWL0SHQR",
+    "text": "Think these are useful best practices... \u003chttps://github.com/ryanmcdermott/clean-code-javascript\u003e",
+    "ts": "1664183944.349699",
+    "thread_ts": "1664183944.349699",
+    "attachments": [
+      {
+        "color": "24292f",
+        "fallback": "ryanmcdermott/clean-code-javascript",
+        "id": 1,
+        "title": "ryanmcdermott/clean-code-javascript",
+        "text": ":bathtub: Clean Code concepts adapted for JavaScript",
+        "fields": [
+          {
+            "title": "Stars",
+            "value": "72972",
+            "short": true
+          },
+          {
+            "title": "Language",
+            "value": "JavaScript",
+            "short": true
+          }
+        ],
+        "blocks": null
+      }
+    ],
+    "edited": {
+      "user": "U03NWL0SHQR",
+      "ts": "1664184011.000000"
+    },
+    "last_read": "1664275101.556919",
+    "subscribed": true,
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U03P4005U76",
+        "ts": "1664275101.556919"
+      }
+    ],
+    "latest_reply": "1664275101.556919",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "the_horns::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U03NJ0VSF8A"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "byseR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Think these are useful best practices... "
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "74ac6c12d62e",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3767739155858_74ac6c12d62eaa26467e_72.jpg",
+      "first_name": "João",
+      "real_name": "João Serafim",
+      "display_name": "João Serafim",
+      "team": "T03NM2X0JCR",
+      "name": "serafim.joao",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U03P4005U76"
+    ]
+  },
+  {
+    "client_msg_id": "9b458f1b-e789-4fd9-99dc-aa962015563b",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "\u003chttps://www.npmjs.com/package/js-explorer\u003e",
+    "ts": "1664214053.861559",
+    "attachments": [
+      {
+        "fallback": "npm: js-explorer",
+        "id": 1,
+        "title": "js-explorer",
+        "title_link": "https://www.npmjs.com/package/js-explorer",
+        "text": "A terminal-based resource to help you find js methods without digging through the docs. Latest version: 1.1.7, last published: a year ago. Start using js-explorer in your project by running `npm i js-explorer`. There are no other projects in the npm registry using js-explorer.",
+        "thumb_url": "https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png",
+        "service_name": "npm",
+        "service_icon": "https://static.npmjs.com/58a19602036db1daee0d7863c94673a4.png",
+        "from_url": "https://www.npmjs.com/package/js-explorer",
+        "original_url": "https://www.npmjs.com/package/js-explorer",
+        "blocks": null
+      }
+    ],
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8F2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.npmjs.com/package/js-explorer",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

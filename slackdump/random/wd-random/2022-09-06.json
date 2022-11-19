@@ -1,0 +1,69 @@
+[
+  {
+    "client_msg_id": "05ad900f-02f4-4181-85b3-b8a57ea725e8",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "About Databases and doing backups\n\u003chttps://www.youtube.com/watch?v=X6NJkWbM1xk\u003e",
+    "ts": "1662489162.500699",
+    "attachments": [
+      {
+        "fallback": "YouTube Video: The Worst Typo I Ever Made",
+        "id": 1,
+        "author_name": "Tom Scott",
+        "author_link": "https://www.youtube.com/c/TomScottGo",
+        "title": "The Worst Typo I Ever Made",
+        "title_link": "https://www.youtube.com/watch?v=X6NJkWbM1xk",
+        "thumb_url": "https://i.ytimg.com/vi/X6NJkWbM1xk/hqdefault.jpg",
+        "service_name": "YouTube",
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "from_url": "https://www.youtube.com/watch?v=X6NJkWbM1xk",
+        "original_url": "https://www.youtube.com/watch?v=X6NJkWbM1xk",
+        "blocks": null
+      }
+    ],
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "itZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "About Databases and doing backups\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=X6NJkWbM1xk",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

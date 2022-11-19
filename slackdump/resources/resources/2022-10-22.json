@@ -1,0 +1,97 @@
+[
+  {
+    "client_msg_id": "3eee1631-20c2-41cf-83c3-3504206132e2",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "\u003c@U03P4005U76\u003e \u003chttps://slack.com/help/articles/201658943-Export-your-workspace-data#:~:text=Export%20data%20from%20all%20channels%20and%20conversations,-Org%20Owners%20can\u0026amp;text=Click%20Security%20in%20the%20left,Click%20Start\u003e.",
+    "ts": "1666447415.688319",
+    "thread_ts": "1666447415.688319",
+    "attachments": [
+      {
+        "fallback": "Slack Help Center: Export your workspace data",
+        "id": 1,
+        "title": "Export your workspace data",
+        "title_link": "https://slack.com/help/articles/201658943-Export-your-workspace-data#:~:text=Export%20data%20from%20all%20channels%20and%20conversations,-Org%20Owners%20can\u0026text=Click%20Security%20in%20the%20left,Click%20Start",
+        "text": "With Slack, you can export data from your workspace or Enterprise Grid organization. Depending on your plan, you may have a few options for data exports:   Free Pro Business+ Enterprise Grid ...",
+        "thumb_url": "https://a.slack-edge.com/80588/marketing/img/meta/slack_hash_256.png",
+        "service_name": "Slack Help Center",
+        "service_icon": "https://a.slack-edge.com/5f35cf0/img/icons/favicon-32-ua.png",
+        "from_url": "https://slack.com/help/articles/201658943-Export-your-workspace-data#:~:text=Export%20data%20from%20all%20channels%20and%20conversations,-Org%20Owners%20can\u0026text=Click%20Security%20in%20the%20left,Click%20Start",
+        "original_url": "https://slack.com/help/articles/201658943-Export-your-workspace-data#:~:text=Export%20data%20from%20all%20channels%20and%20conversations,-Org%20Owners%20can\u0026amp;text=Click%20Security%20in%20the%20left,Click%20Start",
+        "blocks": null
+      }
+    ],
+    "last_read": "1666557981.205049",
+    "subscribed": true,
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U03P4005U76",
+        "ts": "1666557890.526049"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1666557980.696769"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1666557981.205049"
+      }
+    ],
+    "latest_reply": "1666557981.205049",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "euvm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03P4005U76"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "link",
+                "url": "https://slack.com/help/articles/201658943-Export-your-workspace-data#:~:text=Export%20data%20from%20all%20channels%20and%20conversations,-Org%20Owners%20can\u0026text=Click%20Security%20in%20the%20left,Click%20Start",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U03P4005U76"
+    ]
+  }
+]

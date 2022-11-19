@@ -1,0 +1,185 @@
+[
+  {
+    "client_msg_id": "89272362-095d-46a0-9a86-36b673c59d18",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "I love this channel. These get funnier and funnier the more you know ^^",
+    "ts": "1668704967.399419",
+    "thread_ts": "1667656242.341269",
+    "edited": {
+      "user": "U03P4005U76",
+      "ts": "1668704987.000000"
+    },
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Vhm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I love this channel. These get funnier and funnier the more you know ^^"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ecb05ff3-c525-4186-abf0-aa12959c7177",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "this is so awesome :slightly_smiling_face:",
+    "ts": "1668705023.761619",
+    "thread_ts": "1667651265.757229",
+    "parent_user_id": "U03NWL0SHQR",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "pray::skin-tone-4",
+        "count": 1,
+        "users": [
+          "U03NWL0SHQR"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rEB2P",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this is so awesome "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7ec161cf-b97c-433b-a1ec-6924ddb06a2e",
+    "type": "message",
+    "user": "U03NF3FU4CD",
+    "text": "A nice interview from Sadhguru. (I like what he said about the knowledge :wink:  ):\n\u003chttps://www.youtube.com/watch?v=IAoffyn2xpM\u003e\nMaybe you already heard of this: \u003chttps://consciousplanet.org/\u003e",
+    "ts": "1668707408.717109",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "f51",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "A nice interview from Sadhguru. (I like what he said about the knowledge "
+              },
+              {
+                "type": "emoji",
+                "name": "wink",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "  ):\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=IAoffyn2xpM",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\nMaybe you already heard of this: "
+              },
+              {
+                "type": "link",
+                "url": "https://consciousplanet.org/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "gffbd1f8138d",
+      "image_72": "https://secure.gravatar.com/avatar/ffbd1f8138d8ce7282914f927aa4c382.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Hector",
+      "real_name": "Hector Fernandez",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "hfernandez04",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

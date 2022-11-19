@@ -1,0 +1,78 @@
+[
+  {
+    "client_msg_id": "69a68b02-2d99-48d8-b5af-d5a3727e3e60",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "\u003chttps://youtu.be/pEfrdAtAmqk|https://youtu.be/pEfrdAtAmqk\u003e",
+    "ts": "1662298538.746009",
+    "thread_ts": "1662298538.746009",
+    "attachments": [
+      {
+        "fallback": "YouTube Video: God-Tier Developer Roadmap",
+        "id": 1,
+        "author_name": "Fireship",
+        "author_link": "https://www.youtube.com/c/Fireship",
+        "title": "God-Tier Developer Roadmap",
+        "title_link": "https://youtu.be/pEfrdAtAmqk",
+        "thumb_url": "https://i.ytimg.com/vi/pEfrdAtAmqk/hqdefault.jpg",
+        "service_name": "YouTube",
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "from_url": "https://youtu.be/pEfrdAtAmqk",
+        "original_url": "https://youtu.be/pEfrdAtAmqk",
+        "blocks": null
+      }
+    ],
+    "last_read": "1662402551.963999",
+    "subscribed": true,
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1662402551.963999"
+      }
+    ],
+    "latest_reply": "1662402551.963999",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "E6+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://youtu.be/pEfrdAtAmqk",
+                "text": "https://youtu.be/pEfrdAtAmqk"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U03NJ0VSF8A"
+    ]
+  }
+]

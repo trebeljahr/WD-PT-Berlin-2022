@@ -1,0 +1,66 @@
+[
+  {
+    "client_msg_id": "a1ab125f-6260-45c6-aaa2-41441336af93",
+    "type": "message",
+    "user": "U03NF3FU4CD",
+    "text": "I thought some of you could be interested :smile:  Guten Abend! \u003chttps://api.chucknorris.io/\u003e",
+    "ts": "1663702674.019999",
+    "edited": {
+      "user": "U03NF3FU4CD",
+      "ts": "1663702720.000000"
+    },
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yQLr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I thought some of you could be interested "
+              },
+              {
+                "type": "emoji",
+                "name": "smile",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "  Guten Abend! "
+              },
+              {
+                "type": "link",
+                "url": "https://api.chucknorris.io/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "gffbd1f8138d",
+      "image_72": "https://secure.gravatar.com/avatar/ffbd1f8138d8ce7282914f927aa4c382.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Hector",
+      "real_name": "Hector Fernandez",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "hfernandez04",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

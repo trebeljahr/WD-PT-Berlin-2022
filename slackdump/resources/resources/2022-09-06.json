@@ -1,0 +1,287 @@
+[
+  {
+    "client_msg_id": "fa3fea87-21f2-465d-8062-7c00af2c0e1d",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "\u003chttps://marketplace.visualstudio.com/items?itemName=WooodHead.vscode-wrap-console-log-simple\u003e",
+    "ts": "1662479939.467169",
+    "thread_ts": "1662479939.467169",
+    "attachments": [
+      {
+        "fallback": "Wrap Console Log Simple - Visual Studio Marketplace",
+        "id": 1,
+        "title": "Wrap Console Log Simple - Visual Studio Marketplace",
+        "title_link": "https://marketplace.visualstudio.com/items?itemName=WooodHead.vscode-wrap-console-log-simple",
+        "text": "Extension for Visual Studio Code - Wrap to console.log(or any function name) by word or selection",
+        "thumb_url": "https://wooodhead.gallerycdn.vsassets.io/extensions/wooodhead/vscode-wrap-console-log-simple/1.6.25/1646876614057/Microsoft.VisualStudio.Services.Icons.Default",
+        "service_name": "marketplace.visualstudio.com",
+        "service_icon": "https://marketplace.visualstudio.com/favicon.ico",
+        "from_url": "https://marketplace.visualstudio.com/items?itemName=WooodHead.vscode-wrap-console-log-simple",
+        "original_url": "https://marketplace.visualstudio.com/items?itemName=WooodHead.vscode-wrap-console-log-simple",
+        "blocks": null
+      }
+    ],
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1662480033.040579"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1662480046.451799"
+      }
+    ],
+    "latest_reply": "1662480046.451799",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PYscK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://marketplace.visualstudio.com/items?itemName=WooodHead.vscode-wrap-console-log-simple",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U03NJ0VSF8A"
+    ]
+  },
+  {
+    "client_msg_id": "923564d4-5dea-45dc-98c6-bb475c6b7f39",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "\u003chttps://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens\u003e",
+    "ts": "1662480033.040579",
+    "thread_ts": "1662479939.467169",
+    "attachments": [
+      {
+        "fallback": "Error Lens - Visual Studio Marketplace",
+        "id": 1,
+        "title": "Error Lens - Visual Studio Marketplace",
+        "title_link": "https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens",
+        "text": "Extension for Visual Studio Code - Improve highlighting of errors, warnings and other language diagnostics.",
+        "thumb_url": "https://usernamehw.gallerycdn.vsassets.io/extensions/usernamehw/errorlens/3.6.0/1658612570729/Microsoft.VisualStudio.Services.Icons.Default",
+        "service_name": "marketplace.visualstudio.com",
+        "service_icon": "https://marketplace.visualstudio.com/favicon.ico",
+        "from_url": "https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens",
+        "original_url": "https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens",
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+xxn6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bbc50611-4659-456c-84bb-f8e2f23ecf21",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "these are sick",
+    "ts": "1662480046.451799",
+    "thread_ts": "1662479939.467169",
+    "edited": {
+      "user": "U03NJ0VSF8A",
+      "ts": "1662480205.000000"
+    },
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/0Qf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "these are sick"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7b34bc7e-1727-433e-bb23-9dc379c9efad",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "ts": "1662485938.178549",
+    "files": [
+      {
+        "id": "F04191S29QS",
+        "created": 1662485934,
+        "timestamp": 1662485934,
+        "name": "movies.json",
+        "title": "movies.json",
+        "mimetype": "text/plain",
+        "image_exif_rotation": 0,
+        "filetype": "json",
+        "pretty_type": "JSON",
+        "user": "U03NJ0V8G2W",
+        "mode": "snippet",
+        "editable": true,
+        "is_external": false,
+        "external_type": "",
+        "size": 47783,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04191S29QS-movies.json",
+        "url_private_download": "attachments/F04191S29QS-movies.json",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://wd-pt-12jul.slack.com/files/U03NJ0V8G2W/F04191S29QS/movies.json",
+        "permalink_public": "https://slack-files.com/T03NM2X0JCR-F04191S29QS-463a39e227",
+        "edit_link": "https://wd-pt-12jul.slack.com/files/U03NJ0V8G2W/F04191S29QS/movies.json/edit",
+        "preview": "[\r\n  {\r\n    \"title\": \"The Shawshank Redemption\",\r\n    \"year\": 1994,\r\n    \"director\": \"Frank Darabont\",\r",
+        "preview_highlight": "\u003cdiv class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\"\u003e\n\u003cdiv class=\"CodeMirror-code\"\u003e\n\u003cdiv\u003e\u003cpre\u003e[\u003c/pre\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cpre\u003e  {\u003c/pre\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cpre\u003e    \u003cspan class=\"cm-string cm-property\"\u003e\u0026quot;title\u0026quot;\u003c/span\u003e: \u003cspan class=\"cm-string\"\u003e\u0026quot;The Shawshank Redemption\u0026quot;\u003c/span\u003e,\u003c/pre\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cpre\u003e    \u003cspan class=\"cm-string cm-property\"\u003e\u0026quot;year\u0026quot;\u003c/span\u003e: \u003cspan class=\"cm-number\"\u003e1994\u003c/span\u003e,\u003c/pre\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cpre\u003e    \u003cspan class=\"cm-string cm-property\"\u003e\u0026quot;director\u0026quot;\u003c/span\u003e: \u003cspan class=\"cm-string\"\u003e\u0026quot;Frank Darabont\u0026quot;\u003c/span\u003e,\u003c/pre\u003e\u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n",
+        "lines": 2003,
+        "lines_more": 1998,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

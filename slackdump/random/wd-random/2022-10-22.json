@@ -1,0 +1,184 @@
+[
+  {
+    "client_msg_id": "241a8402-21b8-42e6-a1e3-0e33c6283b47",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "I watched some of this now but do wonder – this years AI day they actually had a working robot, not a man in a suit.\n\nSure it's still slow as fuck and almost topples over but they built that thing in a year which is just freaking impressive :man-shrugging: and the people on the Tesla team are legends in the literature of machine learning (Andrej Karpathy to name a specific example).\n\nSo even if what Elon Musk promises is stupid and outlandish, the people that run the R\u0026amp;D at Tesla and SpaceX are freaking wizards.\n\nIn the end I think that calling Elon Musk a \"fraud\" is not capturing the whole picture. Sure he's done stupid shit and overpromises everything constantly, but that doesn't mean that the people at \"his\" companies don't pull of crazy engineering feats. Because they unarguably do.",
+    "ts": "1666427912.296849",
+    "thread_ts": "1664300173.414709",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IEqj3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I watched some of this now but do wonder – this years AI day they actually had a working robot, not a man in a suit.\n\nSure it's still slow as fuck and almost topples over but they built that thing in a year which is just freaking impressive "
+              },
+              {
+                "type": "emoji",
+                "name": "man-shrugging",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " and the people on the Tesla team are legends in the literature of machine learning (Andrej Karpathy to name a specific example).\n\nSo even if what Elon Musk promises is stupid and outlandish, the people that run the R\u0026D at Tesla and SpaceX are freaking wizards.\n\nIn the end I think that calling Elon Musk a \"fraud\" is not capturing the whole picture. Sure he's done stupid shit and overpromises everything constantly, but that doesn't mean that the people at \"his\" companies don't pull of crazy engineering feats. Because they unarguably do."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b7352fe7-4ee2-4ac4-8188-c035a064fc15",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "this is the conspiracy meme i mentioned. what the room at ironhack looks like. this guy should have his own emoji \u003chttps://i.kym-cdn.com/entries/icons/original/000/022/524/tumblr_o16n2kBlpX1ta3qyvo1_1280.jpg\u003e",
+    "ts": "1666431961.518689",
+    "attachments": [
+      {
+        "fallback": "1024x768px image",
+        "id": 1,
+        "image_url": "https://i.kym-cdn.com/entries/icons/original/000/022/524/tumblr_o16n2kBlpX1ta3qyvo1_1280.jpg",
+        "from_url": "https://i.kym-cdn.com/entries/icons/original/000/022/524/tumblr_o16n2kBlpX1ta3qyvo1_1280.jpg",
+        "original_url": "https://i.kym-cdn.com/entries/icons/original/000/022/524/tumblr_o16n2kBlpX1ta3qyvo1_1280.jpg",
+        "blocks": null
+      }
+    ],
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "rolling_on_the_floor_laughing",
+        "count": 1,
+        "users": [
+          "U03NF3FU4CD"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "32rj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this is the conspiracy meme i mentioned. what the room at ironhack looks like. this guy should have his own emoji "
+              },
+              {
+                "type": "link",
+                "url": "https://i.kym-cdn.com/entries/icons/original/000/022/524/tumblr_o16n2kBlpX1ta3qyvo1_1280.jpg",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "dca18fd6-101e-47d4-b905-068e935c40fe",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "has anyone ever seen a \"10 items or less\" line at a German grocery store? do they exist? it would REVOLUTIONIZE shopping at the kaufland, where I go on Saturdays at Ironhack to find lunch :lel:",
+    "ts": "1666436692.401589",
+    "edited": {
+      "user": "U03NJ0VSF8A",
+      "ts": "1666436933.000000"
+    },
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9Sm1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "has anyone ever seen a \"10 items or less\" line at a German grocery store? do they exist? it would REVOLUTIONIZE shopping at the kaufland, where I go on Saturdays at Ironhack to find lunch "
+              },
+              {
+                "type": "emoji",
+                "name": "lel",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

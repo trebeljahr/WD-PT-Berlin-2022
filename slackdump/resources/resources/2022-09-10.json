@@ -1,0 +1,116 @@
+[
+  {
+    "client_msg_id": "2b9633b6-c732-4b69-ad89-93158929ee4f",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "I didn´t thought of that, maybe it´s helping somebody...\nIt´s possible to open a second vsc window on another screen and use that vsc only for the terminal.\nit´s also possible to drag and drop terminals between vsc windows :exploding_head:",
+    "ts": "1662828967.399419",
+    "files": [
+      {
+        "id": "F041F58GQA3",
+        "created": 1662828960,
+        "timestamp": 1662828960,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03NJ0V8G2W",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 1763121,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F041F58GQA3-image.png",
+        "url_private_download": "attachments/F041F58GQA3-image.png",
+        "original_h": 1435,
+        "original_w": 2551,
+        "thumb_64": "https://files.slack.com/files-tmb/T03NM2X0JCR-F041F58GQA3-c558768b90/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T03NM2X0JCR-F041F58GQA3-c558768b90/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T03NM2X0JCR-F041F58GQA3-c558768b90/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T03NM2X0JCR-F041F58GQA3-c558768b90/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 203,
+        "thumb_480": "https://files.slack.com/files-tmb/T03NM2X0JCR-F041F58GQA3-c558768b90/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 270,
+        "thumb_720": "https://files.slack.com/files-tmb/T03NM2X0JCR-F041F58GQA3-c558768b90/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 405,
+        "thumb_960": "https://files.slack.com/files-tmb/T03NM2X0JCR-F041F58GQA3-c558768b90/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 540,
+        "thumb_1024": "https://files.slack.com/files-tmb/T03NM2X0JCR-F041F58GQA3-c558768b90/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 576,
+        "permalink": "https://wd-pt-12jul.slack.com/files/U03NJ0V8G2W/F041F58GQA3/image.png",
+        "permalink_public": "https://slack-files.com/T03NM2X0JCR-F041F58GQA3-303600121e",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "prF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I didn´t thought of that, maybe it´s helping somebody...\nIt´s possible to open a second vsc window on another screen and use that vsc only for the terminal.\nit´s also possible to drag and drop terminals between vsc windows "
+              },
+              {
+                "type": "emoji",
+                "name": "exploding_head",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

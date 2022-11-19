@@ -1,0 +1,98 @@
+[
+  {
+    "client_msg_id": "be8ae71c-3891-45a8-a4b3-ab9389215ffa",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "ARD once showed an interview of Musk standing in front of his Brandenburg Telsa factory saying that he didn't think it made sense to add laws on top of laws without removing any of the old laws.",
+    "ts": "1664456554.163169",
+    "thread_ts": "1664300173.414709",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "n=2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ARD once showed an interview of Musk standing in front of his Brandenburg Telsa factory saying that he didn't think it made sense to add laws on top of laws without removing any of the old laws."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f1bd63c8-3a0d-4e08-9a6b-2900029806fc",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "It made me laugh so much. Like, bro, where do you think you are? You chose to build a factory in Brandenburg! This is the land of laws on top of laws!",
+    "ts": "1664456607.445219",
+    "thread_ts": "1664300173.414709",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "k5m",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It made me laugh so much. Like, bro, where do you think you are? You chose to build a factory in Brandenburg! This is the land of laws on top of laws!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]
