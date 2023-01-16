@@ -1,0 +1,238 @@
+[
+  {
+    "client_msg_id": "596ed03f-9d69-448b-b53a-33a0f59540a1",
+    "type": "message",
+    "user": "U03NKPQSAA0",
+    "text": "Hey dear Part-timers, I hope you are all doing well!\nFor those who were planning to come for the Hackshow tomorrow at the Berlin campus, *wearing a mask is mandatory for everyone who attends (due to some covid cases).*\nThank you!",
+    "ts": "1671118655.992829",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ND1W",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey dear Part-timers, I hope you are all doing well!\nFor those who were planning to come for the Hackshow tomorrow at the Berlin campus,"
+              },
+              {
+                "type": "text",
+                "text": " wearing a mask is mandatory for everyone who attends (due to some covid cases).",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\nThank you!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "161b83e3a9a4",
+      "image_72": "https://avatars.slack-edge.com/2022-10-18/4224394580103_161b83e3a9a4989c5f84_72.png",
+      "first_name": "Joyce",
+      "real_name": "Joyce Bride - Program",
+      "display_name": "Joyce Bride",
+      "team": "T03NM2X0JCR",
+      "name": "joyce.bride",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7e57ca1d-67a0-4ee5-9a6d-13330cc9b309",
+    "type": "message",
+    "user": "U03NF3FU4CD",
+    "text": "Leaving for today guys! Just to exhausted. CU on Saturday! :i_love_you_hand_sign:",
+    "ts": "1671136207.607609",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "the_horns::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U03NJ0VSF8A"
+        ]
+      },
+      {
+        "name": "the_horns",
+        "count": 1,
+        "users": [
+          "U03NBCRJ99U"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HR/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Leaving for today guys! Just to exhausted. CU on Saturday! "
+              },
+              {
+                "type": "emoji",
+                "name": "i_love_you_hand_sign",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "gffbd1f8138d",
+      "image_72": "https://secure.gravatar.com/avatar/ffbd1f8138d8ce7282914f927aa4c382.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Hector",
+      "real_name": "Hector Fernandez",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "hfernandez04",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "93b75d84-96ad-4a50-86e8-f83633e405d1",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "I'm leaving zoom now, see you guys on Saturday. :sleeping_accommodation::skin-tone-3::zzz::thought_balloon::pizza:",
+    "ts": "1671136349.343949",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bbq7M",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm leaving zoom now, see you guys on Saturday. "
+              },
+              {
+                "type": "emoji",
+                "name": "sleeping_accommodation",
+                "skin_tone": 3
+              },
+              {
+                "type": "emoji",
+                "name": "zzz",
+                "skin_tone": 0
+              },
+              {
+                "type": "emoji",
+                "name": "thought_balloon",
+                "skin_tone": 0
+              },
+              {
+                "type": "emoji",
+                "name": "pizza",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2d2db30c-de96-49d5-88de-dbc8e1315cff",
+    "type": "message",
+    "user": "U03NBCRJ99U",
+    "text": "good night! time to rest",
+    "ts": "1671136375.935409",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "D8T3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "good night! time to rest"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g573a376398a",
+      "image_72": "https://secure.gravatar.com/avatar/573a376398a82acb061e12fb20ba25f7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Antonio",
+      "real_name": "Antonio Vara Piquer",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "ghezath",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

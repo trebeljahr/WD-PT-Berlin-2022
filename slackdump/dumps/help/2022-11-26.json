@@ -1,0 +1,328 @@
+[
+  {
+    "client_msg_id": "2a2c0868-58dc-4832-a8ab-28e7b3ac4685",
+    "type": "message",
+    "user": "U03NF3FU4CD",
+    "text": "Hola \u003c@U03P4005U76\u003e can you come our room? :slightly_smiling_face:",
+    "ts": "1669469124.680439",
+    "thread_ts": "1669469124.680439",
+    "last_read": "1669469140.017839",
+    "subscribed": true,
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U03P4005U76",
+        "ts": "1669469140.017839"
+      }
+    ],
+    "latest_reply": "1669469140.017839",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "eyes",
+        "count": 1,
+        "users": [
+          "U03P4005U76"
+        ]
+      },
+      {
+        "name": "white_check_mark",
+        "count": 1,
+        "users": [
+          "U03P4005U76"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6Yz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hola "
+              },
+              {
+                "type": "user",
+                "user_id": "U03P4005U76"
+              },
+              {
+                "type": "text",
+                "text": " can you come our room? "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "gffbd1f8138d",
+      "image_72": "https://secure.gravatar.com/avatar/ffbd1f8138d8ce7282914f927aa4c382.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Hector",
+      "real_name": "Hector Fernandez",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "hfernandez04",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U03P4005U76"
+    ]
+  },
+  {
+    "client_msg_id": "30ece01b-c531-4db6-bed7-205c8b5622cd",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "yep sure :+1:",
+    "ts": "1669469140.017839",
+    "thread_ts": "1669469124.680439",
+    "parent_user_id": "U03NF3FU4CD",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xiCz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yep sure "
+              },
+              {
+                "type": "emoji",
+                "name": "thumbsup",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "138758d0-c3db-42be-8e0c-4b9a296e93c2",
+    "type": "message",
+    "user": "U03NBCRJ99U",
+    "text": "Rico Plz again",
+    "ts": "1669472433.397239",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "eyes",
+        "count": 1,
+        "users": [
+          "U03P4005U76"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lT5s",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Rico Plz again"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g573a376398a",
+      "image_72": "https://secure.gravatar.com/avatar/573a376398a82acb061e12fb20ba25f7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Antonio",
+      "real_name": "Antonio Vara Piquer",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "ghezath",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "30efbd98-5226-4ea3-9236-d4c842745735",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "Whenever you're able Rico, please upload the Typescript class recordings",
+    "ts": "1669475375.216509",
+    "thread_ts": "1669475375.216509",
+    "last_read": "1669478703.566449",
+    "subscribed": true,
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U03P4005U76",
+        "ts": "1669478703.566449"
+      }
+    ],
+    "latest_reply": "1669478703.566449",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "count": 1,
+        "users": [
+          "U03P4005U76"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BPhfx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Whenever you're able Rico, please upload the Typescript class recordings"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U03P4005U76"
+    ]
+  },
+  {
+    "client_msg_id": "9982a7c9-3e1b-48e3-b84d-52214cc0730d",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "just uploaded the recordings for this week. You should be able to view all recordings now :+1:",
+    "ts": "1669478703.566449",
+    "thread_ts": "1669475375.216509",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "raised_hands::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U03NJ0VSF8A"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZWw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "just uploaded the recordings for this week. You should be able to view all recordings now "
+              },
+              {
+                "type": "emoji",
+                "name": "thumbsup",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

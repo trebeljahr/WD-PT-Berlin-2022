@@ -1,0 +1,68 @@
+[
+  {
+    "client_msg_id": "b3168781-3eb1-417c-9046-1860f0c6c93f",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "Some fun reading on HTTP \u003chttps://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for?utm_source=abyteofcodingnewsletter|https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for?utm_source=abyteofcodingnewsletter\u003e",
+    "ts": "1667072839.715019",
+    "attachments": [
+      {
+        "fallback": "fasterthanli.me: The HTTP crash course nobody asked for",
+        "id": 1,
+        "title": "The HTTP crash course nobody asked for",
+        "title_link": "https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for?utm_source=abyteofcodingnewsletter",
+        "text": "HTTP does a pretty good job staying out of everyone's way. If you're reading this article, there's a solid chance it was delivered to you over HTTP. Even if you're reading this ...",
+        "thumb_url": "https://fasterthanli.me/img/logo-square.png",
+        "service_name": "fasterthanli.me",
+        "service_icon": "https://fasterthanli.me/img/logo-round-2.png",
+        "from_url": "https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for?utm_source=abyteofcodingnewsletter",
+        "original_url": "https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for?utm_source=abyteofcodingnewsletter",
+        "blocks": null
+      }
+    ],
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "usWR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Some fun reading on HTTP "
+              },
+              {
+                "type": "link",
+                "url": "https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for?utm_source=abyteofcodingnewsletter",
+                "text": "https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for?utm_source=abyteofcodingnewsletter"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

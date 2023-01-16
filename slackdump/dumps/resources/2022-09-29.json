@@ -1,0 +1,698 @@
+[
+  {
+    "client_msg_id": "7d830be0-1667-4515-8c01-849c9f659f3b",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "\u003chttps://m.youtube.com/watch?v=18VM1xZQdXc|https://m.youtube.com/watch?v=18VM1xZQdXc\u003e",
+    "ts": "1664427505.784199",
+    "attachments": [
+      {
+        "fallback": "YouTube Video: Google Will Soon Kill Ad Blockers With Manifest V3 - What to do!",
+        "id": 1,
+        "author_name": "Mental Outlaw",
+        "author_link": "https://www.youtube.com/c/MentalOutlaw",
+        "title": "Google Will Soon Kill Ad Blockers With Manifest V3 - What to do!",
+        "title_link": "https://m.youtube.com/watch?v=18VM1xZQdXc",
+        "thumb_url": "https://i.ytimg.com/vi/18VM1xZQdXc/hqdefault.jpg",
+        "service_name": "YouTube",
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "from_url": "https://m.youtube.com/watch?v=18VM1xZQdXc",
+        "original_url": "https://m.youtube.com/watch?v=18VM1xZQdXc",
+        "blocks": null
+      }
+    ],
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MFe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://m.youtube.com/watch?v=18VM1xZQdXc",
+                "text": "https://m.youtube.com/watch?v=18VM1xZQdXc"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9cd40bcf-190d-43bb-ae98-e417fbca5dbf",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "SASS looks like fun...\n\u003chttps://www.youtube.com/watch?v=nu5mdN2JIwM\u003e",
+    "ts": "1664470391.983369",
+    "attachments": [
+      {
+        "fallback": "YouTube Video: Sass Crash Course",
+        "id": 1,
+        "author_name": "Traversy Media",
+        "author_link": "https://www.youtube.com/c/TraversyMedia",
+        "title": "Sass Crash Course",
+        "title_link": "https://www.youtube.com/watch?v=nu5mdN2JIwM",
+        "thumb_url": "https://i.ytimg.com/vi/nu5mdN2JIwM/hqdefault.jpg",
+        "service_name": "YouTube",
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "from_url": "https://www.youtube.com/watch?v=nu5mdN2JIwM",
+        "original_url": "https://www.youtube.com/watch?v=nu5mdN2JIwM",
+        "blocks": null
+      }
+    ],
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HjG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "SASS looks like fun...\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=nu5mdN2JIwM",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5e00db12-afab-4cb4-8aa0-341bd3d17c83",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "I think this little mini styler looks nice \u003chttps://picocss.com/\u003e",
+    "ts": "1664474099.465759",
+    "attachments": [
+      {
+        "fallback": "Pico.css: Pico.css • Minimal CSS Framework for semantic HTML",
+        "id": 1,
+        "title": "Pico.css • Minimal CSS Framework for semantic HTML",
+        "title_link": "https://picocss.com/",
+        "text": "Elegant styles for all natives HTML elements without .classes and dark mode automatically enabled. 7.9 kB minified and gzipped!",
+        "image_url": "https://picocss.com/img/opengraph.jpg",
+        "service_name": "Pico.css",
+        "service_icon": "https://picocss.com/img/apple-touch-icon.png",
+        "from_url": "https://picocss.com/",
+        "original_url": "https://picocss.com/",
+        "blocks": null
+      }
+    ],
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U03NF3FU4CD"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JNUdH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think this little mini styler looks nice "
+              },
+              {
+                "type": "link",
+                "url": "https://picocss.com/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d57e6633-9159-4050-9dc1-90d029c29d42",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "JAM stack related stuff:\n\u003chttps://ghost.org/\u003e\n\u003chttps://www.netlifycms.org/\u003e\n\u003chttps://nextjs.org/\u003e\n\u003chttps://www.gatsbyjs.com/\u003e\n\n\u003c@U03NF3FU4CD\u003e",
+    "ts": "1664474733.047699",
+    "thread_ts": "1664474733.047699",
+    "attachments": [
+      {
+        "fallback": "Ghost - The Professional Publishing Platform: Ghost: Turn your audience into a business",
+        "id": 1,
+        "title": "Ghost: Turn your audience into a business",
+        "title_link": "https://ghost.org/",
+        "text": "The world's most popular modern publishing platform for creating a new media platform. Used by Apple, SkyNews, Buffer, OpenAI, and thousands more.",
+        "image_url": "https://ghost.org/images/meta/ghost.png",
+        "service_name": "Ghost - The Professional Publishing Platform",
+        "service_icon": "https://ghost.org/favicon.ico",
+        "from_url": "https://ghost.org/",
+        "original_url": "https://ghost.org/",
+        "blocks": null
+      },
+      {
+        "fallback": "Netlify CMS | Open-Source Content Management System",
+        "id": 2,
+        "title": "Netlify CMS | Open-Source Content Management System",
+        "title_link": "https://www.netlifycms.org/",
+        "text": "Open source content management for your Git workflow",
+        "service_name": "NetlifyCMS",
+        "service_icon": "https://www.netlifycms.org/img/favicon/apple-touch-icon.png",
+        "from_url": "https://www.netlifycms.org/",
+        "original_url": "https://www.netlifycms.org/",
+        "blocks": null
+      },
+      {
+        "fallback": "Next.js by Vercel - The React Framework",
+        "id": 3,
+        "title": "Next.js by Vercel - The React Framework",
+        "title_link": "https://nextjs.org/",
+        "text": "Production grade React applications that scale. The world’s leading companies use Next.js by Vercel to build static and dynamic websites and web applications.",
+        "image_url": "https://assets.vercel.com/image/upload/v1662090959/front/nextjs/twitter-card.png",
+        "service_name": "nextjs.org",
+        "from_url": "https://nextjs.org/",
+        "original_url": "https://nextjs.org/",
+        "blocks": null
+      },
+      {
+        "fallback": "Gatsby: The Fastest Frontend for the Headless Web | Gatsby",
+        "id": 4,
+        "title": "The Fastest Frontend for the Headless Web | Gatsby",
+        "title_link": "https://www.gatsbyjs.com/",
+        "text": "Gatsby is a React-based open source framework with performance, scalability and security built-in. Collaborate, build and deploy 1000x faster with Gatsby Cloud.",
+        "image_url": "https://images.ctfassets.net/vkdbses00qqt/38yAjXH9hRko9noPZWrluI/9ca9142981f21a430d601bfbd483f511/Gatsby_Preview.png",
+        "service_name": "Gatsby",
+        "service_icon": "https://www.gatsbyjs.com/icons/icon-48x48.png?v=3ad5294f3fa6c06e2d07ab07c76df2cf",
+        "from_url": "https://www.gatsbyjs.com/",
+        "original_url": "https://www.gatsbyjs.com/",
+        "blocks": null
+      }
+    ],
+    "last_read": "1664475095.390779",
+    "subscribed": true,
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U03NF3FU4CD",
+        "ts": "1664475064.087629"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1664475095.390779"
+      }
+    ],
+    "latest_reply": "1664475095.390779",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "fire",
+        "count": 1,
+        "users": [
+          "U03NF3FU4CD"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yxWYU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "JAM stack related stuff:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://ghost.org/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.netlifycms.org/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://nextjs.org/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.gatsbyjs.com/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U03NF3FU4CD"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U03NF3FU4CD",
+      "U03P4005U76"
+    ]
+  },
+  {
+    "client_msg_id": "07866ae6-ee65-42cf-8efa-c06521d50652",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "there is a whole website dedicated to the idea",
+    "ts": "1664474772.874529",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cVo5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "there is a whole website dedicated to the idea"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a6da15e3-e748-4d93-b962-6fc1ba69e4f9",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "\u003chttps://jamstack.org/\u003e",
+    "ts": "1664474773.565499",
+    "attachments": [
+      {
+        "fallback": "Jamstack.org: For fast and secure sites | Jamstack",
+        "id": 1,
+        "title": "For fast and secure sites | Jamstack",
+        "title_link": "https://jamstack.org/",
+        "text": "What is the Jamstack? Why use the Jamstack? How do I get started? Learn what the Jamstack is all about and why it's the best approach for building faster, more secure websites.",
+        "image_url": "https://www.jamstack.org/img/og/default-og-image.png",
+        "service_name": "Jamstack.org",
+        "service_icon": "https://jamstack.org/img/favicons/apple-touch-icon.png",
+        "from_url": "https://jamstack.org/",
+        "original_url": "https://jamstack.org/",
+        "blocks": null
+      }
+    ],
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Jcj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://jamstack.org/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5ef6cd70-f4cc-4c97-9315-64fea39edbd4",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "theen there is also HUGO which I've heard very good things about, but not used so far.\n\u003chttps://gohugo.io/\u003e",
+    "ts": "1664474797.827449",
+    "attachments": [
+      {
+        "fallback": "The world’s fastest framework for building websites",
+        "id": 1,
+        "title": "The world’s fastest framework for building websites",
+        "title_link": "https://gohugo.io/",
+        "text": "The world’s fastest framework for building websites",
+        "image_url": "https://gohugo.io/featured.png",
+        "service_name": "gohugo.io",
+        "service_icon": "https://gohugo.io/apple-touch-icon.png",
+        "from_url": "https://gohugo.io/",
+        "original_url": "https://gohugo.io/",
+        "blocks": null
+      }
+    ],
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "n5oC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "theen there is also HUGO which I've heard very good things about, but not used so far.\n"
+              },
+              {
+                "type": "link",
+                "url": "https://gohugo.io/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f1d34c3d-5bda-4dc4-a58b-747dad3c483d",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "but I love it already because it's powered by Golang and Golang is awesome. Though. Rust is better :wink:",
+    "ts": "1664474824.157429",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2LU92",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "but I love it already because it's powered by Golang and Golang is awesome. Though. Rust is better "
+              },
+              {
+                "type": "emoji",
+                "name": "wink",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e416ee97-c8ee-420e-9328-0fb195b0e92c",
+    "type": "message",
+    "user": "U03NF3FU4CD",
+    "text": "Wow! Thank you.  I will dig into them :slightly_smiling_face:",
+    "ts": "1664475064.087629",
+    "thread_ts": "1664474733.047699",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "W9g",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Wow! Thank you.  I will dig into them "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "gffbd1f8138d",
+      "image_72": "https://secure.gravatar.com/avatar/ffbd1f8138d8ce7282914f927aa4c382.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Hector",
+      "real_name": "Hector Fernandez",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "hfernandez04",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8a2e3751-f127-4f67-9265-ead903025f5a",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "NextJS and Gatsby are kinda the same. I somehow like nextjs more though.",
+    "ts": "1664475095.390779",
+    "thread_ts": "1664474733.047699",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0az",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "NextJS and Gatsby are kinda the same. I somehow like nextjs more though."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

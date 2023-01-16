@@ -1,0 +1,213 @@
+[
+  {
+    "client_msg_id": "95fae19c-22de-402e-b989-81b5f0d2ff31",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "I have to go at 4pm today. I wish you all happy holidays and  a happy New Year! I look forward to finishing up our projects and the course in 2023!",
+    "ts": "1671284068.758819",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "santa",
+        "count": 1,
+        "users": [
+          "U03NLD7B69J"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BStz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have to go at 4pm today. I wish you all happy holidays and  a happy New Year! I look forward to finishing up our projects and the course in 2023!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "16fda209-012f-4a24-b5d8-849d20ad8416",
+    "type": "message",
+    "user": "U03NF3FU4CD",
+    "text": "Time for me to leave today! I wish you a nice day, happy New Year \u0026amp; Merry Christmas! :rolling_on_the_floor_laughing: Enjoy your holydays :fire::i_love_you_hand_sign:",
+    "ts": "1671284425.255369",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "wave::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U03NJ0VSF8A"
+        ]
+      },
+      {
+        "name": "santa",
+        "count": 1,
+        "users": [
+          "U03NLD7B69J"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YotBe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Time for me to leave today! I wish you a nice day, happy New Year \u0026 Merry Christmas! "
+              },
+              {
+                "type": "emoji",
+                "name": "rolling_on_the_floor_laughing",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Enjoy your holydays "
+              },
+              {
+                "type": "emoji",
+                "name": "fire",
+                "skin_tone": 0
+              },
+              {
+                "type": "emoji",
+                "name": "i_love_you_hand_sign",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "gffbd1f8138d",
+      "image_72": "https://secure.gravatar.com/avatar/ffbd1f8138d8ce7282914f927aa4c382.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Hector",
+      "real_name": "Hector Fernandez",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "hfernandez04",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "93209b9d-4f9e-43ea-9e1b-a9b3a48927e2",
+    "type": "message",
+    "user": "U03NBCRJ99U",
+    "text": "Leaving earlier today, I hope you will have a nice holydays and good time with your love ones! see you next year! happy New Year \u0026amp; Merry Christmas!:tada:",
+    "ts": "1671289144.593279",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "santa::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U03NJ0VSF8A"
+        ]
+      },
+      {
+        "name": "santa",
+        "count": 2,
+        "users": [
+          "U03NLD7B69J",
+          "U03NF3FU4CD"
+        ]
+      },
+      {
+        "name": "santa::skin-tone-4",
+        "count": 1,
+        "users": [
+          "U03NWL0SHQR"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "h5mie",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Leaving earlier today, I hope you will have a nice holydays and good time with your love ones! see you next year! happy New Year \u0026 Merry Christmas!"
+              },
+              {
+                "type": "emoji",
+                "name": "tada",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g573a376398a",
+      "image_72": "https://secure.gravatar.com/avatar/573a376398a82acb061e12fb20ba25f7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Antonio",
+      "real_name": "Antonio Vara Piquer",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "ghezath",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

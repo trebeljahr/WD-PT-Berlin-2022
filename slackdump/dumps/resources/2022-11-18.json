@@ -1,0 +1,116 @@
+[
+  {
+    "client_msg_id": "d00771a1-1ac4-4ee8-88be-f81d89c8cce0",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "A cool open source react project:\n\u003chttps://github.com/excalidraw/excalidraw\u003e\n\u003chttps://excalidraw.com/\u003e",
+    "ts": "1668766309.914979",
+    "thread_ts": "1668766309.914979",
+    "attachments": [
+      {
+        "fallback": "Excalidraw: Excalidraw — Collaborative whiteboarding made easy",
+        "id": 1,
+        "title": "Excalidraw — Collaborative whiteboarding made easy",
+        "title_link": "https://excalidraw.com/",
+        "text": "Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.",
+        "image_url": "https://excalidraw.com/og-fb-v1.png",
+        "service_name": "Excalidraw",
+        "from_url": "https://excalidraw.com/",
+        "original_url": "https://excalidraw.com/",
+        "blocks": null
+      },
+      {
+        "color": "24292f",
+        "fallback": "excalidraw/excalidraw",
+        "id": 2,
+        "title": "excalidraw/excalidraw",
+        "text": "Virtual whiteboard for sketching hand-drawn like diagrams",
+        "fields": [
+          {
+            "title": "Website",
+            "value": "\u003chttps://excalidraw.com\u003e",
+            "short": true
+          },
+          {
+            "title": "Stars",
+            "value": "35444",
+            "short": true
+          }
+        ],
+        "blocks": null
+      }
+    ],
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1668955103.331899"
+      }
+    ],
+    "latest_reply": "1668955103.331899",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "heart_eyes",
+        "count": 1,
+        "users": [
+          "U03NF3FU4CD"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wawh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "A cool open source react project:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/excalidraw/excalidraw",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://excalidraw.com/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U03NJ0VSF8A"
+    ]
+  }
+]

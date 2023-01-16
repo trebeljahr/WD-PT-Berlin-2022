@@ -1,0 +1,669 @@
+[
+  {
+    "client_msg_id": "367c581d-8e33-48af-83e7-4ee3727dec44",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "heyo \u003c!here\u003e I created the exports now. It's good enough I think... I am using this: \u003chttps://github.com/hfaran/slack-export-viewer\u003e to view them.\n```slack-export-viewer -z ./random```\ninstall pipx to run the python package. Then this command will be available. The conversations themselves are pushed to the repo in \"slackdump\" folder.",
+    "ts": "1668866441.187739",
+    "thread_ts": "1668866441.187739",
+    "last_read": "1668867539.957309",
+    "subscribed": true,
+    "reply_count": 9,
+    "replies": [
+      {
+        "user": "U03P4005U76",
+        "ts": "1668866479.822359"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668866497.475289"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668866498.586679"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668866579.501089"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668866610.345469"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668867405.097239"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668867431.885329"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668867539.228529"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668867539.957309"
+      }
+    ],
+    "latest_reply": "1668867539.957309",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U03NJ0VSF8A"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fPR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "heyo "
+              },
+              {
+                "type": "broadcast",
+                "range": "here"
+              },
+              {
+                "type": "text",
+                "text": " I created the exports now. It's good enough I think... I am using this: "
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/hfaran/slack-export-viewer",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": " to view them.\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"slack-export-viewer -z .\\/random\"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "install pipx to run the python package. Then this command will be available. The conversations themselves are pushed to the repo in \"slackdump\" folder."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U03P4005U76"
+    ]
+  },
+  {
+    "client_msg_id": "69cb96aa-a70b-44bc-a42d-7feff04b311f",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "and it works:",
+    "ts": "1668866479.822359",
+    "thread_ts": "1668866441.187739",
+    "parent_user_id": "U03P4005U76",
+    "files": [
+      {
+        "id": "F04BQ0P41QS",
+        "created": 1668866470,
+        "timestamp": 1668866470,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03P4005U76",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 404333,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04BQ0P41QS-image.png",
+        "url_private_download": "attachments/F04BQ0P41QS-image.png",
+        "original_h": 879,
+        "original_w": 1351,
+        "thumb_64": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BQ0P41QS-1e606c6804/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BQ0P41QS-1e606c6804/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BQ0P41QS-1e606c6804/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BQ0P41QS-1e606c6804/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 234,
+        "thumb_480": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BQ0P41QS-1e606c6804/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 312,
+        "thumb_720": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BQ0P41QS-1e606c6804/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 468,
+        "thumb_960": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BQ0P41QS-1e606c6804/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 625,
+        "thumb_1024": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BQ0P41QS-1e606c6804/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 666,
+        "permalink": "https://wd-pt-12jul.slack.com/files/U03P4005U76/F04BQ0P41QS/image.png",
+        "permalink_public": "https://slack-files.com/T03NM2X0JCR-F04BQ0P41QS-6d2959670a",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/4OzN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "and it works:"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "42f75eb9-b2c4-4a7b-96bb-ccd8bb333003",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "the link to the github.",
+    "ts": "1668866497.475289",
+    "thread_ts": "1668866441.187739",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GHG2L",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the link to the github."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ecee841a-cb6e-49ec-8229-16cc58a7b300",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "\u003chttps://github.com/trebeljahr/WD-PT-Berlin-2022/tree/main/slackdump\u003e",
+    "ts": "1668866498.586679",
+    "thread_ts": "1668866441.187739",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5UdJ1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/trebeljahr/WD-PT-Berlin-2022/tree/main/slackdump",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b3423ac8-7f52-43a1-91e2-414e98091df9",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "we could even host the whole thing on mattermost/discord I think/guess. but too much effort for what it's worth in my opinion, since this is good enough as an archive. Too bad that we lost the first few weeks or something of content though.",
+    "ts": "1668866579.501089",
+    "thread_ts": "1668866441.187739",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NMVw/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "we could even host the whole thing on mattermost/discord I think/guess. but too much effort for what it's worth in my opinion, since this is good enough as an archive. Too bad that we lost the first few weeks or something of content though."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "52b8cff0-f33a-4810-93b7-fd32546c6b72",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "I think \u003c#C03N5FRPHPF|wd-random\u003e and \u003c#C03P4HNE205|resources\u003e are the only channels that need to be backed up right?",
+    "ts": "1668866610.345469",
+    "thread_ts": "1668866441.187739",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-4",
+        "count": 1,
+        "users": [
+          "U03NWL0SHQR"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U03NJ0VSF8A"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TuA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think "
+              },
+              {
+                "type": "channel",
+                "channel_id": "C03N5FRPHPF"
+              },
+              {
+                "type": "text",
+                "text": " and "
+              },
+              {
+                "type": "channel",
+                "channel_id": "C03P4HNE205"
+              },
+              {
+                "type": "text",
+                "text": " are the only channels that need to be backed up right?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "218c9d3b-c5a2-431b-8dcf-52bb30175160",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "ok, I played around with it some more, it's super easy to add the rest of the messages to it... so I just exported everything now.",
+    "ts": "1668867405.097239",
+    "thread_ts": "1668866441.187739",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wvq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ok, I played around with it some more, it's super easy to add the rest of the messages to it... so I just exported everything now."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a2f99be2-45fb-47e9-8e6f-c5761d41e402",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "when in the root of the github repo you can simply do\n```slack-export-viewer -z .```\n",
+    "ts": "1668867431.885329",
+    "thread_ts": "1668866441.187739",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4i2tS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "when in the root of the github repo you can simply do\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"slack-export-viewer -z .\"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0b37129b-1226-4cf5-88b9-198a7a922d84",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "maybe there is a different viewer though. because this one has an issue with images it seems like.",
+    "ts": "1668867539.228529",
+    "thread_ts": "1668866441.187739",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EcF+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "maybe there is a different viewer though. because this one has an issue with images it seems like."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cddf0cfb-9d41-46e7-8f1c-4d5316d21487",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "\u003chttps://github.com/hfaran/slack-export-viewer/issues/156\u003e",
+    "ts": "1668867539.957309",
+    "thread_ts": "1668866441.187739",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "d8S/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/hfaran/slack-export-viewer/issues/156",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

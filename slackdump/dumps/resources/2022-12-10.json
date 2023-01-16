@@ -1,0 +1,218 @@
+[
+  {
+    "client_msg_id": "89524302-e4f1-4414-9fa9-6af6e6017f33",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "found this way at the bottom of a stackoverflow, can't remember if we learned it already. if you want to query with mongoose and only return 1 specific field without any of the mongo obj id stuff you can use distinct:\n```const authors = await Book.find({}).distinct(\"title\");```",
+    "ts": "1670669375.545839",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8Kb2T",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "found this way at the bottom of a stackoverflow, can't remember if we learned it already. if you want to query with mongoose and only return 1 specific field without any of the mongo obj id stuff you can use distinct:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"const authors = await Book.find({}).distinct(\\\"title\\\");\"}],\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c7d59d23-e93b-49a8-9974-b2bdd4c09550",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "ORMs you can check out for SQL DBs:\n\u003chttps://sequelize.org/\u003e\n\u003chttps://typeorm.io/\u003e",
+    "ts": "1670679792.357159",
+    "attachments": [
+      {
+        "fallback": "Sequelize",
+        "id": 1,
+        "title": "Sequelize",
+        "title_link": "https://sequelize.org/",
+        "text": "Sequelize is a modern TypeScript and Node.js ORM for Oracle, Postgres, MySQL, MariaDB, SQLite and SQL Server, and more. Featuring solid transaction support, relations, eager and lazy loading, read replication and more.",
+        "service_name": "sequelize.org",
+        "service_icon": "https://sequelize.org/favicon.ico",
+        "from_url": "https://sequelize.org/",
+        "original_url": "https://sequelize.org/",
+        "blocks": null
+      }
+    ],
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "h51HM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ORMs you can check out for SQL DBs:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://sequelize.org/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://typeorm.io/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "80d8c9a3-acb7-4a5e-882b-ecf3ffc268ba",
+    "type": "message",
+    "user": "U03NBCRJ99U",
+    "text": "\u003chttp://sqlfiddle.com/\u003e\n\u003chttps://www.oracle.com/es/database/sqldeveloper/\u003e\n\u003chttps://dbeaver.io/\u003e",
+    "ts": "1670687443.659699",
+    "attachments": [
+      {
+        "fallback": "SQL Fiddle: SQL Fiddle | A tool for easy online testing and sharing of database problems and their solutions.",
+        "id": 1,
+        "title": "SQL Fiddle | A tool for easy online testing and sharing of database problems and their solutions.",
+        "title_link": "http://sqlfiddle.com/",
+        "text": "Application for testing and sharing SQL queries.",
+        "service_name": "SQL Fiddle",
+        "service_icon": "http://sqlfiddle.com/favicon.ico",
+        "from_url": "http://sqlfiddle.com/",
+        "original_url": "http://sqlfiddle.com/",
+        "blocks": null
+      },
+      {
+        "fallback": "SQL Developer",
+        "id": 2,
+        "title": "SQL Developer",
+        "title_link": "https://www.oracle.com/es/database/sqldeveloper/",
+        "text": "Oracle SQL Developer is a free, development environment that simplifies the management of Oracle Database in both traditional and Cloud deployments. It offers development of your PL/SQL applications, query tools, a DBA console, a reports interface, and more.",
+        "thumb_url": "https://www.oracle.com/a/ocom/img/social-og-database-logo-1200x628.jpg",
+        "service_name": "oracle.com",
+        "service_icon": "https://www.oracle.com/asset/web/favicons/favicon-120.png",
+        "from_url": "https://www.oracle.com/es/database/sqldeveloper/",
+        "original_url": "https://www.oracle.com/es/database/sqldeveloper/",
+        "blocks": null
+      }
+    ],
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PwDRM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "http://sqlfiddle.com/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.oracle.com/es/database/sqldeveloper/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://dbeaver.io/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g573a376398a",
+      "image_72": "https://secure.gravatar.com/avatar/573a376398a82acb061e12fb20ba25f7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Antonio",
+      "real_name": "Antonio Vara Piquer",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "ghezath",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

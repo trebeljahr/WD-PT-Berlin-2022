@@ -1,0 +1,199 @@
+[
+  {
+    "client_msg_id": "bdfb6950-05b3-416c-b496-44150496340c",
+    "type": "message",
+    "user": "U03NF3FU4CD",
+    "text": "Nice information about tags in the head of a website and how to reduce them \u003chttps://getoutofmyhead.dev/\u003e",
+    "ts": "1661759987.152719",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aGb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Nice information about tags in the head of a website and how to reduce them "
+              },
+              {
+                "type": "link",
+                "url": "https://getoutofmyhead.dev/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "gffbd1f8138d",
+      "image_72": "https://secure.gravatar.com/avatar/ffbd1f8138d8ce7282914f927aa4c382.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Hector",
+      "real_name": "Hector Fernandez",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "hfernandez04",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "168cd959-fdb4-4fed-a343-cb811373537f",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "this podcast is excellent for learning all kinds of webdev stuff. the \"fundamentals\" episodes especially \u003chttps://syntax.fm/show/188/the-fundamentals-server-side\u003e",
+    "ts": "1661779220.977709",
+    "thread_ts": "1661779220.977709",
+    "attachments": [
+      {
+        "fallback": "The Fundamentals - Server Side — Syntax Podcast 188",
+        "id": 1,
+        "title": "The Fundamentals - Server Side — Syntax Podcast 188",
+        "title_link": "https://syntax.fm/show/188/the-fundamentals-server-side",
+        "text": "Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like React, to the latest advancements in CSS to simplifying web tooling.",
+        "image_url": "https://syntax.fm/static/syntax-banner.png",
+        "service_name": "syntax.fm",
+        "service_icon": "https://syntax.fm/static/favicon.png",
+        "from_url": "https://syntax.fm/show/188/the-fundamentals-server-side",
+        "original_url": "https://syntax.fm/show/188/the-fundamentals-server-side",
+        "blocks": null
+      }
+    ],
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1661779321.304219"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1661845933.791489"
+      }
+    ],
+    "latest_reply": "1661845933.791489",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LZ2F7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this podcast is excellent for learning all kinds of webdev stuff. the \"fundamentals\" episodes especially "
+              },
+              {
+                "type": "link",
+                "url": "https://syntax.fm/show/188/the-fundamentals-server-side",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U03NJ0V8G2W",
+      "U03NJ0VSF8A"
+    ]
+  },
+  {
+    "client_msg_id": "fa3a7421-86b9-4876-8049-d196e517caae",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "\u003chttps://syntax.fm/show/435/this-vs-that-map-vs-reduce-foreach-vs-for-in-and-more\u003e",
+    "ts": "1661779321.304219",
+    "thread_ts": "1661779220.977709",
+    "attachments": [
+      {
+        "fallback": "This vs That × map vs reduce, forEach vs for in, and more! — Syntax Podcast 435",
+        "id": 1,
+        "title": "This vs That × map vs reduce, forEach vs for in, and more! — Syntax Podcast 435",
+        "title_link": "https://syntax.fm/show/435/this-vs-that-map-vs-reduce-foreach-vs-for-in-and-more",
+        "text": "Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like React, to the latest advancements in CSS to simplifying web tooling.",
+        "image_url": "https://syntax.fm/static/syntax-banner.png",
+        "service_name": "syntax.fm",
+        "service_icon": "https://syntax.fm/static/favicon.png",
+        "from_url": "https://syntax.fm/show/435/this-vs-that-map-vs-reduce-foreach-vs-for-in-and-more",
+        "original_url": "https://syntax.fm/show/435/this-vs-that-map-vs-reduce-foreach-vs-for-in-and-more",
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5OBK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://syntax.fm/show/435/this-vs-that-map-vs-reduce-foreach-vs-for-in-and-more",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

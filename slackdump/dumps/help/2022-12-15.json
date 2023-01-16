@@ -1,0 +1,125 @@
+[
+  {
+    "client_msg_id": "57c23d3d-f0c3-4792-bf69-74e5a5101a32",
+    "type": "message",
+    "user": "U03NWL0SHQR",
+    "text": "Rico can you come to my room, please?",
+    "ts": "1671134965.172719",
+    "thread_ts": "1671134965.172719",
+    "last_read": "1671134995.289159",
+    "subscribed": true,
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U03P4005U76",
+        "ts": "1671134995.289159"
+      }
+    ],
+    "latest_reply": "1671134995.289159",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "eyes",
+        "count": 1,
+        "users": [
+          "U03P4005U76"
+        ]
+      },
+      {
+        "name": "white_check_mark",
+        "count": 1,
+        "users": [
+          "U03P4005U76"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nsm/M",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Rico can you come to my room, please?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "74ac6c12d62e",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3767739155858_74ac6c12d62eaa26467e_72.jpg",
+      "first_name": "João",
+      "real_name": "João Serafim",
+      "display_name": "João Serafim",
+      "team": "T03NM2X0JCR",
+      "name": "serafim.joao",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U03P4005U76"
+    ]
+  },
+  {
+    "client_msg_id": "97394016-9dd7-486c-aebd-ad829d40f18d",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "yes",
+    "ts": "1671134995.289159",
+    "thread_ts": "1671134965.172719",
+    "parent_user_id": "U03NWL0SHQR",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8GYml",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

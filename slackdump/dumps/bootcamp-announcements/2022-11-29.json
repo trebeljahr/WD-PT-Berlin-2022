@@ -1,0 +1,98 @@
+[
+  {
+    "client_msg_id": "36d851f8-5d35-4752-9370-5ae692c79d8e",
+    "type": "message",
+    "user": "U03NKPQSAA0",
+    "text": "It would probably be Monday-Tuesday-Wednesday",
+    "ts": "1669736792.109659",
+    "thread_ts": "1669637543.557569",
+    "parent_user_id": "U03NKPQSAA0",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gFb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It would probably be Monday-Tuesday-Wednesday"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "161b83e3a9a4",
+      "image_72": "https://avatars.slack-edge.com/2022-10-18/4224394580103_161b83e3a9a4989c5f84_72.png",
+      "first_name": "Joyce",
+      "real_name": "Joyce Bride - Program",
+      "display_name": "Joyce Bride",
+      "team": "T03NM2X0JCR",
+      "name": "joyce.bride",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0c30cab2-fcc5-4ad2-b0cd-43237d246fb1",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "Thank you!",
+    "ts": "1669736825.484749",
+    "thread_ts": "1669637543.557569",
+    "parent_user_id": "U03NKPQSAA0",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "evz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

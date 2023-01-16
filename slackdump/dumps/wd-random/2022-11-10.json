@@ -1,0 +1,88 @@
+[
+  {
+    "client_msg_id": "65dbbfa3-91d9-4893-953d-81bbeda99d4b",
+    "type": "message",
+    "user": "U03NF3FU4CD",
+    "text": "5 minutes after you start a new lab :rolling_on_the_floor_laughing:\u003chttps://i.imgur.com/9LUDRWV.gif\u003e",
+    "ts": "1668105505.375019",
+    "attachments": [
+      {
+        "fallback": "500x230px image",
+        "id": 1,
+        "image_url": "https://i.imgur.com/9LUDRWV.gif",
+        "from_url": "https://i.imgur.com/9LUDRWV.gif",
+        "original_url": "https://i.imgur.com/9LUDRWV.gif",
+        "blocks": null
+      }
+    ],
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "rolling_on_the_floor_laughing",
+        "count": 5,
+        "users": [
+          "U03NJ0V8G2W",
+          "U03NLD7B69J",
+          "U03NBCRJ99U",
+          "U03NWL0SHQR",
+          "U03NJ0VSF8A"
+        ]
+      },
+      {
+        "name": "this-is-fine",
+        "count": 1,
+        "users": [
+          "U03NJ0V8G2W"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VRnvG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "5 minutes after you start a new lab "
+              },
+              {
+                "type": "emoji",
+                "name": "rolling_on_the_floor_laughing",
+                "skin_tone": 0
+              },
+              {
+                "type": "link",
+                "url": "https://i.imgur.com/9LUDRWV.gif",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "gffbd1f8138d",
+      "image_72": "https://secure.gravatar.com/avatar/ffbd1f8138d8ce7282914f927aa4c382.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Hector",
+      "real_name": "Hector Fernandez",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "hfernandez04",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

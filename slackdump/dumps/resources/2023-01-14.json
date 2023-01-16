@@ -1,0 +1,521 @@
+[
+  {
+    "client_msg_id": "f285787d-3f5a-4737-9339-a279b491c27a",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "If anyone is interested, this is the course I mentioned. I will probably start it at the beginning of Feburary. It's 13 hours. \u003chttps://advancedreact.com/\u003e",
+    "ts": "1673689494.440379",
+    "attachments": [
+      {
+        "fallback": "Advanced React \u0026amp; GraphQL",
+        "id": 1,
+        "title": "Advanced React \u0026amp; GraphQL",
+        "title_link": "https://advancedreact.com/",
+        "text": "Build Full Stack Applications with React and GraphQL",
+        "image_url": "https://AdvancedReact.com/images/ARG/arg-facebook-share.png",
+        "service_name": "advancedreact.com",
+        "service_icon": "https://advancedreact.com/images/ARG/favicon.png",
+        "from_url": "https://advancedreact.com/",
+        "original_url": "https://advancedreact.com/",
+        "blocks": null
+      }
+    ],
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "rocket",
+        "count": 2,
+        "users": [
+          "U03NF3FU4CD",
+          "U03NJ0V8G2W"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "p9+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If anyone is interested, this is the course I mentioned. I will probably start it at the beginning of Feburary. It's 13 hours. "
+              },
+              {
+                "type": "link",
+                "url": "https://advancedreact.com/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8ce6408b-23c8-471e-84c8-57adc709251c",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "The promised resource list + further reading, things to learn, open ended stuff.\n\nDisclaimer - ​ I have not nearly done everything on this list, I keep working step by step on the programming achievements part because I think that's a fun way to spend my time  ​\n\narticles:\nABC - \u003chttps://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2|https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2\u003e\nProgramming Achievements - \u003chttps://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/|https://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/\u003e\nthey are also available as a Gist to fork: \u003chttps://gist.github.com/jasonrudolph/1133830#file_programming_achievements.md|https://gist.github.com/jasonrudolph/1133830#file_programming_achievements.md\u003e\n\nbooks:\nCracking the Coding Interview PDF: \u003chttps://github.com/Avinash987/Coding/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf|https://github.com/Avinash987/Coding/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf\u003e\nA crazy book on LISP - it's quite famous and has it's own acronym -\u0026gt; SICP: \u003chttps://web.mit.edu/6.001/6.037/sicp.pdf|https://web.mit.edu/6.001/6.037/sicp.pdf\u003e\nThere is also a lecture series on it which is old but AWESOME: \u003chttps://www.youtube.com/playlist?list=PL8FE88AA54363BC46|https://www.youtube.com/playlist?list=PL8FE88AA54363BC46\u003e - it's one of the few that I have watched in it's entirety.\njust checkout the list of free programming books: \u003chttps://github.com/EbookFoundation/free-programming-books|https://github.com/EbookFoundation/free-programming-books\u003e\n\ncurriculums and roadmaps:\nThe free Coding Interview University: \u003chttps://github.com/jwasham/coding-interview-university#computer-science-courses|https://github.com/jwasham/coding-interview-university#computer-science-courses\u003e\nAnother university curriculum: \u003chttps://github.com/ossu/computer-science|https://github.com/ossu/computer-science\u003e\nPreparation for System Design Interviews (had one of these at Klarna, probably as a Junior nobody will ever ask you): \u003chttps://github.com/checkcheckzz/system-design-interview|https://github.com/checkcheckzz/system-design-interview\u003e\n    also used this for preparation: \u003chttps://github.com/donnemartin/system-design-primer|https://github.com/donnemartin/system-design-primer\u003e\n    and this: \u003chttps://github.com/shashank88/system_design|https://github.com/shashank88/system_design\u003e\nmore about algorithms and practice: \u003chttps://github.com/gaerae/awesome-algorithms-education|https://github.com/gaerae/awesome-algorithms-education\u003e\ndeveloper roadmap for different kinds of devs: \u003chttps://github.com/kamranahmedse/developer-roadmap|https://github.com/kamranahmedse/developer-roadmap\u003e\ncomputer science curriculum for 5 months: \u003chttps://github.com/llSourcell/Learn_Computer_Science_in_5_Months|https://github.com/llSourcell/Learn_Computer_Science_in_5_Months\u003e\n\nthere is also loads of free stuff from Google:\n\u003chttps://techdevguide.withgoogle.com/|https://techdevguide.withgoogle.com/\u003e\n\u003chttps://summerofcode.withgoogle.com/get-started|https://summerofcode.withgoogle.com/get-started\u003e\n\u003chttps://codingcompetitions.withgoogle.com/kickstart|https://codingcompetitions.withgoogle.com/kickstart\u003e\n\nwebsite practice ideas:\nideas for further projects/websites: \u003chttps://github.com/melanierichards/just-build-websites|https://github.com/melanierichards/just-build-websites\u003e\n\nthe rabbit hole a lot of this is linked to:\n\u003chttps://github.com/sindresorhus/awesome|https://github.com/sindresorhus/awesome\u003e\nthink of it as the \"meta\" list - a list about awesome lists linking to the cool stuff of the internet. if you want to learn something/practice something, whatever. Just search on it there I guess and have enough content of high quality for the next few months to chew through  ​ (edited)",
+    "ts": "1673714772.006379",
+    "thread_ts": "1673714772.006379",
+    "last_read": "1673806028.504689",
+    "subscribed": true,
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U03NF3FU4CD",
+        "ts": "1673715198.800119"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1673799384.218949"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1673806028.504689"
+      }
+    ],
+    "latest_reply": "1673806028.504689",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "d=0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "The promised resource list + further reading, things to learn, open ended stuff.\n\nDisclaimer - ​ I have not nearly done everything on this list, I keep working step by step on the programming achievements part because I think that's a fun way to spend my time  ​\n\narticles:\nABC - "
+              },
+              {
+                "type": "link",
+                "url": "https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2",
+                "text": "https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2"
+              },
+              {
+                "type": "text",
+                "text": "\nProgramming Achievements - "
+              },
+              {
+                "type": "link",
+                "url": "https://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/",
+                "text": "https://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/"
+              },
+              {
+                "type": "text",
+                "text": "\nthey are also available as a Gist to fork: "
+              },
+              {
+                "type": "link",
+                "url": "https://gist.github.com/jasonrudolph/1133830#file_programming_achievements.md",
+                "text": "https://gist.github.com/jasonrudolph/1133830#file_programming_achievements.md"
+              },
+              {
+                "type": "text",
+                "text": "\n\nbooks:\nCracking the Coding Interview PDF: "
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/Avinash987/Coding/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf",
+                "text": "https://github.com/Avinash987/Coding/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf"
+              },
+              {
+                "type": "text",
+                "text": "\nA crazy book on LISP - it's quite famous and has it's own acronym -\u003e SICP: "
+              },
+              {
+                "type": "link",
+                "url": "https://web.mit.edu/6.001/6.037/sicp.pdf",
+                "text": "https://web.mit.edu/6.001/6.037/sicp.pdf"
+              },
+              {
+                "type": "text",
+                "text": "\nThere is also a lecture series on it which is old but AWESOME: "
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/playlist?list=PL8FE88AA54363BC46",
+                "text": "https://www.youtube.com/playlist?list=PL8FE88AA54363BC46"
+              },
+              {
+                "type": "text",
+                "text": " - it's one of the few that I have watched in it's entirety.\njust checkout the list of free programming books: "
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/EbookFoundation/free-programming-books",
+                "text": "https://github.com/EbookFoundation/free-programming-books"
+              },
+              {
+                "type": "text",
+                "text": "\n\ncurriculums and roadmaps:\nThe free Coding Interview University: "
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/jwasham/coding-interview-university#computer-science-courses",
+                "text": "https://github.com/jwasham/coding-interview-university#computer-science-courses"
+              },
+              {
+                "type": "text",
+                "text": "\nAnother university curriculum: "
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/ossu/computer-science",
+                "text": "https://github.com/ossu/computer-science"
+              },
+              {
+                "type": "text",
+                "text": "\nPreparation for System Design Interviews (had one of these at Klarna, probably as a Junior nobody will ever ask you): "
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/checkcheckzz/system-design-interview",
+                "text": "https://github.com/checkcheckzz/system-design-interview"
+              },
+              {
+                "type": "text",
+                "text": "\n    also used this for preparation: "
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/donnemartin/system-design-primer",
+                "text": "https://github.com/donnemartin/system-design-primer"
+              },
+              {
+                "type": "text",
+                "text": "\n    and this: "
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/shashank88/system_design",
+                "text": "https://github.com/shashank88/system_design"
+              },
+              {
+                "type": "text",
+                "text": "\nmore about algorithms and practice: "
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/gaerae/awesome-algorithms-education",
+                "text": "https://github.com/gaerae/awesome-algorithms-education"
+              },
+              {
+                "type": "text",
+                "text": "\ndeveloper roadmap for different kinds of devs: "
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/kamranahmedse/developer-roadmap",
+                "text": "https://github.com/kamranahmedse/developer-roadmap"
+              },
+              {
+                "type": "text",
+                "text": "\ncomputer science curriculum for 5 months: "
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/llSourcell/Learn_Computer_Science_in_5_Months",
+                "text": "https://github.com/llSourcell/Learn_Computer_Science_in_5_Months"
+              },
+              {
+                "type": "text",
+                "text": "\n\nthere is also loads of free stuff from Google:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://techdevguide.withgoogle.com/",
+                "text": "https://techdevguide.withgoogle.com/"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://summerofcode.withgoogle.com/get-started",
+                "text": "https://summerofcode.withgoogle.com/get-started"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://codingcompetitions.withgoogle.com/kickstart",
+                "text": "https://codingcompetitions.withgoogle.com/kickstart"
+              },
+              {
+                "type": "text",
+                "text": "\n\nwebsite practice ideas:\nideas for further projects/websites: "
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/melanierichards/just-build-websites",
+                "text": "https://github.com/melanierichards/just-build-websites"
+              },
+              {
+                "type": "text",
+                "text": "\n\nthe rabbit hole a lot of this is linked to:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/sindresorhus/awesome",
+                "text": "https://github.com/sindresorhus/awesome"
+              },
+              {
+                "type": "text",
+                "text": "\nthink of it as the \"meta\" list - a list about awesome lists linking to the cool stuff of the internet. if you want to learn something/practice something, whatever. Just search on it there I guess and have enough content of high quality for the next few months to chew through  ​ (edited)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U03NF3FU4CD",
+      "U03NJ0VSF8A",
+      "U03P4005U76"
+    ]
+  },
+  {
+    "client_msg_id": "3f1167ea-500d-4544-bebf-bd865f246f4b",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "Most of the stuff from the list is geared towards coding interviews and getting better at algorithms:)",
+    "ts": "1673714866.862199",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "f06Q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Most of the stuff from the list is geared towards coding interviews and getting better at algorithms:)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b56f87c5-0d53-4705-8c15-adb6048c371f",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "there's also this section from my needlestack ^^\n(shameless plug haha)\n\u003chttps://www.trebeljahr.com/needlestack#developer-journey\u003e\n\nbut in general, there is just a lot of crazy good content out there in the internet to use and learn from.\n\nI think the 3 platforms I like the most are \u003chttp://freecodecamp.org|freecodecamp.org\u003e, \u003chttp://exercism.io|exercism.io\u003e and \u003chttp://learnxinyminutes.com|learnxinyminutes.com\u003e.",
+    "ts": "1673715047.807869",
+    "edited": {
+      "user": "U03P4005U76",
+      "ts": "1673767407.000000"
+    },
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hJNKH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "there's also this section from my needlestack ^^\n(shameless plug haha)\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.trebeljahr.com/needlestack#developer-journey",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\nbut in general, there is just a lot of crazy good content out there in the internet to use and learn from.\n\nI think the 3 platforms I like the most are "
+              },
+              {
+                "type": "link",
+                "url": "http://freecodecamp.org",
+                "text": "freecodecamp.org"
+              },
+              {
+                "type": "text",
+                "text": ", "
+              },
+              {
+                "type": "link",
+                "url": "http://exercism.io",
+                "text": "exercism.io"
+              },
+              {
+                "type": "text",
+                "text": " and "
+              },
+              {
+                "type": "link",
+                "url": "http://learnxinyminutes.com",
+                "text": "learnxinyminutes.com"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6BA114C1-A634-4749-81FF-80C8D5B5315A",
+    "type": "message",
+    "user": "U03NF3FU4CD",
+    "text": ":rocket: :heart: ",
+    "ts": "1673715198.800119",
+    "thread_ts": "1673714772.006379",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qq2C",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "rocket",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "heart",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "gffbd1f8138d",
+      "image_72": "https://secure.gravatar.com/avatar/ffbd1f8138d8ce7282914f927aa4c382.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Hector",
+      "real_name": "Hector Fernandez",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "hfernandez04",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

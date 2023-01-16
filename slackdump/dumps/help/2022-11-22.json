@@ -1,0 +1,693 @@
+[
+  {
+    "client_msg_id": "26f40781-c30f-4493-b044-4eb8a76bde90",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "what \u003c@U03NJ0V8G2W\u003e said. You can have weird bugs due to race conditions. The spreading is only there, so that you shallow copy the old state into a new object. You could also do a JSON.parse(JSON.stringify or some other deep copy stuff if you needed to to get a new object, but usually the spread is the easiest and enough.",
+    "ts": "1669132394.145679",
+    "thread_ts": "1669041788.748759",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MSE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what "
+              },
+              {
+                "type": "user",
+                "user_id": "U03NJ0V8G2W"
+              },
+              {
+                "type": "text",
+                "text": " said. You can have weird bugs due to race conditions. The spreading is only there, so that you shallow copy the old state into a new object. You could also do a JSON.parse(JSON.stringify or some other deep copy stuff if you needed to to get a new object, but usually the spread is the easiest and enough."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a86b186b-1dab-40e3-a920-1eca092ce02b",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "so in other words, the new state is just a copy of the old state + some extra stuff, the values that  have changed.",
+    "ts": "1669132464.337299",
+    "thread_ts": "1669041788.748759",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1=H",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "so in other words, the new state is just a copy of the old state + some extra stuff, the values that  have changed."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "856f3ff7-386c-4097-90a7-d31b60b85285",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "if you didn't spread, you would lose all the parts of the old state that you didn't update. Because only the updated keys would be in the object that becomes the new state.",
+    "ts": "1669132520.611039",
+    "thread_ts": "1669041788.748759",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+fKB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "if you didn't spread, you would lose all the parts of the old state that you didn't update. Because only the updated keys would be in the object that becomes the new state."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "40fc6342-3715-4e87-9eea-e28563ced180",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "\u003c@U03P4005U76\u003e Do use CRA in your private projects? Or something else like Vite?",
+    "ts": "1669149341.311719",
+    "thread_ts": "1669149341.311719",
+    "last_read": "1669150039.125979",
+    "subscribed": true,
+    "reply_count": 9,
+    "replies": [
+      {
+        "user": "U03P4005U76",
+        "ts": "1669149751.833979"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1669149782.992449"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1669149799.535429"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1669149811.992689"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1669149850.782819"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1669149926.097969"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1669149973.347699"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1669149982.746199"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1669150039.125979"
+      }
+    ],
+    "latest_reply": "1669150039.125979",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SAfTF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03P4005U76"
+              },
+              {
+                "type": "text",
+                "text": " Do use CRA in your private projects? Or something else like Vite?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U03NJ0V8G2W",
+      "U03P4005U76"
+    ]
+  },
+  {
+    "client_msg_id": "f8f27a6a-481a-4241-ba3c-ab89a9868be8",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "I use nextjs. Which iirc came with it's own tool, wrapping CRA.",
+    "ts": "1669149751.833979",
+    "thread_ts": "1669149341.311719",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Bmsi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I use nextjs. Which iirc came with it's own tool, wrapping CRA."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "de7ca806-9ee7-417f-b322-462161e2c729",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": ":roll-safe:",
+    "ts": "1669149782.992449",
+    "thread_ts": "1669149341.311719",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "477M",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "roll-safe",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "af67c6b9-cd1b-48a0-b48b-adbde5c974d7",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "But honestly, these things keep changing all the time anyways, now Vite is the new shit. In two years it'll be all different again.",
+    "ts": "1669149799.535429",
+    "thread_ts": "1669149341.311719",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mNr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "But honestly, these things keep changing all the time anyways, now Vite is the new shit. In two years it'll be all different again."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fd9d3eaf-70d5-4058-bd27-70df5393580a",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "I used to use meteor :lel:",
+    "ts": "1669149811.992689",
+    "thread_ts": "1669149341.311719",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9X+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I used to use meteor "
+              },
+              {
+                "type": "emoji",
+                "name": "lel",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3614d38a-2863-4619-b0c9-93a91bfc7e2d",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "Sometimes I build my own stuff from scratch/a template I find online. Specifically when doing three js projects",
+    "ts": "1669149850.782819",
+    "thread_ts": "1669149341.311719",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "f6fJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sometimes I build my own stuff from scratch/a template I find online. Specifically when doing three js projects"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "dc573f7f-430b-4f08-9d23-dd457836783a",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "So in a nutshell, use what you feel comfortable with. If you have pain points - something is slowing you, cumbersome to use, look out for newer + better alternatives :thumbsup:",
+    "ts": "1669149926.097969",
+    "thread_ts": "1669149341.311719",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Or/b",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So in a nutshell, use what you feel comfortable with. If you have pain points - something is slowing you, cumbersome to use, look out for newer + better alternatives "
+              },
+              {
+                "type": "emoji",
+                "name": "thumbsup",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4eaff390-bc01-4f7d-9efb-242299acf0df",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "But so far, nextjs for blog like stuff has been nothing but awesome in the power it offers, so I stopped searching.",
+    "ts": "1669149973.347699",
+    "thread_ts": "1669149341.311719",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kXT3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "But so far, nextjs for blog like stuff has been nothing but awesome in the power it offers, so I stopped searching."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2bb0c607-57fd-4d06-95da-1d1ded2ce465",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "Thanks!",
+    "ts": "1669149982.746199",
+    "thread_ts": "1669149341.311719",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CEord",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6dd7d40c-fe8e-4da0-8d67-fedccbb49a5d",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "Gatsby is also not bad. And I've seen cool stuff being built with Docusaurus. But in the end, frontend stacks and meta frameworks \"gibt's wie Sand am Meer\". ;)",
+    "ts": "1669150039.125979",
+    "thread_ts": "1669149341.311719",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OmZ5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Gatsby is also not bad. And I've seen cool stuff being built with Docusaurus. But in the end, frontend stacks and meta frameworks \"gibt's wie Sand am Meer\". ;)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

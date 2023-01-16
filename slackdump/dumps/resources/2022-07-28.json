@@ -1,0 +1,185 @@
+[
+  {
+    "client_msg_id": "fd87839d-24e7-4a06-a8be-b681c2ffa861",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "Some of the resources for today I mentioned:\n\u003chttps://www.youtube.com/watch?v=QyJZzq0v7Z4\u003e\n\u003chttps://www.youtube.com/watch?v=QM1iUe6IofM\u003e\n\nOverview over different programming paradigms:\n\u003chttps://www.cs.ucf.edu/~leavens/ComS541Fall97/hw-pages/paradigms/major.html\u003e\n\u003chttps://www.freecodecamp.org/news/an-introduction-to-programming-paradigms/\u003e\n\nalso something interesting from the game world are ECS's:\n\u003chttps://en.wikipedia.org/wiki/Entity_component_system\u003e\n\nand there come a bunch of design patterns that you would often see in use together with classes:\n\u003chttps://refactoring.guru/design-patterns\u003e\n\nofc. all of this is optional and further reading, but it's interesting stuff I would argue :slightly_smiling_face: and it helps broaden your dev horizons for sure :thumbsup:",
+    "ts": "1659033564.054799",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fJny",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Some of the resources for today I mentioned:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=QyJZzq0v7Z4",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=QM1iUe6IofM",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\nOverview over different programming paradigms:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.cs.ucf.edu/~leavens/ComS541Fall97/hw-pages/paradigms/major.html",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.freecodecamp.org/news/an-introduction-to-programming-paradigms/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\nalso something interesting from the game world are ECS's:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://en.wikipedia.org/wiki/Entity_component_system",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\nand there come a bunch of design patterns that you would often see in use together with classes:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://refactoring.guru/design-patterns",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\nofc. all of this is optional and further reading, but it's interesting stuff I would argue "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " and it helps broaden your dev horizons for sure "
+              },
+              {
+                "type": "emoji",
+                "name": "thumbsup",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bd3d58fa-16a4-4d7d-ae96-ffacd132e2d6",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "just one thing I also want to mention because I forgot to do it in class - the technical fancy name for what we did with the classes that all extend from shape, but have different implementations for their area methods is called \"polymorphism\"\n\nin general you might have noticed I am not to keen on names and things, I always think of a story from Richard Feynman:\n\"_The next Monday, when the fathers were all back at work, we kids were playing in a field. One kid says to me, \"See that bird? What kind of bird is that?\" I said, \"I haven't the slightest idea what kind of a bird it is.\" He says, \"It's a brown-throated thrush. Your father doesn't teach you anything!\" But it was the opposite. He had already taught me: \"See that bird?\" he says. \"It's a Spencer's warbler.\" (I knew he didn't know the real name.) \"Well, in Italian, it's a Chutto Lapittida. In Portuguese, it's a Bom da Peida. In Chinese, it's a Chung-long-tah, and in Japanese, it's a Katano Tekeda. You can know the name of that bird in all the languages of the world, but when you're finished, you'll know absolutely nothing whatever about the bird. You'll only know about humans in different places, and what they call the bird. So let's look at the bird and see what it's doing-that's what counts.\" (I learned very early the difference between knowing the name of something and knowing something.)\"_ ",
+    "ts": "1659034213.387499",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "owl",
+        "count": 1,
+        "users": [
+          "U03NJ0VSF8A"
+        ]
+      },
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U03NF3FU4CD"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OMQm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "just one thing I also want to mention because I forgot to do it in class - the technical fancy name for what we did with the classes that all extend from shape, but have different implementations for their area methods is called \"polymorphism\"\n\nin general you might have noticed I am not to keen on names and things, I always think of a story from Richard Feynman:\n\""
+              },
+              {
+                "type": "text",
+                "text": "The next Monday, when the fathers were all back at work, we kids were playing in a field. One kid says to me, \"See that bird? What kind of bird is that?\" I said, \"I haven't the slightest idea what kind of a bird it is.\" He says, \"It's a brown-throated thrush. Your father doesn't teach you anything!\" But it was the opposite. He had already taught me: \"See that bird?\" he says. \"It's a Spencer's warbler.\" (I knew he didn't know the real name.) \"Well, in Italian, it's a Chutto Lapittida. In Portuguese, it's a Bom da Peida. In Chinese, it's a Chung-long-tah, and in Japanese, it's a Katano Tekeda. You can know the name of that bird in all the languages of the world, but when you're finished, you'll know absolutely nothing whatever about the bird. You'll only know about humans in different places, and what they call the bird. So let's look at the bird and see what it's doing-that's what counts.\" (I learned very early the difference between knowing the name of something and knowing something.)\" ",
+                "style": {
+                  "italic": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

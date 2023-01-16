@@ -1,0 +1,571 @@
+[
+  {
+    "client_msg_id": "354a1fab-8b38-4dab-96e1-105e64fbd193",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "my project link! \u003chttps://fantastic-pithivier-6edba6.netlify.app\u003e",
+    "ts": "1673703829.200109",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ILleU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "my project link! "
+              },
+              {
+                "type": "link",
+                "url": "https://fantastic-pithivier-6edba6.netlify.app",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "11146725-3ba2-4ce8-8c9e-387160e6250a",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "Here it is:\n\u003chttps://finalprojekt.hvkst.com|https://finalprojekt.hvkst.com\u003e\nfor the backend:\nbernd + \"1\"",
+    "ts": "1673706706.673839",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nrZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Here it is:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://finalprojekt.hvkst.com",
+                "text": "https://finalprojekt.hvkst.com"
+              },
+              {
+                "type": "text",
+                "text": "\nfor the backend:\nbernd + \"1\""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "75be1641-4007-4e85-9fba-f7768624b8d4",
+    "type": "message",
+    "user": "U03NF3FU4CD",
+    "text": "Here the app! :slightly_smiling_face: \u003chttps://subtle-sable-83e760.netlify.app/\u003e",
+    "ts": "1673707178.392139",
+    "attachments": [
+      {
+        "fallback": "React App",
+        "id": 1,
+        "title": "React App",
+        "title_link": "https://subtle-sable-83e760.netlify.app/",
+        "text": "Where is my money",
+        "service_name": "subtle-sable-83e760.netlify.app",
+        "from_url": "https://subtle-sable-83e760.netlify.app/",
+        "original_url": "https://subtle-sable-83e760.netlify.app/",
+        "blocks": null
+      }
+    ],
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "f/N3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Here the app! "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "link",
+                "url": "https://subtle-sable-83e760.netlify.app/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "gffbd1f8138d",
+      "image_72": "https://secure.gravatar.com/avatar/ffbd1f8138d8ce7282914f927aa4c382.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Hector",
+      "real_name": "Hector Fernandez",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "hfernandez04",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7c812522-e5bd-4279-81ed-791bcc5fb234",
+    "type": "message",
+    "user": "U03NLD7B69J",
+    "text": "This is ours: \u003chttps://mern-e-comerce.netlify.app/\u003e",
+    "ts": "1673707269.535529",
+    "attachments": [
+      {
+        "fallback": "React App",
+        "id": 1,
+        "title": "React App",
+        "title_link": "https://mern-e-comerce.netlify.app/",
+        "text": "Web site created using create-react-app",
+        "service_name": "mern-e-comerce.netlify.app",
+        "service_icon": "https://mern-e-comerce.netlify.app/logo192.png",
+        "from_url": "https://mern-e-comerce.netlify.app/",
+        "original_url": "https://mern-e-comerce.netlify.app/",
+        "blocks": null
+      }
+    ],
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zoUyl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This is ours: "
+              },
+              {
+                "type": "link",
+                "url": "https://mern-e-comerce.netlify.app/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g5b3832c7bc9",
+      "image_72": "https://secure.gravatar.com/avatar/5b3832c7bc9769902f1c78b69eb42613.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Patrick",
+      "real_name": "Patrick",
+      "display_name": "Patrick",
+      "team": "T03NM2X0JCR",
+      "name": "patrick_groot",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cd62929c-af31-43c9-a69d-08aec9efa0d4",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "WhatsAppChatGroup.create( \u003ctel:+4915737026359|+49157 3702 6359\u003e )",
+    "ts": "1673712964.789559",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Jzzy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "WhatsAppChatGroup.create( "
+              },
+              {
+                "type": "link",
+                "url": "tel:+4915737026359",
+                "text": "+49157 3702 6359"
+              },
+              {
+                "type": "text",
+                "text": " )"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c91b89d4-0c24-4c9e-878c-bb012db8ea70",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "my phone number is \u003ctel:01772990481|0177 2990481\u003e :+1::skin-tone-3:",
+    "ts": "1673713072.481459",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IiryL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "my phone number is "
+              },
+              {
+                "type": "link",
+                "url": "tel:01772990481",
+                "text": "0177 2990481"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "+1",
+                "skin_tone": 3
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e5cc0a58-1a3d-47cc-badd-22529c1404e7",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "Hey \u003c@U03NKPQSAA0\u003e! We did it :partying_face:\nJust to be sure: We would like to keep our Slack, is that ok/possible?\nAlso, our access to the student portal is indefinitely, right?",
+    "ts": "1673713238.042669",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "tada",
+        "count": 1,
+        "users": [
+          "U03NKPQSAA0"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3Jr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey "
+              },
+              {
+                "type": "user",
+                "user_id": "U03NKPQSAA0"
+              },
+              {
+                "type": "text",
+                "text": "! We did it "
+              },
+              {
+                "type": "emoji",
+                "name": "partying_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\nJust to be sure: We would like to keep our Slack, is that ok/possible?\nAlso, our access to the student portal is indefinitely, right?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "59518861-a698-43ab-a139-c2ddc1324bdb",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "\u003c!here\u003e these are the numbers for the WhatsApp Group:\n• Bernd: \u003ctel:+4915737026359|+49157 3702 6359\u003e\n• Antonio: \u003ctel:+34617814574|+34617814574\u003e\n• Hector: \u003ctel:+4915233577443|+491523 3577443\u003e\n• Patrick: \u003ctel:+491578505483|+491578505483\u003e\n• Joao: \u003ctel:+351968917615|+351968917615\u003e\n• Joshua: \u003ctel:+491772990481|+49177 2990481\u003e\n• Rico: \u003ctel:+4915234194080|+4915234194080\u003e",
+    "ts": "1673714425.252529",
+    "edited": {
+      "user": "U03P4005U76",
+      "ts": "1673857293.000000"
+    },
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kjZ4l",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "here"
+              },
+              {
+                "type": "text",
+                "text": " these are the numbers for the WhatsApp Group:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Bernd: \"},{\"type\":\"link\",\"url\":\"tel:+4915737026359\",\"text\":\"+49157 3702 6359\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Antonio: \"},{\"type\":\"link\",\"url\":\"tel:+34617814574\",\"text\":\"+34617814574\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Hector: \"},{\"type\":\"link\",\"url\":\"tel:+4915233577443\",\"text\":\"+491523 3577443\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Patrick: \"},{\"type\":\"link\",\"url\":\"tel:+491578505483\",\"text\":\"+491578505483\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Joao: \"},{\"type\":\"link\",\"url\":\"tel:+351968917615\",\"text\":\"+351968917615\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Joshua: \"},{\"type\":\"link\",\"url\":\"tel:+491772990481\",\"text\":\"+49177 2990481\"}]}],\"style\":\"bullet\",\"indent\":0,\"offset\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Rico: \"},{\"type\":\"link\",\"url\":\"tel:+4915234194080\",\"text\":\"+4915234194080\"}]}],\"style\":\"bullet\",\"indent\":0,\"offset\":0,\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "889638df-13af-46c0-9171-ecd00f360af4",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "somehow I can't add you \u003c@U03NLD7B69J\u003e + I miss your number \u003c@U03NF3FU4CD\u003e so maybe you could send me a message on whatsapp and I'll add you to the group :+1:",
+    "ts": "1673714455.660349",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "M8Ck",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "somehow I can't add you "
+              },
+              {
+                "type": "user",
+                "user_id": "U03NLD7B69J"
+              },
+              {
+                "type": "text",
+                "text": " + I miss your number "
+              },
+              {
+                "type": "user",
+                "user_id": "U03NF3FU4CD"
+              },
+              {
+                "type": "text",
+                "text": " so maybe you could send me a message on whatsapp and I'll add you to the group "
+              },
+              {
+                "type": "emoji",
+                "name": "thumbsup",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

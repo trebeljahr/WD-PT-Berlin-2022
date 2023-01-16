@@ -1,0 +1,116 @@
+[
+  {
+    "client_msg_id": "1b435d98-d5e9-403d-9e44-d7edf1027d36",
+    "type": "message",
+    "user": "U03NWL0SHQR",
+    "text": "For the CO2 laser project, this is one of youtube channels I follow:\n\u003chttps://www.youtube.com/@FurtherFabrication\u003e",
+    "ts": "1668952870.684519",
+    "attachments": [
+      {
+        "fallback": "YouTube: Further Fabrication",
+        "id": 1,
+        "title": "Further Fabrication",
+        "title_link": "https://www.youtube.com/@FurtherFabrication",
+        "text": "Share your videos with friends, family, and the world",
+        "thumb_url": "https://yt3.ggpht.com/ytc/AMLnZu9NyFt9sr6ngRC7O6CGDlc4oPFHhCBR8D_MP0yOyQ=s900-c-k-c0x00ffffff-no-rj",
+        "service_name": "YouTube",
+        "service_icon": "https://www.youtube.com/s/desktop/5708b2cc/img/favicon.ico",
+        "from_url": "https://www.youtube.com/@FurtherFabrication",
+        "original_url": "https://www.youtube.com/@FurtherFabrication",
+        "blocks": null
+      }
+    ],
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "my=M",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "For the CO2 laser project, this is one of youtube channels I follow:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/@FurtherFabrication",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "74ac6c12d62e",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3767739155858_74ac6c12d62eaa26467e_72.jpg",
+      "first_name": "João",
+      "real_name": "João Serafim",
+      "display_name": "João Serafim",
+      "team": "T03NM2X0JCR",
+      "name": "serafim.joao",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "188b8fee-9c75-43bc-9f1b-d60a1b29a7b0",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "this is really great, i love that there is no login and it's just saved to local storage.",
+    "ts": "1668955103.331899",
+    "thread_ts": "1668766309.914979",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iEU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this is really great, i love that there is no login and it's just saved to local storage."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

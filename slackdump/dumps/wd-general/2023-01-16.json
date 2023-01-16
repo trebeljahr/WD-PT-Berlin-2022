@@ -1,0 +1,97 @@
+[
+  {
+    "client_msg_id": "9892f344-8224-4d2a-9c7f-49d034a04a50",
+    "type": "message",
+    "user": "U03NKPQSAA0",
+    "text": "*Hey team, congrats!!!! I am very proud of you all* :smile: \n\u003c!channel\u003e\n\nI will keep the Slack open so you can communicate easily, but please bear in mind the messages erase themselves often so save any important stuff!\n\nYou will always have access to the Portal.\n\nI will watch the recording of your presentations during the week.\nLooking forward to seeing you for the Hackshow :partying_face:\n\nLet me know if you have any questions",
+    "ts": "1673862192.605549",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "partying_face",
+        "count": 2,
+        "users": [
+          "U03NJ0V8G2W",
+          "U03NWL0SHQR"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "s3F",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey team, congrats!!!! I am very proud of you all ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "smile",
+                "skin_tone": 0,
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": "\n\nI will keep the Slack open so you can communicate easily, but please bear in mind the messages erase themselves often so save any important stuff!\n\nYou will always have access to the Portal.\n\nI will watch the recording of your presentations during the week.\nLooking forward to seeing you for the Hackshow "
+              },
+              {
+                "type": "emoji",
+                "name": "partying_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\nLet me know if you have any questions"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "161b83e3a9a4",
+      "image_72": "https://avatars.slack-edge.com/2022-10-18/4224394580103_161b83e3a9a4989c5f84_72.png",
+      "first_name": "Joyce",
+      "real_name": "Joyce Bride - Program",
+      "display_name": "Joyce Bride",
+      "team": "T03NM2X0JCR",
+      "name": "joyce.bride",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

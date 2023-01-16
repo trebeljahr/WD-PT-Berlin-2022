@@ -1,0 +1,57 @@
+[
+  {
+    "client_msg_id": "f9b5cf96-72f1-4f49-904a-7c69d72a2659",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "todays live share:\n\u003chttps://prod.liveshare.vsengsaas.visualstudio.com/join?0CA6F75CB17E4088E0C56926FD4CD05200A0\u003e",
+    "ts": "1661876955.693409",
+    "edited": {
+      "user": "U03P4005U76",
+      "ts": "1661876974.000000"
+    },
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LqDpg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "todays live share:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://prod.liveshare.vsengsaas.visualstudio.com/join?0CA6F75CB17E4088E0C56926FD4CD05200A0",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

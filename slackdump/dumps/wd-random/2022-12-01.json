@@ -1,0 +1,391 @@
+[
+  {
+    "client_msg_id": "70c28dd1-51b8-4ed0-8b57-f126c9726e6f",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "\u003chttps://www.nytimes.com/2022/08/18/technology/dan-price-resign-social-media.html\u003e",
+    "ts": "1669916571.959589",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wqK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.nytimes.com/2022/08/18/technology/dan-price-resign-social-media.html",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3b766baa-d9a1-4968-98f6-dd5e4a25b06a",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "\u003chttps://openai.com/blog/chatgpt/\u003e",
+    "ts": "1669926613.505079",
+    "thread_ts": "1669926613.505079",
+    "attachments": [
+      {
+        "fallback": "OpenAI: ChatGPT: Optimizing Language Models for Dialogue",
+        "id": 1,
+        "title": "ChatGPT: Optimizing Language Models for Dialogue",
+        "title_link": "https://openai.com/blog/chatgpt/",
+        "text": "We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests. ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruction in",
+        "image_url": "https://openai.com/content/images/2022/11/ChatGPT.jpg",
+        "service_name": "OpenAI",
+        "service_icon": "https://openai.com/favicon.ico",
+        "from_url": "https://openai.com/blog/chatgpt/",
+        "original_url": "https://openai.com/blog/chatgpt/",
+        "fields": [
+          {
+            "title": "Written by",
+            "value": "OpenAI",
+            "short": true
+          },
+          {
+            "title": "Filed under",
+            "value": "Announcements, Research",
+            "short": true
+          }
+        ],
+        "blocks": null,
+        "ts": 1669831207
+      }
+    ],
+    "last_read": "1669926722.310679",
+    "subscribed": true,
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1669926636.250609"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1669926660.152449"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1669926722.310679"
+      }
+    ],
+    "latest_reply": "1669926722.310679",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=QsoJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://openai.com/blog/chatgpt/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U03NJ0V8G2W",
+      "U03P4005U76"
+    ]
+  },
+  {
+    "client_msg_id": "b24004cb-c902-4715-9b38-0368fae067bc",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "insanity",
+    "ts": "1669926617.695839",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8FjD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "insanity"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e65ce96f-ac71-46f8-8481-b3f903dedeca",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "ts": "1669926636.250609",
+    "thread_ts": "1669926613.505079",
+    "parent_user_id": "U03P4005U76",
+    "files": [
+      {
+        "id": "F04DRRJSGAD",
+        "created": 1669926634,
+        "timestamp": 1669926634,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03NJ0V8G2W",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 22279,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04DRRJSGAD-image.png",
+        "url_private_download": "attachments/F04DRRJSGAD-image.png",
+        "original_h": 347,
+        "original_w": 870,
+        "thumb_64": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04DRRJSGAD-1998d81c80/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04DRRJSGAD-1998d81c80/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04DRRJSGAD-1998d81c80/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04DRRJSGAD-1998d81c80/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 144,
+        "thumb_480": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04DRRJSGAD-1998d81c80/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 191,
+        "thumb_720": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04DRRJSGAD-1998d81c80/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 287,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://wd-pt-12jul.slack.com/files/U03NJ0V8G2W/F04DRRJSGAD/image.png",
+        "permalink_public": "https://slack-files.com/T03NM2X0JCR-F04DRRJSGAD-afc56f4883",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "sweat_smile",
+        "count": 1,
+        "users": [
+          "U03NJ0V8G2W"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "781f4ab2-07c2-49be-a678-b765f161d4db",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "yeah, probably went viral on social media and stuff ^^",
+    "ts": "1669926660.152449",
+    "thread_ts": "1669926613.505079",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ml90e",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yeah, probably went viral on social media and stuff ^^"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2b4a36aa-0d34-406c-9bc9-34926ef88bdf",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "once the dust settles, like tomorrow or in the next week or so, you should definitely try again ^^",
+    "ts": "1669926722.310679",
+    "thread_ts": "1669926613.505079",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LxS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "once the dust settles, like tomorrow or in the next week or so, you should definitely try again ^^"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

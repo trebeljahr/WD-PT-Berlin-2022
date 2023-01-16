@@ -1,0 +1,260 @@
+[
+  {
+    "client_msg_id": "ce498e8e-e0ea-4d2f-8748-ac43d7c7e867",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "I see these guys at a park near me sometimes",
+    "ts": "1666888982.115769",
+    "thread_ts": "1666716274.601869",
+    "parent_user_id": "U03NWL0SHQR",
+    "files": [
+      {
+        "id": "F048E2H6S1G",
+        "created": 1666888974,
+        "timestamp": 1666888974,
+        "name": "IMG_20221027_104746.jpg",
+        "title": "IMG_20221027_104746.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U03NJ0VSF8A",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 5003948,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F048E2H6S1G-IMG_20221027_104746.jpg",
+        "url_private_download": "attachments/F048E2H6S1G-IMG_20221027_104746.jpg",
+        "original_h": 4160,
+        "original_w": 3120,
+        "thumb_64": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048E2H6S1G-72ed1d3274/img_20221027_104746_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048E2H6S1G-72ed1d3274/img_20221027_104746_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048E2H6S1G-72ed1d3274/img_20221027_104746_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048E2H6S1G-72ed1d3274/img_20221027_104746_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048E2H6S1G-72ed1d3274/img_20221027_104746_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048E2H6S1G-72ed1d3274/img_20221027_104746_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048E2H6S1G-72ed1d3274/img_20221027_104746_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048E2H6S1G-72ed1d3274/img_20221027_104746_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "permalink": "https://wd-pt-12jul.slack.com/files/U03NJ0VSF8A/F048E2H6S1G/img_20221027_104746.jpg",
+        "permalink_public": "https://slack-files.com/T03NM2X0JCR-F048E2H6S1G-06315d9f56",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "star-struck",
+        "count": 1,
+        "users": [
+          "U03NWL0SHQR"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tLt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I see these guys at a park near me sometimes"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "51fc5486-a193-4803-9028-5b0f45cc0c1d",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "Gifs are ready :wink:",
+    "ts": "1666899407.841409",
+    "files": [
+      {
+        "id": "F048TNFNYAD",
+        "created": 1666899390,
+        "timestamp": 1666899390,
+        "name": "7.gif",
+        "title": "7.gif",
+        "mimetype": "image/gif",
+        "image_exif_rotation": 0,
+        "filetype": "gif",
+        "pretty_type": "GIF",
+        "user": "U03NJ0V8G2W",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 71014,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F048TNFNYAD-7.gif",
+        "url_private_download": "attachments/F048TNFNYAD-7.gif",
+        "original_h": 450,
+        "original_w": 400,
+        "thumb_64": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048TNFNYAD-0dc086f3e7/7_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048TNFNYAD-0dc086f3e7/7_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048TNFNYAD-0dc086f3e7/7_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048TNFNYAD-0dc086f3e7/7_360.png",
+        "thumb_360_gif": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048TNFNYAD-0dc086f3e7/7_360.gif",
+        "thumb_360_w": 320,
+        "thumb_360_h": 360,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://wd-pt-12jul.slack.com/files/U03NJ0V8G2W/F048TNFNYAD/7.gif",
+        "permalink_public": "https://slack-files.com/T03NM2X0JCR-F048TNFNYAD-195bce3809",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "eyes",
+        "count": 1,
+        "users": [
+          "U03NJ0VSF8A"
+        ]
+      },
+      {
+        "name": "grimacing",
+        "count": 1,
+        "users": [
+          "U03NF3FU4CD"
+        ]
+      },
+      {
+        "name": "star-struck",
+        "count": 2,
+        "users": [
+          "U03NWL0SHQR",
+          "U03NLD7B69J"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=vq7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Gifs are ready "
+              },
+              {
+                "type": "emoji",
+                "name": "wink",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

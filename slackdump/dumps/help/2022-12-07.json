@@ -1,0 +1,171 @@
+[
+  {
+    "client_msg_id": "3366be81-2a4f-4a27-8cb7-fb78c66376b7",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "i am using es6 modules and trying to clean up my server routes. any ideas why in both cases here the .js is required? otherwise the server crashes. seems weird.\n\n`*import* { User } *from* \"../models/User.model.js\";`",
+    "ts": "1670421505.365959",
+    "thread_ts": "1670421505.365959",
+    "last_read": "1670525216.236019",
+    "subscribed": true,
+    "reply_count": 10,
+    "replies": [
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1670421559.376609"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1670524947.130429"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1670524948.367229"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1670524982.616679"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1670524998.032239"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1670525013.740709"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1670525131.542459"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1670525132.382679"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1670525215.646939"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1670525216.236019"
+      }
+    ],
+    "latest_reply": "1670525216.236019",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/vdb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i am using es6 modules and trying to clean up my server routes. any ideas why in both cases here the .js is required? otherwise the server crashes. seems weird.\n\n"
+              },
+              {
+                "type": "text",
+                "text": "import",
+                "style": {
+                  "bold": true,
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " { User } ",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "from",
+                "style": {
+                  "bold": true,
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " \"../models/User.model.js\";",
+                "style": {
+                  "code": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U03NJ0VSF8A",
+      "U03P4005U76"
+    ]
+  },
+  {
+    "client_msg_id": "43e48275-2f00-45a6-8588-6b4e20b980e5",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "```import { login } from \"./routes/login.js\";\n\u003chttp://app.post|app.post\u003e(\"/login\", login);```",
+    "ts": "1670421559.376609",
+    "thread_ts": "1670421505.365959",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "e8N",
+        "elements": [
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"import { login } from \\\".\\/routes\\/login.js\\\";\\napp.post(\\\"\\/login\\\", login);\"}],\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

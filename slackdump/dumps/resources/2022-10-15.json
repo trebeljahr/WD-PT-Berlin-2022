@@ -1,0 +1,70 @@
+[
+  {
+    "client_msg_id": "76aaec1c-f89c-4586-b07d-ef3629f12cf0",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "ah yes. the good old fun of floating point numbers: \u003chttps://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/\u003e",
+    "ts": "1665836453.703079",
+    "attachments": [
+      {
+        "fallback": "Random ASCII - tech blog of Bruce Dawson Link: Comparing Floating Point Numbers, 2012\u0026nbsp;Edition",
+        "id": 1,
+        "author_name": "brucedawson",
+        "author_link": "https://randomascii.wordpress.com/author/brucedawson/",
+        "title": "Comparing Floating Point Numbers, 2012 Edition",
+        "title_link": "https://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/",
+        "text": "This post is a more carefully thought out and peer reviewed version of a floating-point comparison article I wrote many years ago. This one gives solid advice and some surprising observations about the tricky subject of comparing floating-point numbers. A compilable source file with license is available.\nWe\u0026rsquo;ve finally reached the point in this series that I\u0026rsquo;ve been waiting for. In this post I am going to share the most crucial piece of floating-point math knowledge that I have. Here it is:\n\n[Floating-point] math is hard.\nYou just won\u0026rsquo;t believe how vastly, hugely, mind-bogglingly hard it is. I mean, you may think it\u0026rsquo;s difficult to calculate when trains from Chicago and Los Angeles will collide, but that\u0026rsquo;s just peanuts to floating-point math.\nSeriously. Each time I think that I\u0026rsquo;ve wrapped my head around the subtleties and implications of floating-point math I find that I\u0026rsquo;m wrong and that there is some extra confounding factor that I had failed to consider. So, the lesson to remember is that floating-point math is always more complex than you think it is. Keep that in mind through the rest of the post where we talk about the promised topic of comparing floats, and understand that this post gives some suggestions on techniques, but no silver bullets.\nPreviously on this channel\u0026hellip;\nThis is the fifth chapter in a long series. The first couple in the series are particularly important for understanding this point. A (mostly) complete list of the other posts includes:\n1: Tricks With the Floating-Point Format \u0026ndash; an overview of the float format\n2: Stupid Float Tricks \u0026ndash; incrementing the integer representation\n3: Don\u0026rsquo;t Store That in a Float \u0026ndash; a cautionary tale about time\n3b: They sure look equal\u0026hellip; \u0026ndash; ranting about Visual Studio\u0026rsquo;s float failings\n4: Comparing Floating Point Numbers, 2012 Edition (return *this;)\n5: Float Precision\u0026ndash;From Zero to 100+ Digits \u0026ndash; non-obvious answers to how many digits of precision a float has\n6: C++ 11 std::async for Fast Float Format Finding \u0026ndash; running tests on all floats in just a few minutes\n7: Intermediate Floating-Point Precision \u0026ndash; the surprising complexities of how expressions can be evaluated\n8: Floating-point complexities \u0026ndash; some favorite quirks of floating-point math\n9: Exceptional Floating Point \u0026ndash; using floating point exceptions for fun and profit\n10: That\u0026rsquo;s Not Normal\u0026ndash;the Performance of Odd Floats \u0026ndash; the performance implications of infinities, NaNs, and denormals\n11: Doubles are not floats, so don\u0026rsquo;t compare them \u0026ndash; a common type of float comparison mistake\n12: Float Precision Revisited: Nine Digit Float Portability \u0026ndash; moving floats between gcc and VC++ through text\n13: Floating-Point Determinism \u0026ndash; what does it take to get bit-identical results\n14: There are Only Four Billion Floats\u0026ndash;So Test Them All! \u0026ndash; exhaustive testing to avoid embarrassing mistakes\n15: Please Calculate This Circle\u0026rsquo;s Circumference \u0026ndash; the intersection of C++, const, and floats\n16: Intel Underestimates Error Bounds by 1.3 quintillion \u0026ndash; the headline is not an exaggeration, but it\u0026rsquo;s not as bad as it sounds\nComparing for equality\nFloating point math is not exact. Simple values like 0.1 cannot be precisely represented using binary floating point numbers, and the limited precision of floating point numbers means that slight changes in the order of operations or the precision of intermediates can change the result. That means that comparing two floats to see if they are equal is usually not what you want. GCC even has a (well intentioned but misguided) warning for this: \u0026ldquo;warning: comparing floating point with == or != is unsafe\u0026rdquo;.\nHere\u0026rsquo;s one example of the inexactness that can creep in:\nfloat f = 0.1f;\nfloat sum;\nsum = 0;\n\nfor (int i = 0; i \nThis code tries to calculate \u0026lsquo;one\u0026rsquo; in three different ways: repeated adding, and two slight variants of multiplication. Naturally we get three different results, and only one of them is 1.0:\nsum=1.000000119209290, mul=1.000000000000000, mul2=1.000000014901161\nDisclaimer: the results you get will depend on your compiler, your CPU, and your compiler settings, which actually helps make the point.\nSo what happened, and which one is correct?\nWhat do you mean \u0026lsquo;correct\u0026rsquo;?\nBefore we can continue I need to make clear the difference between 0.1, float(0.1), and double(0.1). In C/C++ the numbers 0.1 and double(0.1) are the same thing, but when I say \u0026ldquo;0.1\u0026rdquo; in text I mean the exact base-10 number, whereas float(0.1) and double(0.1) are rounded versions of 0.1. And, to be clear, float(0.1) and double(0.1) don\u0026rsquo;t have the same value, because float(0.1) has fewer binary digits, and therefore has more error. Here are the exact values for 0.1, float(0.1), and double(0.1):\nNumber\nValue\n0.1\n0.1 (of course)\nfloat(.1)\n0.100000001490116119384765625\ndouble(.1)\n0.10000000000000000555111512312578270211815834045 41015625\nWith that settled, let\u0026rsquo;s look at the results of the code above:\nsum = 1.000000119209290: this calculation starts with a rounded value and then adds it ten times with potential rounding at each add, so there is lots of room for error to creep in. The final result is not 1.0, and it is not 10 * float(0.1). However it is the next representable float above 1.0, so it is very close.\nmul = 1.000000000000000: this calculation starts with a rounded value and then multiplies by ten, so there are fewer opportunities for error to creep in. It turns out that the conversion from 0.1 to float(0.1) rounds up, but the multiplication by ten happens to, in this case, round down, and sometimes two rounds make a right. So we get the right answer for the wrong reasons. Or maybe it\u0026rsquo;s the wrong answer, since it isn\u0026rsquo;t actually ten times float(0.1) !\nmul2 = 1.000000014901161: this calculation starts with a rounded value and then does a double-precision multiply by ten, thus avoiding any subsequent rounding error. So we get a different right answer \u0026ndash; the exact value of 10 * float(0.1) (which can be stored in a double but not in a float).\nSo, answer one is incorrect, but it\u0026rsquo;s only one float away. Answer two is correct (but inexact), whereas answer three is completely correct (but appears wrong).\nNow what?\nNow we have a couple of different answers (I\u0026rsquo;m going to ignore the double precision answer), so what do we do? What if we are looking for results that are equal to one, but we also want to count any that are plausibly equal to one \u0026ndash; results that are \u0026ldquo;close enough\u0026rdquo;.\nEpsilon comparisons\nIf comparing floats for equality is a bad idea then how about checking whether their difference is within some error bounds or epsilon value, like this:\nbool isEqual = fabs(f1 \u0026ndash; f2) \nWith this calculation we can express the concept of two floats being close enough that we want to consider them to be equal. But what value should we use for epsilon?\nGiven our experimentation above we might be tempted to use the error in our sum, which was about 1.19e-7f. In fact, there\u0026rsquo;s even a define in float.h with that exact value, and it\u0026rsquo;s called FLT_EPSILON.\nClearly that\u0026rsquo;s it. The header file gods have spoken and FLT_EPSILON is the one true epsilon!\nExcept that that is rubbish. For numbers between 1.0 and 2.0 FLT_EPSILON represents the difference between adjacent floats. For numbers smaller than 1.0 an epsilon of FLT_EPSILON quickly becomes too large, and with small enough numbers FLT_EPSILON may be bigger than the numbers you are comparing (a variant of this led to a flaky Chromium test)!\nFor numbers larger than 2.0 the gap between floats grows larger and if you compare floats using FLT_EPSILON then you are just doing a more-expensive and less-obvious equality check. That is, if two floats greater than 2.0 are not the same then their difference is guaranteed to be greater t…",
+        "thumb_url": "http://randomascii.files.wordpress.com/2012/02/image_thumb5.png?fit=200%2C150",
+        "service_name": "Random ASCII - tech blog of Bruce Dawson",
+        "service_icon": "https://randomascii.files.wordpress.com/2017/07/cropped-uiforetwicon2.png?w=180",
+        "from_url": "https://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/",
+        "original_url": "https://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/",
+        "blocks": null
+      }
+    ],
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/gC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ah yes. the good old fun of floating point numbers: "
+              },
+              {
+                "type": "link",
+                "url": "https://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

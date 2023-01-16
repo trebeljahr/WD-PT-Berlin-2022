@@ -1,0 +1,2407 @@
+[
+  {
+    "client_msg_id": "5ae221af-1a41-47ab-98aa-287b8191bc8c",
+    "type": "message",
+    "user": "U03NF3FU4CD",
+    "text": "the dependencies should be installed in the inside the project folder, where package.json is located, right?",
+    "ts": "1662663109.702109",
+    "thread_ts": "1662663109.702109",
+    "last_read": "1662663337.400769",
+    "subscribed": true,
+    "reply_count": 9,
+    "replies": [
+      {
+        "user": "U03P4005U76",
+        "ts": "1662663123.145189"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1662663127.879149"
+      },
+      {
+        "user": "U03NF3FU4CD",
+        "ts": "1662663188.245029"
+      },
+      {
+        "user": "U03NF3FU4CD",
+        "ts": "1662663232.141629"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1662663245.489689"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1662663265.565289"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1662663276.769749"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1662663305.736319"
+      },
+      {
+        "user": "U03NF3FU4CD",
+        "ts": "1662663337.400769"
+      }
+    ],
+    "latest_reply": "1662663337.400769",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RpeB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the dependencies should be installed in the inside the project folder, where package.json is located, right?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "gffbd1f8138d",
+      "image_72": "https://secure.gravatar.com/avatar/ffbd1f8138d8ce7282914f927aa4c382.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Hector",
+      "real_name": "Hector Fernandez",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "hfernandez04",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U03NF3FU4CD",
+      "U03P4005U76"
+    ]
+  },
+  {
+    "client_msg_id": "dc02dacc-ce59-4873-9aba-dafa21f18b4d",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "yup",
+    "ts": "1662663123.145189",
+    "thread_ts": "1662663109.702109",
+    "parent_user_id": "U03NF3FU4CD",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BH6m",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yup"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "00afc2cb-d2cc-4c26-ab9e-47d1c1995332",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "you just run npm install from there.",
+    "ts": "1662663127.879149",
+    "thread_ts": "1662663109.702109",
+    "parent_user_id": "U03NF3FU4CD",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1HC5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you just run npm install from there."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "692e693d-4c83-4576-bd4b-04e6ae7b6acd",
+    "type": "message",
+    "user": "U03NF3FU4CD",
+    "text": "the program says no such file or directory",
+    "ts": "1662663188.245029",
+    "thread_ts": "1662663109.702109",
+    "edited": {
+      "user": "U03NF3FU4CD",
+      "ts": "1662663199.000000"
+    },
+    "parent_user_id": "U03NF3FU4CD",
+    "files": [
+      {
+        "id": "F0417B5S1B9",
+        "created": 1662663178,
+        "timestamp": 1662663178,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03NF3FU4CD",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 20689,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F0417B5S1B9-image.png",
+        "url_private_download": "attachments/F0417B5S1B9-image.png",
+        "original_h": 141,
+        "original_w": 613,
+        "thumb_64": "https://files.slack.com/files-tmb/T03NM2X0JCR-F0417B5S1B9-4980551056/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T03NM2X0JCR-F0417B5S1B9-4980551056/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T03NM2X0JCR-F0417B5S1B9-4980551056/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T03NM2X0JCR-F0417B5S1B9-4980551056/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 83,
+        "thumb_480": "https://files.slack.com/files-tmb/T03NM2X0JCR-F0417B5S1B9-4980551056/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 110,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://wd-pt-12jul.slack.com/files/U03NF3FU4CD/F0417B5S1B9/image.png",
+        "permalink_public": "https://slack-files.com/T03NM2X0JCR-F0417B5S1B9-4691403636",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VkCd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the program says no such file or directory"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "gffbd1f8138d",
+      "image_72": "https://secure.gravatar.com/avatar/ffbd1f8138d8ce7282914f927aa4c382.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Hector",
+      "real_name": "Hector Fernandez",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "hfernandez04",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1cea2daf-3990-4094-b0f6-b40af969b603",
+    "type": "message",
+    "user": "U03NF3FU4CD",
+    "text": "should I run first mongoDB?",
+    "ts": "1662663232.141629",
+    "thread_ts": "1662663109.702109",
+    "parent_user_id": "U03NF3FU4CD",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5Wwh3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "should I run first mongoDB?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "gffbd1f8138d",
+      "image_72": "https://secure.gravatar.com/avatar/ffbd1f8138d8ce7282914f927aa4c382.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Hector",
+      "real_name": "Hector Fernandez",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "hfernandez04",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7117ac10-0eb2-4656-9f8c-86f82a96e69a",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "you didn't fix your npm yet :wink:\nremember that you had the same issue last time, when trying to set up WSL - because your node install was done on Windows instead of on WSL...",
+    "ts": "1662663245.489689",
+    "thread_ts": "1662663109.702109",
+    "parent_user_id": "U03NF3FU4CD",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Op6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you didn't fix your npm yet "
+              },
+              {
+                "type": "emoji",
+                "name": "wink",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\nremember that you had the same issue last time, when trying to set up WSL - because your node install was done on Windows instead of on WSL..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bdb2a203-ce3f-4629-8c1c-927e97ae11cf",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "hence the script for npm tries running a bash script with a bash programm that doesn't exist.",
+    "ts": "1662663265.565289",
+    "thread_ts": "1662663109.702109",
+    "parent_user_id": "U03NF3FU4CD",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "61h",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hence the script for npm tries running a bash script with a bash programm that doesn't exist."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "197a8dc7-5b82-4a86-9ae9-5415bd61de13",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "for now, just use git bash, since it should work there I think.",
+    "ts": "1662663276.769749",
+    "thread_ts": "1662663109.702109",
+    "parent_user_id": "U03NF3FU4CD",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ra6mr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "for now, just use git bash, since it should work there I think."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7aac71c5-0f4d-465a-a294-e5dea965021a",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "and then:\n\u003chttps://stackoverflow.com/questions/67938486/after-installing-npm-on-wsl-ubuntu-20-04-i-get-the-message-usr-bin-env-bash\u003e",
+    "ts": "1662663305.736319",
+    "thread_ts": "1662663109.702109",
+    "attachments": [
+      {
+        "fallback": "Stack Overflow: After installing npm on WSL Ubuntu 20.04 I get the message \"/usr/bin/env: ‘bash\\r’: No such file or directory\"",
+        "id": 1,
+        "title": "After installing npm on WSL Ubuntu 20.04 I get the message \"/usr/bin/env: ‘bash\\r’: No such file or directory\"",
+        "title_link": "https://stackoverflow.com/questions/67938486/after-installing-npm-on-wsl-ubuntu-20-04-i-get-the-message-usr-bin-env-bash",
+        "text": "I see the following message when running the npm install or npm command from the terminal. Executing node works as expected. \u0026gt; npm install /usr/bin/env: ‘bash\\r’: No such file or directory",
+        "thumb_url": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+        "service_name": "Stack Overflow",
+        "service_icon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a",
+        "from_url": "https://stackoverflow.com/questions/67938486/after-installing-npm-on-wsl-ubuntu-20-04-i-get-the-message-usr-bin-env-bash",
+        "original_url": "https://stackoverflow.com/questions/67938486/after-installing-npm-on-wsl-ubuntu-20-04-i-get-the-message-usr-bin-env-bash",
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "U03NF3FU4CD",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "15ua",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "and then:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://stackoverflow.com/questions/67938486/after-installing-npm-on-wsl-ubuntu-20-04-i-get-the-message-usr-bin-env-bash",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0860fe6b-3d24-4a95-b905-e7a366570ea8",
+    "type": "message",
+    "user": "U03NF3FU4CD",
+    "text": "ook. thanks! :raised_hands:",
+    "ts": "1662663337.400769",
+    "thread_ts": "1662663109.702109",
+    "parent_user_id": "U03NF3FU4CD",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2613",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ook. thanks! "
+              },
+              {
+                "type": "emoji",
+                "name": "raised_hands",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "gffbd1f8138d",
+      "image_72": "https://secure.gravatar.com/avatar/ffbd1f8138d8ce7282914f927aa4c382.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Hector",
+      "real_name": "Hector Fernandez",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "hfernandez04",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e8fee6fc-52db-47a3-b69f-a7d8140f4413",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "I would like to have top level await, so I changed the import statements and now have .mjs files. But I'm getting an error. Is it because I connected to the database first?\n\n```Error: Cannot find module 'C:\\Users\\joshu\\Documents\\Actual Documents Folder\\Dev\\Ironhack\\week2\\day2\\lab-mongoose\\index.js'```",
+    "ts": "1662664602.143939",
+    "thread_ts": "1662664602.143939",
+    "last_read": "1662664731.129049",
+    "subscribed": true,
+    "reply_count": 8,
+    "replies": [
+      {
+        "user": "U03P4005U76",
+        "ts": "1662664634.535879"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1662664659.685669"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1662664661.510589"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1662664670.536079"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1662664677.363399"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1662664690.778119"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1662664716.324169"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1662664731.129049"
+      }
+    ],
+    "latest_reply": "1662664731.129049",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WjRZl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I would like to have top level await, so I changed the import statements and now have .mjs files. But I'm getting an error. Is it because I connected to the database first?\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"Error: Cannot find module 'C:\\\\Users\\\\joshu\\\\Documents\\\\Actual Documents Folder\\\\Dev\\\\Ironhack\\\\week2\\\\day2\\\\lab-mongoose\\\\index.js'\"}],\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U03NJ0VSF8A",
+      "U03P4005U76"
+    ]
+  },
+  {
+    "client_msg_id": "c149f414-5560-4ef8-8f72-330290040b2a",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "you are trying to run .js where you want to run .mjs",
+    "ts": "1662664634.535879",
+    "thread_ts": "1662664602.143939",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nDNf+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you are trying to run .js where you want to run .mjs"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6d7397ee-5489-4160-8c3f-d70c7c0be079",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "probably your script in package.json is referencing index.js if you use npm start or npm run dev or something like this.",
+    "ts": "1662664659.685669",
+    "thread_ts": "1662664602.143939",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "T8p",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "probably your script in package.json is referencing index.js if you use npm start or npm run dev or something like this."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "85808e11-9052-4536-becf-dba9170a4cdd",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "you know what's coming...?",
+    "ts": "1662664661.510589",
+    "thread_ts": "1662664602.143939",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/sqx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you know what's coming...?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ac6bde78-cbcc-4612-b518-20bbcd7fff1f",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "this guy: :roll-safe:",
+    "ts": "1662664670.536079",
+    "thread_ts": "1662664602.143939",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "myV7g",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this guy: "
+              },
+              {
+                "type": "emoji",
+                "name": "roll-safe",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b3c7278e-31c3-41be-98ad-6d7ce815ab45",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "hahaha",
+    "ts": "1662664677.363399",
+    "thread_ts": "1662664602.143939",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ROtgo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hahaha"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7a082a16-670b-47ed-bb76-5241d7ce370e",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "that made me laugh :slightly_smiling_face:",
+    "ts": "1662664690.778119",
+    "thread_ts": "1662664602.143939",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cEtf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "that made me laugh "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ccb6ca71-b94e-4b07-ba1b-7777b95e4a64",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "not to be confused with :roller_skate:",
+    "ts": "1662664716.324169",
+    "thread_ts": "1662664602.143939",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "l+/Kv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "not to be confused with "
+              },
+              {
+                "type": "emoji",
+                "name": "roller_skate",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "624e6424-3304-4d51-a238-522b31712b39",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": ":smile:",
+    "ts": "1662664731.129049",
+    "thread_ts": "1662664602.143939",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5wK6J",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "smile",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1d473a32-d8f5-44be-a866-3af5e662aa50",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "I´m missing something I guess:\n\nHow do I make this\n```const Recipe = require('./models/Recipe.model');```\nan ES Module import?",
+    "ts": "1662664871.214489",
+    "thread_ts": "1662664871.214489",
+    "last_read": "1662665335.212899",
+    "subscribed": true,
+    "reply_count": 19,
+    "replies": [
+      {
+        "user": "U03P4005U76",
+        "ts": "1662664904.101589"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1662665034.540349"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1662665040.843659"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1662665053.110129"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1662665060.722289"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1662665077.396779"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1662665090.603159"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1662665107.419739"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1662665162.760629"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1662665170.484659"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1662665197.933829"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1662665210.512579"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1662665215.197979"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1662665273.001159"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1662665273.097839"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1662665304.294709"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1662665319.535709"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1662665333.207619"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1662665335.212899"
+      }
+    ],
+    "latest_reply": "1662665335.212899",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iRq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I´m missing something I guess:\n\nHow do I make this\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"const Recipe = require('.\\/models\\/Recipe.model');\"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "an ES Module import?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U03NJ0V8G2W",
+      "U03NJ0VSF8A",
+      "U03P4005U76"
+    ]
+  },
+  {
+    "client_msg_id": "fcf46322-631d-4f40-8de3-bbebcc18b577",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "import Recipe from \"./models/Recipe.model\"",
+    "ts": "1662664904.101589",
+    "thread_ts": "1662664871.214489",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iWG=p",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "import Recipe from \"./models/Recipe.model\""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "db1a83da-596d-4681-87e5-5dd2ae4efaad",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "```node:internal/process/esm_loader:94\n    internalBinding('errors').triggerUncaughtException(\n                              ^\n\nError [ERR_MODULE_NOT_FOUND]: Cannot find module 'C:\\Users\\bernd\\code\\_IRONHACK\\labs\\_week 9\\lab-mongoose-recipes\\models\\Recipe.model' imported from C:\\Users\\bernd\\code\\_IRONHACK\\labs\\_week 9\\lab-mongoose-recipes\\index.mjs\nDid you mean to import ../models/Recipe.model.js?\n←[90m    at new NodeError (node:internal/errors:372:5)←[39m\n←[90m    at finalizeResolution (node:internal/modules/esm/resolve:437:11)←[39m\n←[90m    at moduleResolve (node:internal/modules/esm/resolve:1009:10)←[39m\n←[90m    at defaultResolve (node:internal/modules/esm/resolve:1218:11)←[39m\n←[90m    at ESMLoader.resolve (node:internal/modules/esm/loader:580:30)←[39m\n←[90m    at ESMLoader.getModuleJob (node:internal/modules/esm/loader:294:18)←[39m\n←[90m    at ModuleWrap.\u0026lt;anonymous\u0026gt; (node:internal/modules/esm/module_job:80:40)←[39m\n←[90m    at link (node:internal/modules/esm/module_job:78:36)←[39m {\n  code: ←[32m'ERR_MODULE_NOT_FOUND'←[39m\n}```",
+    "ts": "1662665034.540349",
+    "thread_ts": "1662664871.214489",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9XKxh",
+        "elements": [
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"node:internal\\/process\\/esm_loader:94\\n    internalBinding('errors').triggerUncaughtException(\\n                              ^\\n\\nError [ERR_MODULE_NOT_FOUND]: Cannot find module 'C:\\\\Users\\\\bernd\\\\code\\\\_IRONHACK\\\\labs\\\\_week 9\\\\lab-mongoose-recipes\\\\models\\\\Recipe.model' imported from C:\\\\Users\\\\bernd\\\\code\\\\_IRONHACK\\\\labs\\\\_week 9\\\\lab-mongoose-recipes\\\\index.mjs\\nDid you mean to import ..\\/models\\/Recipe.model.js?\\n\\u2190[90m    at new NodeError (node:internal\\/errors:372:5)\\u2190[39m\\n\\u2190[90m    at finalizeResolution (node:internal\\/modules\\/esm\\/resolve:437:11)\\u2190[39m\\n\\u2190[90m    at moduleResolve (node:internal\\/modules\\/esm\\/resolve:1009:10)\\u2190[39m\\n\\u2190[90m    at defaultResolve (node:internal\\/modules\\/esm\\/resolve:1218:11)\\u2190[39m\\n\\u2190[90m    at ESMLoader.resolve (node:internal\\/modules\\/esm\\/loader:580:30)\\u2190[39m\\n\\u2190[90m    at ESMLoader.getModuleJob (node:internal\\/modules\\/esm\\/loader:294:18)\\u2190[39m\\n\\u2190[90m    at ModuleWrap.\u003canonymous\u003e (node:internal\\/modules\\/esm\\/module_job:80:40)\\u2190[39m\\n\\u2190[90m    at link (node:internal\\/modules\\/esm\\/module_job:78:36)\\u2190[39m {\\n  code: \\u2190[32m'ERR_MODULE_NOT_FOUND'\\u2190[39m\\n}\"}],\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "153980cb-0e11-4820-85a8-dbb3f4fe1f88",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "Somehow not",
+    "ts": "1662665040.843659",
+    "thread_ts": "1662664871.214489",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "B1lN5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Somehow not"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "32f4f21d-ab96-4d34-a482-177a1e0d5d0c",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "hmmm that's odd.",
+    "ts": "1662665053.110129",
+    "thread_ts": "1662664871.214489",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5zVb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hmmm that's odd."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8030a0ca-ce7a-4630-ba02-8c4e725c04c4",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "let me check.",
+    "ts": "1662665060.722289",
+    "thread_ts": "1662664871.214489",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Y3rvS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "let me check."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "13c83537-20e3-449f-bd04-a77280a2542e",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "I copypasted yours, so no typo",
+    "ts": "1662665077.396779",
+    "thread_ts": "1662664871.214489",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Z+ZQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I copypasted yours, so no typo"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "acf36f8d-c093-4d10-9db2-0d8e5e6f3a8e",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "i'm having an issue also with import data too",
+    "ts": "1662665090.603159",
+    "thread_ts": "1662664871.214489",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4dB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i'm having an issue also with import data too"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "107332f6-90ed-4e5e-81c3-734678b6c8b2",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "yeah, it might be that node is trying to resolve it to a .mjs file and doesn't find a .mjs file.",
+    "ts": "1662665107.419739",
+    "thread_ts": "1662664871.214489",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pbTd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yeah, it might be that node is trying to resolve it to a .mjs file and doesn't find a .mjs file."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1c9583e7-9ffe-46d2-8ccf-73ae3081b8d3",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "but the solution is in the error message if you read closely :wink:",
+    "ts": "1662665162.760629",
+    "thread_ts": "1662664871.214489",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qXfDQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "but the solution is in the error message if you read closely "
+              },
+              {
+                "type": "emoji",
+                "name": "wink",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "064507b7-56de-4ad2-8c9e-4c5aaaded7f2",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "Did you mean to import ../models/Recipe.model.js?",
+    "ts": "1662665170.484659",
+    "thread_ts": "1662664871.214489",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jKEB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Did you mean to import ../models/Recipe.model.js?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4f6df60a-1299-4ed0-be08-1c5679621f23",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "thats not working either",
+    "ts": "1662665197.933829",
+    "thread_ts": "1662664871.214489",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "98dE6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thats not working either"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4b0aac04-df56-440b-8ddc-2af495cd20ca",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "Also ...model.mjs isn´t",
+    "ts": "1662665210.512579",
+    "thread_ts": "1662664871.214489",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RG=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Also ...model.mjs isn´t"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ef7f3689-ab3b-4da9-9e19-d707260049a1",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "./models/Recipe.model.js",
+    "ts": "1662665215.197979",
+    "thread_ts": "1662664871.214489",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QF7N",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "./models/Recipe.model.js"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fc9de2a9-cd98-4168-91b0-e0727d0d2020",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "I also tried that",
+    "ts": "1662665273.001159",
+    "thread_ts": "1662664871.214489",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "a/S",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I also tried that"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "223205fc-8d20-44b3-829b-4d53253e1cae",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "I wonder why the error message says ../models ^^\nbut ./models should definitely work!",
+    "ts": "1662665273.097839",
+    "thread_ts": "1662664871.214489",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rc=0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I wonder why the error message says ../models ^^\nbut ./models should definitely work!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "32ca3d26-ea20-42f7-8878-80347cb6a620",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "I just tried that and it does work for me... can I hop into your room?",
+    "ts": "1662665304.294709",
+    "thread_ts": "1662664871.214489",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "l3gr+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I just tried that and it does work for me... can I hop into your room?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "206732c1-c356-46b6-9bc0-3fce68a217c3",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "can i join, i'm having similar issue with data import",
+    "ts": "1662665319.535709",
+    "thread_ts": "1662664871.214489",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "liAvy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "can i join, i'm having similar issue with data import"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f5fdc67d-317c-4c55-a97d-3e561211b757",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "sure.",
+    "ts": "1662665333.207619",
+    "thread_ts": "1662664871.214489",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eLt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "sure."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "075beb80-0d52-4d3c-a071-49ed2b43c68c",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "sure",
+    "ts": "1662665335.212899",
+    "thread_ts": "1662664871.214489",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "J1F",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "sure"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "aac4e3f5-cc1d-4de8-97be-45a504884da1",
+    "type": "message",
+    "user": "U03NBCRJ99U",
+    "text": "following the code",
+    "ts": "1662666441.965589",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "q3g0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "following the code"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g573a376398a",
+      "image_72": "https://secure.gravatar.com/avatar/573a376398a82acb061e12fb20ba25f7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Antonio",
+      "real_name": "Antonio Vara Piquer",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "ghezath",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b8ca8c7a-1248-4514-bf5c-2d5e150f8697",
+    "type": "message",
+    "user": "U03NBCRJ99U",
+    "text": "// Connection to the database \"recipe-app\"\nmongoose\n  .connect(MONGODB_URI)\n  .then((x) =\u0026gt; {\n    console.log(`Connected to the database: \"${x.connection.name}\"`);\n    // Before adding any recipes to the database, let's remove all existing ones\n    return Recipe.deleteMany();\n  })\n  .then(async () =\u0026gt; {\n    // Run your code here, after you have insured that the connection was made\n    await recipe1.save();\n  })\n  .catch((error) =\u0026gt; {\n    console.error(\"Error connecting to the database\", error);\n  });",
+    "ts": "1662666446.383759",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dxWr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "// Connection to the database \"recipe-app\"\nmongoose\n  .connect(MONGODB_URI)\n  .then((x) =\u003e {\n    console.log(`Connected to the database: \"${x.connection.name}\"`);\n    // Before adding any recipes to the database, let's remove all existing ones\n    return Recipe.deleteMany();\n  })\n  .then(async () =\u003e {\n    // Run your code here, after you have insured that the connection was made\n    await recipe1.save();\n  })\n  .catch((error) =\u003e {\n    console.error(\"Error connecting to the database\", error);\n  });"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g573a376398a",
+      "image_72": "https://secure.gravatar.com/avatar/573a376398a82acb061e12fb20ba25f7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Antonio",
+      "real_name": "Antonio Vara Piquer",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "ghezath",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7a6c52d2-058d-47cc-9d46-c2c28a276c0b",
+    "type": "message",
+    "user": "U03NBCRJ99U",
+    "text": "why is not inserting??",
+    "ts": "1662666463.255949",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OuU94",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "why is not inserting??"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g573a376398a",
+      "image_72": "https://secure.gravatar.com/avatar/573a376398a82acb061e12fb20ba25f7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Antonio",
+      "real_name": "Antonio Vara Piquer",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "ghezath",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b1d27d5d-2e44-4b86-b275-f4c8e40dc680",
+    "type": "message",
+    "user": "U03NBCRJ99U",
+    "text": "the db is created",
+    "ts": "1662666511.042539",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xsu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the db is created"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g573a376398a",
+      "image_72": "https://secure.gravatar.com/avatar/573a376398a82acb061e12fb20ba25f7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Antonio",
+      "real_name": "Antonio Vara Piquer",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "ghezath",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "af5a4778-df6e-433b-ab84-db815fa88267",
+    "type": "message",
+    "user": "U03NBCRJ99U",
+    "text": "ok solved my issue",
+    "ts": "1662668043.728619",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1Vsl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ok solved my issue"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g573a376398a",
+      "image_72": "https://secure.gravatar.com/avatar/573a376398a82acb061e12fb20ba25f7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Antonio",
+      "real_name": "Antonio Vara Piquer",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "ghezath",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

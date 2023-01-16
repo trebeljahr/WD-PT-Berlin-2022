@@ -1,0 +1,1113 @@
+[
+  {
+    "client_msg_id": "2edd443a-9fe1-458f-92eb-f550b9ebb3fc",
+    "type": "message",
+    "user": "U03NF3FU4CD",
+    "text": "Hi Rico! Can you come to my room, please, when you have are free? :slightly_smiling_face:",
+    "ts": "1671269603.706329",
+    "thread_ts": "1671269603.706329",
+    "last_read": "1671269614.367909",
+    "subscribed": true,
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U03P4005U76",
+        "ts": "1671269614.367909"
+      }
+    ],
+    "latest_reply": "1671269614.367909",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "eyes",
+        "count": 1,
+        "users": [
+          "U03P4005U76"
+        ]
+      },
+      {
+        "name": "white_check_mark",
+        "count": 1,
+        "users": [
+          "U03P4005U76"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "c/KE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi Rico! Can you come to my room, please, when you have are free? "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "gffbd1f8138d",
+      "image_72": "https://secure.gravatar.com/avatar/ffbd1f8138d8ce7282914f927aa4c382.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Hector",
+      "real_name": "Hector Fernandez",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "hfernandez04",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U03P4005U76"
+    ]
+  },
+  {
+    "client_msg_id": "bb7b708a-a476-46e8-a13d-7191731549ec",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "sure",
+    "ts": "1671269614.367909",
+    "thread_ts": "1671269603.706329",
+    "parent_user_id": "U03NF3FU4CD",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "G+fSE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "sure"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c2bd17d0-57b1-46be-a868-76a0756cb866",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "I am moving places now - if there are questions - I'll be back hopefully around 14:00. Let's see.",
+    "ts": "1671280226.651579",
+    "thread_ts": "1671280226.651579",
+    "last_read": "1671287309.438249",
+    "subscribed": true,
+    "reply_count": 4,
+    "replies": [
+      {
+        "user": "U03P4005U76",
+        "ts": "1671286603.737679"
+      },
+      {
+        "user": "U03NLD7B69J",
+        "ts": "1671287300.901019"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1671287308.486379"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1671287309.438249"
+      }
+    ],
+    "latest_reply": "1671287309.438249",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "eyes",
+        "count": 1,
+        "users": [
+          "U03P4005U76"
+        ]
+      },
+      {
+        "name": "white_check_mark",
+        "count": 1,
+        "users": [
+          "U03P4005U76"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "K4XC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am moving places now - if there are questions - I'll be back hopefully around 14:00. Let's see."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U03NLD7B69J",
+      "U03P4005U76"
+    ]
+  },
+  {
+    "client_msg_id": "aeed0ae8-4882-48a7-9e44-1718903cbc52",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "that took longer, but I am back for questions now. \u003c@U03NLD7B69J\u003e you said you had something that needed clearing up in the standup?",
+    "ts": "1671286603.737679",
+    "thread_ts": "1671280226.651579",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ip+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "that took longer, but I am back for questions now. "
+              },
+              {
+                "type": "user",
+                "user_id": "U03NLD7B69J"
+              },
+              {
+                "type": "text",
+                "text": " you said you had something that needed clearing up in the standup?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6abe35d9-5ddf-4416-a19c-b856c9b081fb",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "what is the best way to view the current byte size of a project, with installed packages included?",
+    "ts": "1671286969.672599",
+    "thread_ts": "1671286969.672599",
+    "last_read": "1671287339.826489",
+    "subscribed": true,
+    "reply_count": 11,
+    "replies": [
+      {
+        "user": "U03P4005U76",
+        "ts": "1671286990.975549"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1671287004.503279"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1671287078.986829"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1671287114.755999"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1671287134.170859"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1671287156.065809"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1671287158.998449"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1671287289.549489"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1671287300.636609"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1671287302.677849"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1671287339.826489"
+      }
+    ],
+    "latest_reply": "1671287339.826489",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kla",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what is the best way to view the current byte size of a project, with installed packages included?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U03NJ0VSF8A",
+      "U03P4005U76"
+    ]
+  },
+  {
+    "client_msg_id": "ddb512ac-775f-4448-96e8-a5c556393923",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "wdym byte size?",
+    "ts": "1671286990.975549",
+    "thread_ts": "1671286969.672599",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lSH0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "wdym byte size?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8b94b2ca-b71b-4a87-9ee9-c6177c3ad7e2",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "of what you end up deploying or what the size on your actual filesystem is?",
+    "ts": "1671287004.503279",
+    "thread_ts": "1671286969.672599",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Zd3x",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "of what you end up deploying or what the size on your actual filesystem is?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1329373a-02cf-4118-9bc6-78e07000d5a9",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "deployed size",
+    "ts": "1671287078.986829",
+    "thread_ts": "1671286969.672599",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "I6k76",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "deployed size"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d9803473-15df-4ca2-bb51-0cef3495c228",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "this is commonly called bundle size and there is tools for that that you can use with create react app.",
+    "ts": "1671287114.755999",
+    "thread_ts": "1671286969.672599",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sQJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this is commonly called bundle size and there is tools for that that you can use with create react app."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bc2971d3-0dca-4639-9134-2d8c4a1f054f",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "\u003chttps://create-react-app.dev/docs/analyzing-the-bundle-size/\u003e",
+    "ts": "1671287134.170859",
+    "thread_ts": "1671286969.672599",
+    "attachments": [
+      {
+        "fallback": "Analyzing the Bundle Size | Create React App",
+        "id": 1,
+        "title": "Analyzing the Bundle Size | Create React App",
+        "title_link": "https://create-react-app.dev/docs/analyzing-the-bundle-size/",
+        "text": "Source map explorer analyzes",
+        "image_url": "https://create-react-app.dev/img/logo-og.png",
+        "service_name": "create-react-app.dev",
+        "service_icon": "https://create-react-app.dev/img/favicon/favicon.ico",
+        "from_url": "https://create-react-app.dev/docs/analyzing-the-bundle-size/",
+        "original_url": "https://create-react-app.dev/docs/analyzing-the-bundle-size/",
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "a+oM1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://create-react-app.dev/docs/analyzing-the-bundle-size/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ea2db18d-79bd-4988-b883-58f199f8491e",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "this is the official stuff.",
+    "ts": "1671287156.065809",
+    "thread_ts": "1671286969.672599",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HtFTC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this is the official stuff."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "24c7fadf-341d-4cd4-ac02-633b38d590ee",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "there is also this:\n\u003chttps://www.npmjs.com/package/cra-bundle-analyzer\u003e",
+    "ts": "1671287158.998449",
+    "thread_ts": "1671286969.672599",
+    "attachments": [
+      {
+        "fallback": "npm: cra-bundle-analyzer",
+        "id": 1,
+        "title": "cra-bundle-analyzer",
+        "title_link": "https://www.npmjs.com/package/cra-bundle-analyzer",
+        "text": "Use Webpack Bundle Analyzer on a create-react-app application without ejecting. Latest version: 0.1.1, last published: a year ago. Start using cra-bundle-analyzer in your project by running `npm i cra-bundle-analyzer`. There is 1 other project in the npm registry using cra-bundle-analyzer.",
+        "thumb_url": "https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png",
+        "service_name": "npm",
+        "service_icon": "https://static.npmjs.com/58a19602036db1daee0d7863c94673a4.png",
+        "from_url": "https://www.npmjs.com/package/cra-bundle-analyzer",
+        "original_url": "https://www.npmjs.com/package/cra-bundle-analyzer",
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=EYq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "there is also this:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.npmjs.com/package/cra-bundle-analyzer",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "96ae33d1-0062-4249-b504-b009ffd674db",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "if you want to performance optimize it makes sense to check that code is correctly tree-shaken. No-unnecessary imports and stuff, only import things that you need, and maybe look into React Lazy Loading + Suspense to only load components when you actually need them.",
+    "ts": "1671287289.549489",
+    "thread_ts": "1671286969.672599",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "t6bd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "if you want to performance optimize it makes sense to check that code is correctly tree-shaken. No-unnecessary imports and stuff, only import things that you need, and maybe look into React Lazy Loading + Suspense to only load components when you actually need them."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b23a43b8-ee1b-4591-8500-690bb8350177",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "which are pretty new features btw. :slightly_smiling_face:",
+    "ts": "1671287300.636609",
+    "thread_ts": "1671286969.672599",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "suAjF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "which are pretty new features btw. "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e64ed929-9a49-44e4-8414-63e8901ae010",
+    "type": "message",
+    "user": "U03NLD7B69J",
+    "text": "Yes, if you have the time, it would be nice if you could come to our room :)",
+    "ts": "1671287300.901019",
+    "thread_ts": "1671280226.651579",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qsW5W",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes, if you have the time, it would be nice if you could come to our room :)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g5b3832c7bc9",
+      "image_72": "https://secure.gravatar.com/avatar/5b3832c7bc9769902f1c78b69eb42613.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Patrick",
+      "real_name": "Patrick",
+      "display_name": "Patrick",
+      "team": "T03NM2X0JCR",
+      "name": "patrick_groot",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0006e7a1-65ad-487e-8e70-2cf43941ca65",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "\u003chttps://www.emgoto.com/react-bundles-and-code-splitting/\u003e",
+    "ts": "1671287302.677849",
+    "thread_ts": "1671286969.672599",
+    "attachments": [
+      {
+        "fallback": "Analyze your React app’s bundle size and reduce it using code-splitting",
+        "id": 1,
+        "title": "Analyze your React app’s bundle size and reduce it using code-splitting",
+        "title_link": "https://www.emgoto.com/react-bundles-and-code-splitting/",
+        "text": "As your React app gets larger, you may have to start worrying about its bundle size . An app’s bundle size is the amount of JavaScript a…",
+        "image_url": "https://www.emgoto.com/react-bundles-and-code-splitting-twitter.png",
+        "service_name": "emgoto.com",
+        "service_icon": "https://www.emgoto.com/icons/icon-48x48.png?v=8b04b41fa9a416036dc4dde96c145951",
+        "from_url": "https://www.emgoto.com/react-bundles-and-code-splitting/",
+        "original_url": "https://www.emgoto.com/react-bundles-and-code-splitting/",
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U03NJ0VSF8A"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "f5p",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.emgoto.com/react-bundles-and-code-splitting/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0365ee91-77dc-4a33-be93-cb1eb66293d5",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": ":+1:",
+    "ts": "1671287308.486379",
+    "thread_ts": "1671280226.651579",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "voPnB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "thumbsup",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "accf3c3d-2555-4120-852d-e675e246cbae",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "omw",
+    "ts": "1671287309.438249",
+    "thread_ts": "1671280226.651579",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CrhZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "omw"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6aad7e58-851c-4cf5-8fdc-e364b98ae3a3",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "awesome thanks! i just got curious as i installed a few packages",
+    "ts": "1671287339.826489",
+    "thread_ts": "1671286969.672599",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bHt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "awesome thanks! i just got curious as i installed a few packages"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

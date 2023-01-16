@@ -1,0 +1,240 @@
+[
+  {
+    "client_msg_id": "ec3c90b8-1fe1-41b9-b3c0-3d1f4baf8562",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "Hi \u003c@U03NKPQSAA0\u003e \u0026amp; \u003c@U041YEBQVHB\u003e! We were sent an email for Career Services week, but when I click on the schedule I only see the fulltime schedule. Is this the planned schedule for January?",
+    "ts": "1671025930.206379",
+    "thread_ts": "1671025930.206379",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1671025941.321599"
+      }
+    ],
+    "latest_reply": "1671025941.321599",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HDjF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi "
+              },
+              {
+                "type": "user",
+                "user_id": "U03NKPQSAA0"
+              },
+              {
+                "type": "text",
+                "text": " \u0026 "
+              },
+              {
+                "type": "user",
+                "user_id": "U041YEBQVHB"
+              },
+              {
+                "type": "text",
+                "text": "! We were sent an email for Career Services week, but when I click on the schedule I only see the fulltime schedule. Is this the planned schedule for January?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U03NJ0VSF8A"
+    ]
+  },
+  {
+    "client_msg_id": "2806fe67-466e-465e-b2fa-9cebf8d0ad9f",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "ts": "1671025941.321599",
+    "thread_ts": "1671025930.206379",
+    "parent_user_id": "U03NJ0VSF8A",
+    "files": [
+      {
+        "id": "F04F6JBAWE7",
+        "created": 1671025935,
+        "timestamp": 1671025935,
+        "name": "Screenshot_2.jpg",
+        "title": "Screenshot_2.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U03NJ0VSF8A",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 170218,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04F6JBAWE7-Screenshot_2.jpg",
+        "url_private_download": "attachments/F04F6JBAWE7-Screenshot_2.jpg",
+        "original_h": 905,
+        "original_w": 1300,
+        "thumb_64": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04F6JBAWE7-febdd3a306/screenshot_2_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04F6JBAWE7-febdd3a306/screenshot_2_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04F6JBAWE7-febdd3a306/screenshot_2_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04F6JBAWE7-febdd3a306/screenshot_2_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 251,
+        "thumb_480": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04F6JBAWE7-febdd3a306/screenshot_2_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 334,
+        "thumb_720": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04F6JBAWE7-febdd3a306/screenshot_2_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 501,
+        "thumb_960": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04F6JBAWE7-febdd3a306/screenshot_2_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 668,
+        "thumb_1024": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04F6JBAWE7-febdd3a306/screenshot_2_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 713,
+        "permalink": "https://wd-pt-12jul.slack.com/files/U03NJ0VSF8A/F04F6JBAWE7/screenshot_2.jpg",
+        "permalink_public": "https://slack-files.com/T03NM2X0JCR-F04F6JBAWE7-14b79002df",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d8e93fba-e791-48df-a3a1-3eb891fee850",
+    "type": "message",
+    "user": "U03NKPQSAA0",
+    "text": "Hi Joshua, I think it is a mistake, it is the schedule for the Full-timers that have the Career Week next week.\nPlease don't take it into account :slightly_smiling_face:\nSorry for the confusion!",
+    "ts": "1671025984.513269",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "pray::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U03NJ0VSF8A"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U03NJ0VSF8A"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bWUMt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi Joshua, I think it is a mistake, it is the schedule for the Full-timers that have the Career Week next week.\nPlease don't take it into account "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\nSorry for the confusion!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "161b83e3a9a4",
+      "image_72": "https://avatars.slack-edge.com/2022-10-18/4224394580103_161b83e3a9a4989c5f84_72.png",
+      "first_name": "Joyce",
+      "real_name": "Joyce Bride - Program",
+      "display_name": "Joyce Bride",
+      "team": "T03NM2X0JCR",
+      "name": "joyce.bride",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

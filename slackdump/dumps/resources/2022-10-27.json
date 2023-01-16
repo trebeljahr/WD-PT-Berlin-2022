@@ -1,0 +1,88 @@
+[
+  {
+    "client_msg_id": "5fcf126e-862a-4e00-8cfb-d4b2dba835eb",
+    "type": "message",
+    "user": "U03NF3FU4CD",
+    "text": "So the problem with the react app not uploading is that I had the folder inmy windows system. With other projects I had no problme but with this it seems to hbe an issue:\nHow did it solve it?\n1. Create a folder inside Ubuntu folder: \u003cfile://wsl.localhost/Ubuntu/home/USERNAME|\\\\wsl.localhost\\Ubuntu\\home\\USERNAME\u003e to host the projects\n2. Clone the project there\nThen I run into some errors. For that, if found these 2 good resources\n• \u003chttps://www.alpharithms.com/fix-react-scripts-command-not-found-error-211814/#fix-4-install-react-scripts-again-locally|React Scripts Command not Found Error\u003e\n• \u003chttps://reactgo.com/typeerror-err-invalid-arg-type-react/|[ERR_INVALID_ARG_TYPE]\u003e\nCU on Saturday! :fire:",
+    "ts": "1666900092.084379",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "count": 1,
+        "users": [
+          "U03P4005U76"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8T5H",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So the problem with the react app not uploading is that I had the folder inmy windows system. With other projects I had no problme but with this it seems to hbe an issue:\nHow did it solve it?\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Create a folder inside Ubuntu folder: \"},{\"type\":\"link\",\"url\":\"file:\\/\\/wsl.localhost\\/Ubuntu\\/home\\/USERNAME\",\"text\":\"\\\\\\\\wsl.localhost\\\\Ubuntu\\\\home\\\\USERNAME\"},{\"type\":\"text\",\"text\":\" to host the projects\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Clone the project there\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Then I run into some errors. For that, if found these 2 good resources\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"link\",\"url\":\"https:\\/\\/www.alpharithms.com\\/fix-react-scripts-command-not-found-error-211814\\/#fix-4-install-react-scripts-again-locally\",\"text\":\"React Scripts Command not Found Error\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"link\",\"url\":\"https:\\/\\/reactgo.com\\/typeerror-err-invalid-arg-type-react\\/\",\"text\":\"[ERR_INVALID_ARG_TYPE]\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "CU on Saturday! "
+              },
+              {
+                "type": "emoji",
+                "name": "fire",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "gffbd1f8138d",
+      "image_72": "https://secure.gravatar.com/avatar/ffbd1f8138d8ce7282914f927aa4c382.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Hector",
+      "real_name": "Hector Fernandez",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "hfernandez04",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,844 @@
+[
+  {
+    "client_msg_id": "cfc7a9a5-8e11-4691-8d5c-25d2705b7912",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "a few things useful for/from today's lectures – docs and stuff you can further dive into:\n\n\u003chttps://pm2.keymetrics.io/docs/usage/quick-start/\u003e\n\u003chttps://www.nginx.com/\u003e\n\u003chttps://www.ssh.com/academy/ssh/keygen\u003e\n\n\u003chttps://www.ssh.com/academy/ssh\u003e\n\u003chttps://www.linode.com/docs/guides/start-service-at-boot/\u003e\n\u003chttps://manual.uberspace.de/lang-nodejs/?highlight=nodejs\u003e",
+    "ts": "1669451756.060889",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jmf6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "a few things useful for/from today's lectures – docs and stuff you can further dive into:\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://pm2.keymetrics.io/docs/usage/quick-start/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.nginx.com/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.ssh.com/academy/ssh/keygen",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.ssh.com/academy/ssh",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.linode.com/docs/guides/start-service-at-boot/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://manual.uberspace.de/lang-nodejs/?highlight=nodejs",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "396a064f-769d-4b38-b2a5-dbcf1632fd65",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "more resources from today:\n\nInteresting Tech Stack Stuff:\n\u003chttps://kafka.apache.org/\u003e\n\u003chttps://www.rabbitmq.com/\u003e\n\u003chttps://redis.io/\u003e\n\nHosting Providers:\n\u003chttps://www.digitalocean.com/\u003e\n\u003chttps://aws.amazon.com/\u003e\n\u003chttps://azure.microsoft.com/en-us/\u003e\n\u003chttps://cloud.google.com/\u003e\n\u003chttps://uberspace.de/en/\u003e",
+    "ts": "1669463464.572769",
+    "attachments": [
+      {
+        "fallback": "Redis",
+        "id": 1,
+        "title": "Redis",
+        "title_link": "https://redis.io/",
+        "text": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache, and message broker",
+        "service_name": "redis.io",
+        "service_icon": "https://redis.io/images/favicons/apple-touch-icon.png",
+        "from_url": "https://redis.io/",
+        "original_url": "https://redis.io/",
+        "blocks": null
+      },
+      {
+        "fallback": "DigitalOcean | The Cloud for Builders",
+        "id": 2,
+        "title": "DigitalOcean | The Cloud for Builders",
+        "title_link": "https://www.digitalocean.com/",
+        "text": "Simple, scalable cloud computing solutions built for startups and small-to-midsize businesses.",
+        "thumb_url": "https://www.digitalocean.com/_next/static/media/social-share-default.e8530e9e.jpeg",
+        "service_name": "digitalocean.com",
+        "service_icon": "https://www.digitalocean.com/_next/static/media/apple-touch-icon.d7edaa01.png",
+        "from_url": "https://www.digitalocean.com/",
+        "original_url": "https://www.digitalocean.com/",
+        "blocks": null
+      },
+      {
+        "fallback": "Amazon Web Services, Inc.: Cloud Computing Services - Amazon Web Services (AWS)",
+        "id": 3,
+        "title": "Cloud Computing Services - Amazon Web Services (AWS)",
+        "title_link": "https://aws.amazon.com/",
+        "text": "Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use.",
+        "thumb_url": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_179x109.png",
+        "service_name": "Amazon Web Services, Inc.",
+        "service_icon": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "from_url": "https://aws.amazon.com/",
+        "original_url": "https://aws.amazon.com/",
+        "blocks": null
+      },
+      {
+        "fallback": "Cloud Computing Services | Microsoft Azure",
+        "id": 4,
+        "title": "Cloud Computing Services | Microsoft Azure",
+        "title_link": "https://azure.microsoft.com/en-us/",
+        "text": "Invent with purpose, realize cost savings, and make your organization more efficient with Microsoft Azure’s open and flexible cloud computing platform.",
+        "thumb_url": "https://azurecomcdn.azureedge.net/cvt-5983f2707de6e50e5020c6059b619845bc5be5434c362ed8e18652d58e15571e/images/shared/social/azure-icon-250x250.png",
+        "service_name": "Microsoft Azure",
+        "service_icon": "http://azurecomcdn.azureedge.net/cvt-5983f2707de6e50e5020c6059b619845bc5be5434c362ed8e18652d58e15571e/images/icon/apple-touch/57x57.png",
+        "from_url": "https://azure.microsoft.com/en-us/",
+        "original_url": "https://azure.microsoft.com/en-us/",
+        "blocks": null
+      }
+    ],
+    "edited": {
+      "user": "U03P4005U76",
+      "ts": "1669463501.000000"
+    },
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fhig",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "more resources from today:\n\nInteresting Tech Stack Stuff:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://kafka.apache.org/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.rabbitmq.com/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://redis.io/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\nHosting Providers:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.digitalocean.com/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://aws.amazon.com/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://azure.microsoft.com/en-us/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://cloud.google.com/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://uberspace.de/en/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9e108267-2c83-4e1d-9e90-f58220fde60a",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "Docker",
+    "ts": "1669463467.685969",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "j118",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Docker"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7ee87435-8383-4b00-97d7-df3162157f15",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "\u003chttps://hub.docker.com/\u003e\n\u003chttps://medium.com/bb-tutorials-and-thoughts/develop-nodejs-rest-api-with-mongodb-using-docker-compose-df9a37287aed\u003e\n\u003chttps://nodejs.org/en/docs/guides/nodejs-docker-webapp/\u003e",
+    "ts": "1669463469.134059",
+    "edited": {
+      "user": "U03P4005U76",
+      "ts": "1669463532.000000"
+    },
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NL4NF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://hub.docker.com/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://medium.com/bb-tutorials-and-thoughts/develop-nodejs-rest-api-with-mongodb-using-docker-compose-df9a37287aed",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://nodejs.org/en/docs/guides/nodejs-docker-webapp/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6c8e3406-9b9f-4c42-a1bd-9a4910e56f29",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "Uberspace:\n\u003chttps://manual.uberspace.de/\u003e\n\u003chttps://lab.uberspace.de/\u003e\n\ngood reads:\n\u003chttps://manual.uberspace.de/basics-ssh/\u003e\n\u003chttps://manual.uberspace.de/web-backends/\u003e\n\u003chttps://manual.uberspace.de/web-domains/\u003e\n\u003chttps://manual.uberspace.de/daemons-supervisord/\u003e",
+    "ts": "1669463656.731099",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ijM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Uberspace:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://manual.uberspace.de/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://lab.uberspace.de/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\ngood reads:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://manual.uberspace.de/basics-ssh/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://manual.uberspace.de/web-backends/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://manual.uberspace.de/web-domains/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://manual.uberspace.de/daemons-supervisord/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a2a7f72a-dad1-4909-8829-32a8f8859b49",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "Just as a summary for what we did today for deployment stuff:\n• Create Uberspace \n• SSH into it\n• SFTP copy files into it\n• Configure Backend on uberspace server\n• Configure Domain + Setup DNS Records on DNS Provider\n• Setup .ini daemon file – add it to supervisord so that service restarts\ndone :slightly_smiling_face:",
+    "ts": "1669463754.607869",
+    "edited": {
+      "user": "U03P4005U76",
+      "ts": "1669463766.000000"
+    },
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sA9l",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Just as a summary for what we did today for deployment stuff:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Create Uberspace \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"SSH into it\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"SFTP copy files into it\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Configure Backend on uberspace server\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Configure Domain + Setup DNS Records on DNS Provider\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Setup .ini daemon file \\u2013 add it to supervisord so that service restarts\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "done "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1e0eacf5-33fe-4864-81ca-cab5fde8665a",
+    "type": "message",
+    "user": "U03NBCRJ99U",
+    "text": "just one extra question, do we need to worry with security with uberspace?",
+    "ts": "1669463989.721379",
+    "thread_ts": "1669463989.721379",
+    "last_read": "1669468221.638599",
+    "subscribed": true,
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U03P4005U76",
+        "ts": "1669468101.357369"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1669468139.229259"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1669468221.638599"
+      }
+    ],
+    "latest_reply": "1669468221.638599",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iVyY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "just one extra question, do we need to worry with security with uberspace?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g573a376398a",
+      "image_72": "https://secure.gravatar.com/avatar/573a376398a82acb061e12fb20ba25f7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Antonio",
+      "real_name": "Antonio Vara Piquer",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "ghezath",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U03P4005U76"
+    ]
+  },
+  {
+    "client_msg_id": "ffcf16b0-5f7d-408c-b81e-203f74936df6",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "you always have to worry about security.",
+    "ts": "1669468101.357369",
+    "thread_ts": "1669463989.721379",
+    "parent_user_id": "U03NBCRJ99U",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ASk+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you always have to worry about security."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fc733bcc-8e93-4ae0-b388-48752916f6d4",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "but there is a difference between opening up your local network to the internet 24/7 to all IPs vs. having the open network on Uberspace's side.",
+    "ts": "1669468139.229259",
+    "thread_ts": "1669463989.721379",
+    "parent_user_id": "U03NBCRJ99U",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "syYO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "but there is a difference between opening up your local network to the internet 24/7 to all IPs vs. having the open network on Uberspace's side."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b8b24709-e7bf-4e4f-b22d-80b5b0d26f83",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "but still, even on Uberspaces side, there can be bugs, leaks, misconfigurations, things that go wrong etc. – however you have more of a dedicated team that can fix these things instead of you being on your own trying to fix them (probably causing more problems you don't know about yet...)",
+    "ts": "1669468221.638599",
+    "thread_ts": "1669463989.721379",
+    "parent_user_id": "U03NBCRJ99U",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Sl=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "but still, even on Uberspaces side, there can be bugs, leaks, misconfigurations, things that go wrong etc. – however you have more of a dedicated team that can fix these things instead of you being on your own trying to fix them (probably causing more problems you don't know about yet...)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9aec677c-8f4c-46a5-871f-24f707f7e3ca",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "Maybe we had both links already, but anyway...\n\n\u003chttps://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452\u003e\n I\nV\n\u003chttps://www.youtube.com/watch?v=pYeekwv3vC4\u003e",
+    "ts": "1669478579.429689",
+    "attachments": [
+      {
+        "fallback": "YouTube Video: JSON Web Tokens Suck",
+        "id": 1,
+        "author_name": "ForwardJS",
+        "author_link": "https://www.youtube.com/@ForwardJS",
+        "title": "JSON Web Tokens Suck",
+        "title_link": "https://www.youtube.com/watch?v=pYeekwv3vC4",
+        "thumb_url": "https://i.ytimg.com/vi/pYeekwv3vC4/hqdefault.jpg",
+        "service_name": "YouTube",
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "from_url": "https://www.youtube.com/watch?v=pYeekwv3vC4",
+        "original_url": "https://www.youtube.com/watch?v=pYeekwv3vC4",
+        "blocks": null
+      }
+    ],
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U03NJ0VSF8A"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wEV4Y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Maybe we had both links already, but anyway...\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n I\nV\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=pYeekwv3vC4",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,330 @@
+[
+  {
+    "client_msg_id": "79ddbb68-9d48-4647-84a7-3b0b06e6909e",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "the docs + this video helped me with the new react router stuff \u003chttps://www.youtube.com/watch?v=L2kzUg6IzxM\u0026amp;ab_channel=Academind\u003e",
+    "ts": "1668543533.053699",
+    "thread_ts": "1668543533.053699",
+    "attachments": [
+      {
+        "fallback": "YouTube Video: React Router 6.4 - Getting Started",
+        "id": 1,
+        "author_name": "Academind",
+        "author_link": "https://www.youtube.com/c/Academind",
+        "title": "React Router 6.4 - Getting Started",
+        "title_link": "https://www.youtube.com/watch?v=L2kzUg6IzxM\u0026amp;ab_channel=Academind",
+        "thumb_url": "https://i.ytimg.com/vi/L2kzUg6IzxM/hqdefault.jpg",
+        "service_name": "YouTube",
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "from_url": "https://www.youtube.com/watch?v=L2kzUg6IzxM\u0026amp;ab_channel=Academind",
+        "original_url": "https://www.youtube.com/watch?v=L2kzUg6IzxM\u0026amp;ab_channel=Academind",
+        "blocks": null
+      }
+    ],
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U03NF3FU4CD",
+        "ts": "1668543638.103759"
+      }
+    ],
+    "latest_reply": "1668543638.103759",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "rocket",
+        "count": 1,
+        "users": [
+          "U03NF3FU4CD"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eDAX5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the docs + this video helped me with the new react router stuff "
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=L2kzUg6IzxM\u0026ab_channel=Academind",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U03NF3FU4CD"
+    ]
+  },
+  {
+    "client_msg_id": "da573d42-d937-45dd-ac08-95b203e1bf0d",
+    "type": "message",
+    "user": "U03NF3FU4CD",
+    "text": "Thank you \u003c@U03NJ0VSF8A\u003e :pray:",
+    "ts": "1668543638.103759",
+    "thread_ts": "1668543533.053699",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Vnz2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you "
+              },
+              {
+                "type": "user",
+                "user_id": "U03NJ0VSF8A"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "pray",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "gffbd1f8138d",
+      "image_72": "https://secure.gravatar.com/avatar/ffbd1f8138d8ce7282914f927aa4c382.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Hector",
+      "real_name": "Hector Fernandez",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "hfernandez04",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f9c6a077-e749-4c92-bd42-7c734ed6c6dd",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "wow this is so cool.",
+    "ts": "1668543824.316089",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kmn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "wow this is so cool."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "05f15ced-4ac0-4d2a-88d2-e808e3c2d4dc",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "\u003chttps://reactrouter.com/en/main/hooks/use-fetcher\u003e",
+    "ts": "1668543825.530669",
+    "thread_ts": "1668543825.530669",
+    "last_read": "1668677031.843879",
+    "subscribed": true,
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U03P4005U76",
+        "ts": "1668544043.026069"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668677031.843879"
+      }
+    ],
+    "latest_reply": "1668677031.843879",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wkYy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://reactrouter.com/en/main/hooks/use-fetcher",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U03P4005U76"
+    ]
+  },
+  {
+    "client_msg_id": "cf86f3da-6f6f-44ff-8125-f954e020dfd8",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "thanks for sharing this \u003c@U03NJ0VSF8A\u003e I'll see, we can probably cover some of this on Thursday since we did the lectures on auth today in pretty much their entirety! :slightly_smiling_face:",
+    "ts": "1668544043.026069",
+    "thread_ts": "1668543825.530669",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "the_horns::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U03NJ0VSF8A"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HNa3P",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thanks for sharing this "
+              },
+              {
+                "type": "user",
+                "user_id": "U03NJ0VSF8A"
+              },
+              {
+                "type": "text",
+                "text": " I'll see, we can probably cover some of this on Thursday since we did the lectures on auth today in pretty much their entirety! "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

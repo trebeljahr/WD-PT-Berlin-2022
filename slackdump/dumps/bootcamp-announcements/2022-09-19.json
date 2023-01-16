@@ -1,0 +1,254 @@
+[
+  {
+    "client_msg_id": "2090c032-1023-4735-8759-2b810df34cbd",
+    "type": "message",
+    "user": "U03NKPQSAA0",
+    "text": "*Good afternoon \u003c!channel\u003e and welcome to the new Weekly Update* :sparkles:\n\n_This week \u0026gt;_ Don't forget to fill-out the survey please!\n\n_Friday_ \u0026gt; *Time for Ironbeers and Alumni Panel! 5:30 to 8pm at Berlin Campus*\nFrom 5:30pm we will host our Alumni Panel.\n\n*What it is?* :arrow_right: Ex-students from the 3 bootcamps will come and introduce themselves, their backgrounds, and what they are doing today. You can ask them anything you want: their experience at Ironhack, Final projects, job hunts...\nSo get ready and prepare some questions this week :white_check_mark:\n\n*After the talk, let’s get together with some drinks* :tada: :beers: *(non-alcoholic drinks as well!)*\n\nHave a great Week 11 team :blue_heart:\n\nYour Program Team\nMariel\u0026amp;Joyce :rainbow:",
+    "ts": "1663598259.785129",
+    "thread_ts": "1663598259.785129",
+    "edited": {
+      "user": "U03NKPQSAA0",
+      "ts": "1663598735.000000"
+    },
+    "last_read": "1663783432.072749",
+    "subscribed": true,
+    "reply_count": 5,
+    "replies": [
+      {
+        "user": "U03P4005U76",
+        "ts": "1663771810.672809"
+      },
+      {
+        "user": "U03NKPQSAA0",
+        "ts": "1663771849.437449"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1663771893.355139"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1663779410.283369"
+      },
+      {
+        "user": "U03NF3FU4CD",
+        "ts": "1663783432.072749"
+      }
+    ],
+    "latest_reply": "1663783432.072749",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 2,
+        "users": [
+          "U03P4005U76",
+          "U041YEBQVHB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "M6UP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Good afternoon ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " and welcome to the new Weekly Update ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "sparkles",
+                "skin_tone": 0,
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "This week \u003e ",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "Don't forget to fill-out the survey please!\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Friday",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " \u003e "
+              },
+              {
+                "type": "text",
+                "text": "Time for Ironbeers and Alumni Panel! 5:30 to 8pm at Berlin Campus",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\nFrom 5:30pm we will host our Alumni Panel.\n\n"
+              },
+              {
+                "type": "text",
+                "text": "What it is? ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "arrow_right",
+                "skin_tone": 0,
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "Ex-students"
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "from the 3 bootcamps will come and introduce themselves, their backgrounds, and what they are doing today. You can ask them anything you want: their experience at Ironhack, Final projects, job hunts...\nSo get ready and prepare some questions this week "
+              },
+              {
+                "type": "emoji",
+                "name": "white_check_mark",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "After the talk, let’s get together with some drinks ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "tada",
+                "skin_tone": 0,
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "beers",
+                "skin_tone": 0,
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " (non-alcoholic drinks as well!)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\nHave a great Week 11 team "
+              },
+              {
+                "type": "emoji",
+                "name": "blue_heart",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\nYour Program Team\nMariel\u0026Joyce "
+              },
+              {
+                "type": "emoji",
+                "name": "rainbow",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "161b83e3a9a4",
+      "image_72": "https://avatars.slack-edge.com/2022-10-18/4224394580103_161b83e3a9a4989c5f84_72.png",
+      "first_name": "Joyce",
+      "real_name": "Joyce Bride - Program",
+      "display_name": "Joyce Bride",
+      "team": "T03NM2X0JCR",
+      "name": "joyce.bride",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 4,
+    "reply_users": [
+      "U03NF3FU4CD",
+      "U03NJ0VSF8A",
+      "U03NKPQSAA0",
+      "U03P4005U76"
+    ]
+  }
+]

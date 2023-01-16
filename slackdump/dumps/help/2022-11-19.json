@@ -1,0 +1,4559 @@
+[
+  {
+    "client_msg_id": "35ada14c-7517-4850-8fcd-7d71a580656c",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "Fun with Ubuntu, just crashed. I hope I'll make it for standup, but let's see.",
+    "ts": "1668847762.399569",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "this-is-fine",
+        "count": 1,
+        "users": [
+          "U03P4005U76"
+        ]
+      },
+      {
+        "name": "melting_face",
+        "count": 1,
+        "users": [
+          "U03NJ0VSF8A"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AEXu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Fun with Ubuntu, just crashed. I hope I'll make it for standup, but let's see."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fda6b814-b14a-4aed-bb45-28b1e5990bd9",
+    "type": "message",
+    "user": "U03P4005U76",
+    "ts": "1668847783.747889",
+    "files": [
+      {
+        "id": "F04BH3M07DL",
+        "created": 1668847779,
+        "timestamp": 1668847779,
+        "name": "IMG_20221119_084923.jpg",
+        "title": "IMG_20221119_084923.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U03P4005U76",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 467748,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04BH3M07DL-IMG_20221119_084923.jpg",
+        "url_private_download": "attachments/F04BH3M07DL-IMG_20221119_084923.jpg",
+        "original_h": 3072,
+        "original_w": 4080,
+        "thumb_64": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BH3M07DL-c2f1e46d14/img_20221119_084923_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BH3M07DL-c2f1e46d14/img_20221119_084923_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BH3M07DL-c2f1e46d14/img_20221119_084923_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BH3M07DL-c2f1e46d14/img_20221119_084923_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 271,
+        "thumb_480": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BH3M07DL-c2f1e46d14/img_20221119_084923_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 361,
+        "thumb_720": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BH3M07DL-c2f1e46d14/img_20221119_084923_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 542,
+        "thumb_960": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BH3M07DL-c2f1e46d14/img_20221119_084923_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 723,
+        "thumb_1024": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BH3M07DL-c2f1e46d14/img_20221119_084923_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 771,
+        "permalink": "https://wd-pt-12jul.slack.com/files/U03P4005U76/F04BH3M07DL/img_20221119_084923.jpg",
+        "permalink_public": "https://slack-files.com/T03NM2X0JCR-F04BH3M07DL-509b4170b8",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "E8G",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "16db014e-1feb-4607-894f-5698cd1107ac",
+    "type": "message",
+    "user": "U03NF3FU4CD",
+    "text": "yes. Same for me",
+    "ts": "1668847932.428919",
+    "thread_ts": "1668812824.545819",
+    "parent_user_id": "U03NWL0SHQR",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=Ek+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes. Same for me"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "gffbd1f8138d",
+      "image_72": "https://secure.gravatar.com/avatar/ffbd1f8138d8ce7282914f927aa4c382.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Hector",
+      "real_name": "Hector Fernandez",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "hfernandez04",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cfc8b23c-17b1-4d39-adc1-22ecd4d1519e",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "I am still stuck in a loading screen :pensive:",
+    "ts": "1668848449.128339",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "egh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am still stuck in a loading screen "
+              },
+              {
+                "type": "emoji",
+                "name": "pensive",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "16f5b69d-3d5c-4a37-b618-6c7817904fa3",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "Shall we just start working?",
+    "ts": "1668848491.309709",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U03NF3FU4CD"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lZGe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Shall we just start working?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e8ae74e9-444a-4bc4-8461-11421193e4f6",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "Good luck!",
+    "ts": "1668848503.275089",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "f7g5l",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Good luck!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a8421635-c3bd-4884-ab4f-3680cf2ace07",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "Yeah pretty much. No standup today. Not sure how we can get rooms up for you. Maybe just get together in Google Meet or something.",
+    "ts": "1668848710.881749",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZmW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah pretty much. No standup today. Not sure how we can get rooms up for you. Maybe just get together in Google Meet or something."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "929f97f8-a293-4acc-be86-adca0412860a",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "Working for today means, figuring out what project you want to work on, what the scope is, what your first steps are. And I'll see if I can unbrick the computer...",
+    "ts": "1668848766.860199",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZF9D2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Working for today means, figuring out what project you want to work on, what the scope is, what your first steps are. And I'll see if I can unbrick the computer..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "91e1aac7-523e-443f-b6d8-b7f656fcc937",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "From the logs in journalctl it looks like Slack got itself hung up somehow earlier today leading to the system crash :tada: :lel:",
+    "ts": "1668851323.641269",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "facepalm",
+        "count": 1,
+        "users": [
+          "U03NJ0VSF8A"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vVo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "From the logs in journalctl it looks like Slack got itself hung up somehow earlier today leading to the system crash "
+              },
+              {
+                "type": "emoji",
+                "name": "tada",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "lel",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "97d5fbcc-9c2b-4f4e-8c95-1637fca2e38a",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "I'm having fun :see_no_evil: :this-is-fine:",
+    "ts": "1668851375.086209",
+    "files": [
+      {
+        "id": "F04BLQJ17EH",
+        "created": 1668851353,
+        "timestamp": 1668851353,
+        "name": "IMG_20221119_094857.jpg",
+        "title": "IMG_20221119_094857.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U03P4005U76",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 190228,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04BLQJ17EH-IMG_20221119_094857.jpg",
+        "url_private_download": "attachments/F04BLQJ17EH-IMG_20221119_094857.jpg",
+        "original_h": 3072,
+        "original_w": 4080,
+        "thumb_64": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BLQJ17EH-b50f5fbcc0/img_20221119_094857_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BLQJ17EH-b50f5fbcc0/img_20221119_094857_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BLQJ17EH-b50f5fbcc0/img_20221119_094857_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BLQJ17EH-b50f5fbcc0/img_20221119_094857_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 271,
+        "thumb_480": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BLQJ17EH-b50f5fbcc0/img_20221119_094857_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 361,
+        "thumb_720": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BLQJ17EH-b50f5fbcc0/img_20221119_094857_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 542,
+        "thumb_960": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BLQJ17EH-b50f5fbcc0/img_20221119_094857_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 723,
+        "thumb_1024": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BLQJ17EH-b50f5fbcc0/img_20221119_094857_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 771,
+        "permalink": "https://wd-pt-12jul.slack.com/files/U03P4005U76/F04BLQJ17EH/img_20221119_094857.jpg",
+        "permalink_public": "https://slack-files.com/T03NM2X0JCR-F04BLQJ17EH-2e7d5240ee",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "H/C4p",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm having fun "
+              },
+              {
+                "type": "emoji",
+                "name": "see_no_evil",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "this-is-fine",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "30c2c587-e958-4d1f-b4d3-7293ab637152",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "Slack bombarded my journalctl log files with ~3GB of messages?! + there is a separate issue where the Wifi here doesn't work, but the PC gets hung up on trying to autoconnect to it during boot. This is the worst Ubuntu is not wanting to work today session I've had ever.",
+    "ts": "1668855029.614409",
+    "thread_ts": "1668855029.614409",
+    "last_read": "1668860781.718569",
+    "subscribed": true,
+    "reply_count": 20,
+    "replies": [
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1668855081.888759"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668855151.557499"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668855286.213209"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668858198.371019"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668858226.252629"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668858270.525479"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1668858690.590649"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668858757.524579"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668858855.704179"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668859170.160819"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668859192.292599"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668859222.209219"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668859245.403259"
+      },
+      {
+        "user": "U03NF3FU4CD",
+        "ts": "1668859285.297369"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668859313.803009"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1668859374.739649"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668859537.931129"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668859598.633099"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1668859888.911619"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668860781.718569"
+      }
+    ],
+    "latest_reply": "1668860781.718569",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "see_no_evil",
+        "count": 3,
+        "users": [
+          "U03NLD7B69J",
+          "U03NJ0V8G2W",
+          "U03NF3FU4CD"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "25Lg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Slack bombarded my journalctl log files with ~3GB of messages?! + there is a separate issue where the Wifi here doesn't work, but the PC gets hung up on trying to autoconnect to it during boot. This is the worst Ubuntu is not wanting to work today session I've had ever."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 4,
+    "reply_users": [
+      "U03NF3FU4CD",
+      "U03NJ0V8G2W",
+      "U03NJ0VSF8A",
+      "U03P4005U76"
+    ]
+  },
+  {
+    "client_msg_id": "e88804ca-928b-470d-9bb7-c44a34443e41",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "im so sorry man",
+    "ts": "1668855081.888759",
+    "thread_ts": "1668855029.614409",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GVAVq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "im so sorry man"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0ca53c8c-3156-4af0-a16d-af8f8980ac2e",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "Haha on days like these I feel like buying a Mac after all :this-is-fine:",
+    "ts": "1668855151.557499",
+    "thread_ts": "1668855029.614409",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Cfw+T",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Haha on days like these I feel like buying a Mac after all "
+              },
+              {
+                "type": "emoji",
+                "name": "this-is-fine",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "00694672-613e-45eb-adca-9766b6f946a7",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "Too bad the cursor is at the wrong place lel",
+    "ts": "1668855286.213209",
+    "thread_ts": "1668855029.614409",
+    "parent_user_id": "U03P4005U76",
+    "files": [
+      {
+        "id": "F04BPML3YAX",
+        "created": 1668855255,
+        "timestamp": 1668855255,
+        "name": "IMG_20221119_105319.jpg",
+        "title": "IMG_20221119_105319.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U03P4005U76",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 357373,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04BPML3YAX-IMG_20221119_105319.jpg",
+        "url_private_download": "attachments/F04BPML3YAX-IMG_20221119_105319.jpg",
+        "original_h": 3072,
+        "original_w": 4080,
+        "thumb_64": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BPML3YAX-da82802961/img_20221119_105319_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BPML3YAX-da82802961/img_20221119_105319_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BPML3YAX-da82802961/img_20221119_105319_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BPML3YAX-da82802961/img_20221119_105319_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 271,
+        "thumb_480": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BPML3YAX-da82802961/img_20221119_105319_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 361,
+        "thumb_720": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BPML3YAX-da82802961/img_20221119_105319_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 542,
+        "thumb_960": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BPML3YAX-da82802961/img_20221119_105319_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 723,
+        "thumb_1024": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BPML3YAX-da82802961/img_20221119_105319_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 771,
+        "permalink": "https://wd-pt-12jul.slack.com/files/U03P4005U76/F04BPML3YAX/img_20221119_105319.jpg",
+        "permalink_public": "https://slack-files.com/T03NM2X0JCR-F04BPML3YAX-b0a0456aac",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FloJT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Too bad the cursor is at the wrong place lel"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d6b4dbb8-8d1c-46d4-9b37-5f62842e223a",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "Almost there.",
+    "ts": "1668858198.371019",
+    "thread_ts": "1668855029.614409",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "partying_face",
+        "count": 1,
+        "users": [
+          "U03NJ0V8G2W"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rCiaz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Almost there."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "226ab776-6d3c-479d-a01f-3ab1b2c85321",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "That was goddamn painful",
+    "ts": "1668858226.252629",
+    "thread_ts": "1668855029.614409",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mhjcx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That was goddamn painful"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b372a86d-7469-4816-a791-585b9bfdd9ff",
+    "type": "message",
+    "user": "U03P4005U76",
+    "ts": "1668858270.525479",
+    "thread_ts": "1668855029.614409",
+    "parent_user_id": "U03P4005U76",
+    "files": [
+      {
+        "id": "F04CDH8GAN4",
+        "created": 1668858225,
+        "timestamp": 1668858225,
+        "name": "IMG_20221119_114321.jpg",
+        "title": "IMG_20221119_114321.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U03P4005U76",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 511872,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04CDH8GAN4-IMG_20221119_114321.jpg",
+        "url_private_download": "attachments/F04CDH8GAN4-IMG_20221119_114321.jpg",
+        "original_h": 3072,
+        "original_w": 4080,
+        "thumb_64": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04CDH8GAN4-9af83589e2/img_20221119_114321_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04CDH8GAN4-9af83589e2/img_20221119_114321_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04CDH8GAN4-9af83589e2/img_20221119_114321_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04CDH8GAN4-9af83589e2/img_20221119_114321_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 271,
+        "thumb_480": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04CDH8GAN4-9af83589e2/img_20221119_114321_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 361,
+        "thumb_720": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04CDH8GAN4-9af83589e2/img_20221119_114321_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 542,
+        "thumb_960": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04CDH8GAN4-9af83589e2/img_20221119_114321_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 723,
+        "thumb_1024": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04CDH8GAN4-9af83589e2/img_20221119_114321_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 771,
+        "permalink": "https://wd-pt-12jul.slack.com/files/U03P4005U76/F04CDH8GAN4/img_20221119_114321.jpg",
+        "permalink_public": "https://slack-files.com/T03NM2X0JCR-F04CDH8GAN4-d3515f43fb",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SFM1=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bd5a0b12-46fd-4823-94de-2fb37b16905a",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "Do we meet after lunch?",
+    "ts": "1668858690.590649",
+    "thread_ts": "1668855029.614409",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "g5h",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Do we meet after lunch?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e8a43f46-aa2d-44ea-ac62-bd2632e537a4",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "Yup. Let's say 13:45? I think somebody has their lightning talk today no, was it \u003c@U03NWL0SHQR\u003e ? I hope I can make it, not 100% sure yet.",
+    "ts": "1668858757.524579",
+    "thread_ts": "1668855029.614409",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-4",
+        "count": 1,
+        "users": [
+          "U03NWL0SHQR"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yKtO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yup. Let's say 13:45? I think somebody has their lightning talk today no, was it "
+              },
+              {
+                "type": "user",
+                "user_id": "U03NWL0SHQR"
+              },
+              {
+                "type": "text",
+                "text": " ? I hope I can make it, not 100% sure yet."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a856a871-1685-45f6-a9d0-0a3b1d768d90",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "If my machine doesn't work, I'll try at least joining from the phone, to start the recording and listen in.",
+    "ts": "1668858855.704179",
+    "thread_ts": "1668855029.614409",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "a+XEw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If my machine doesn't work, I'll try at least joining from the phone, to start the recording and listen in."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "350e38d6-a70a-430a-99df-ac3fba020ba9",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "My god that took long but here we are :)",
+    "ts": "1668859170.160819",
+    "thread_ts": "1668855029.614409",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/pt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "My god that took long but here we are :)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "624a2c67-018d-4d22-93be-329ae97cb792",
+    "type": "message",
+    "user": "U03P4005U76",
+    "ts": "1668859192.292599",
+    "thread_ts": "1668855029.614409",
+    "parent_user_id": "U03P4005U76",
+    "files": [
+      {
+        "id": "F04BLU3FZ8V",
+        "created": 1668859186,
+        "timestamp": 1668859186,
+        "name": "IMG_20221119_115931.jpg",
+        "title": "IMG_20221119_115931.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U03P4005U76",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 279569,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04BLU3FZ8V-IMG_20221119_115931.jpg",
+        "url_private_download": "attachments/F04BLU3FZ8V-IMG_20221119_115931.jpg",
+        "original_h": 3072,
+        "original_w": 4080,
+        "thumb_64": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BLU3FZ8V-f06e96c826/img_20221119_115931_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BLU3FZ8V-f06e96c826/img_20221119_115931_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BLU3FZ8V-f06e96c826/img_20221119_115931_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BLU3FZ8V-f06e96c826/img_20221119_115931_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 271,
+        "thumb_480": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BLU3FZ8V-f06e96c826/img_20221119_115931_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 361,
+        "thumb_720": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BLU3FZ8V-f06e96c826/img_20221119_115931_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 542,
+        "thumb_960": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BLU3FZ8V-f06e96c826/img_20221119_115931_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 723,
+        "thumb_1024": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BLU3FZ8V-f06e96c826/img_20221119_115931_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 771,
+        "permalink": "https://wd-pt-12jul.slack.com/files/U03P4005U76/F04BLU3FZ8V/img_20221119_115931.jpg",
+        "permalink_public": "https://slack-files.com/T03NM2X0JCR-F04BLU3FZ8V-bc7395bd91",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "fire",
+        "count": 1,
+        "users": [
+          "U03NF3FU4CD"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "znv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "574b3f3a-e792-4207-8908-48c57daaffbb",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "At least I feel like I learned something now :joy:",
+    "ts": "1668859222.209219",
+    "thread_ts": "1668855029.614409",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "r5cKZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "At least I feel like I learned something now "
+              },
+              {
+                "type": "emoji",
+                "name": "joy",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "00c409b6-6c5f-4432-b7ba-ca2645a99e52",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "Buy a mac next time.",
+    "ts": "1668859245.403259",
+    "thread_ts": "1668855029.614409",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "rolling_on_the_floor_laughing",
+        "count": 1,
+        "users": [
+          "U03NJ0VSF8A"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aTG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Buy a mac next time."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9c0d39bc-3242-4c7a-af0f-c7c6e1fdc93c",
+    "type": "message",
+    "user": "U03NF3FU4CD",
+    "text": "How was the lab today Rico? :smile:",
+    "ts": "1668859285.297369",
+    "thread_ts": "1668855029.614409",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sA9+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "How was the lab today Rico? "
+              },
+              {
+                "type": "emoji",
+                "name": "smile",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "gffbd1f8138d",
+      "image_72": "https://secure.gravatar.com/avatar/ffbd1f8138d8ce7282914f927aa4c382.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Hector",
+      "real_name": "Hector Fernandez",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "hfernandez04",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8d041486-11c1-4317-a69e-ae2e3f762608",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "Intense :stuck_out_tongue_winking_eye:",
+    "ts": "1668859313.803009",
+    "thread_ts": "1668855029.614409",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "this-is-fine",
+        "count": 1,
+        "users": [
+          "U03NF3FU4CD"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+cH/e",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Intense "
+              },
+              {
+                "type": "emoji",
+                "name": "stuck_out_tongue_winking_eye",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "82f6ad79-b5f6-4c5e-a373-40a1d3051ced",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "In your experience, what is out there in CompanyWebDevLand: 1. Mac, 2. Linux, 3. Windows ?",
+    "ts": "1668859374.739649",
+    "thread_ts": "1668855029.614409",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "82N5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "In your experience, what is out there in CompanyWebDevLand: 1. Mac, 2. Linux, 3. Windows ?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "97335152-ffaf-4f99-947e-e49442a2c418",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "Yeah. In that order is how they are nice. Though Windows improved a lot in the last 5 years.",
+    "ts": "1668859537.931129",
+    "thread_ts": "1668855029.614409",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FNLn2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah. In that order is how they are nice. Though Windows improved a lot in the last 5 years."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d4a86afb-09ad-429a-9ad5-db8ab62b7b6c",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "Almost catching up with Linux for Web dev experience.",
+    "ts": "1668859598.633099",
+    "thread_ts": "1668855029.614409",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QmCB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Almost catching up with Linux for Web dev experience."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2c1dfb15-8319-4697-a4da-36477b954e13",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "I changed my macbook to run PopOS and so far it's been very nice. Pop is run by System76 who sell laptops, so they are v invested in keeping it smooth",
+    "ts": "1668859888.911619",
+    "thread_ts": "1668855029.614409",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/Hu6I",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I changed my macbook to run PopOS and so far it's been very nice. Pop is run by System76 who sell laptops, so they are v invested in keeping it smooth"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "395d87c9-5d8e-463d-b3f2-638da6e83599",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "looks cool.",
+    "ts": "1668860781.718569",
+    "thread_ts": "1668855029.614409",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lEv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "looks cool."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "926d238c-0c9b-4c00-bfa3-ba51dbf91438",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "\u003c!here\u003e you can come to the Zoom room for the talk :slightly_smiling_face: the Wifi here is broken, already contacted the people from the AirBnB... but my mobile internet should be good enough for me to listen to the Lightning Talk and start the recording. Let's see. :blush:",
+    "ts": "1668861686.384159",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "v9S",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "here"
+              },
+              {
+                "type": "text",
+                "text": " you can come to the Zoom room for the talk "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " the Wifi here is broken, already contacted the people from the AirBnB... but my mobile internet should be good enough for me to listen to the Lightning Talk and start the recording. Let's see. "
+              },
+              {
+                "type": "emoji",
+                "name": "blush",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "eeeef293-1fb5-4cdc-b43a-ef6e7d23e89d",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "Hey Rico, I am unable to import \"Routes\" from React Router. I had this problem on the lab and that's what led me to try the newer style. I see that you were able to use \"Routes\" when we learned it, but I cannot, even after rolling back to 5.3.4 and also installing react-router v5.3.4",
+    "ts": "1668869845.931079",
+    "thread_ts": "1668869845.931079",
+    "last_read": "1668871275.449189",
+    "subscribed": true,
+    "reply_count": 44,
+    "replies": [
+      {
+        "user": "U03P4005U76",
+        "ts": "1668869878.682039"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668869884.161159"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668869913.887269"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1668869925.878429"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668869932.191719"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668869937.203339"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1668869942.305249"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1668869954.288289"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668870067.264599"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668870115.850689"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1668870166.558889"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1668870206.412959"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1668870241.539189"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668870370.175099"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668870381.213849"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668870421.924049"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668870454.346049"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1668870467.149079"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1668870518.560319"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1668870521.772509"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668870564.528939"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668870621.109169"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668870780.553909"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1668870884.379789"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1668870898.505619"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668870908.510009"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668870919.161639"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1668870925.865969"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668870928.704559"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668870929.641669"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668870960.087519"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668870994.163899"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668871020.616159"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668871093.600159"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668871094.120099"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668871143.738089"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668871144.846749"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668871162.457219"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1668871214.488039"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668871219.942369"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668871228.504059"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1668871249.455459"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1668871260.472649"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1668871275.449189"
+      }
+    ],
+    "latest_reply": "1668871275.449189",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Z3XN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey Rico, I am unable to import \"Routes\" from React Router. I had this problem on the lab and that's what led me to try the newer style. I see that you were able to use \"Routes\" when we learned it, but I cannot, even after rolling back to 5.3.4 and also installing react-router v5.3.4"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U03NJ0VSF8A",
+      "U03P4005U76"
+    ]
+  },
+  {
+    "client_msg_id": "b6279fcb-bd75-440d-b8ce-1fbf64ab04ea",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "yeah, because you should be using react-router-dom.",
+    "ts": "1668869878.682039",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OHyO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yeah, because you should be using react-router-dom."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1847fff5-dc0c-44ad-a64e-36b34c00227c",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "not react-router :wink:",
+    "ts": "1668869884.161159",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZE6SK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "not react-router "
+              },
+              {
+                "type": "emoji",
+                "name": "wink",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ea588c62-9e28-4d31-9171-5e91ac8a5e9b",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "we had this in class though. I even did that wrong myself during the class and corrected it. Sorry if that caused confusion...",
+    "ts": "1668869913.887269",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FW4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "we had this in class though. I even did that wrong myself during the class and corrected it. Sorry if that caused confusion..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2c0e30c5-90a6-47fc-9507-e2d1f1ff1200",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "sorry i meant that i cannot use it with react-router-dom, neither version",
+    "ts": "1668869925.878429",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8htO1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "sorry i meant that i cannot use it with react-router-dom, neither version"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a7ec1b22-d84c-4123-a143-49f5914d1949",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "ah ok.",
+    "ts": "1668869932.191719",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MozXi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ah ok."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "85bebeb0-3d70-4b1c-8e2e-ec7791d886e1",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "that's weird.",
+    "ts": "1668869937.203339",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3U+n",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "that's weird."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "eaef722c-bee1-48f2-8761-84826e08fa14",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "just to check, i also installed react-router but it still doesn't work",
+    "ts": "1668869942.305249",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ysj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "just to check, i also installed react-router but it still doesn't work"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c9c41d4c-e893-4073-b7c9-b90fc002c062",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "but i also don't get any error from vs code on the import",
+    "ts": "1668869954.288289",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "454I",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "but i also don't get any error from vs code on the import"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "677950fe-0528-497c-acdd-2931326a5b6a",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "hmmm. what error do you get from the console?",
+    "ts": "1668870067.264599",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "taj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hmmm. what error do you get from the console?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3b9eea2d-6e3c-4157-a90c-7145b90347ab",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "what does your package.json look like? also try removing node_modules and package–lock.json and then npm i again.",
+    "ts": "1668870115.850689",
+    "thread_ts": "1668869845.931079",
+    "edited": {
+      "user": "U03P4005U76",
+      "ts": "1668870128.000000"
+    },
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "n1qc4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what does your package.json look like? also try removing node_modules and package–lock.json and then npm i again."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "76bc9eaf-e593-4b1f-94c8-02995cd37197",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "i deleted node_modules and reinstalled. this is the error\n```Failed to compile.\n\nAttempted import error: 'Routes' is not exported from 'react-router-dom' (imported as 'Routes').\nERROR in ./src/App.js 12:30-36\nexport 'Routes' (imported as 'Routes') was not found in 'react-router-dom' (possible exports: BrowserRouter, HashRouter, Link, MemoryRouter, NavLink, Prompt, Redirect, Route, Router, StaticRouter, Switch, generatePath, matchPath, useHistory, useLocation, useParams, useRouteMatch, withRouter)\n\nwebpack compiled with 1 error\n^C```",
+    "ts": "1668870166.558889",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sYeM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i deleted node_modules and reinstalled. this is the error\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"Failed to compile.\\n\\nAttempted import error: 'Routes' is not exported from 'react-router-dom' (imported as 'Routes').\\nERROR in .\\/src\\/App.js 12:30-36\\nexport 'Routes' (imported as 'Routes') was not found in 'react-router-dom' (possible exports: BrowserRouter, HashRouter, Link, MemoryRouter, NavLink, Prompt, Redirect, Route, Router, StaticRouter, Switch, generatePath, matchPath, useHistory, useLocation, useParams, useRouteMatch, withRouter)\\n\\nwebpack compiled with 1 error\\n^C\"}],\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "14e2cce0-99dc-484f-9f4c-7b498002bfd0",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "```import './App.css';\nimport { Route, Routes } from 'react-router-dom';\nimport { Homepage } from './components/Homepage';\nimport { Signup } from './components/Signup';\nimport { Login } from './components/Login';\nimport { Members } from './components/Members';\n\nfunction App() {\n  return (\n    \u0026lt;Routes\u0026gt;\n      \u0026lt;Route path=\"/\" element={\u0026lt;Homepage /\u0026gt;} /\u0026gt;\n      \u0026lt;Route path=\"signup\" element={\u0026lt;Signup /\u0026gt;} /\u0026gt;\n      \u0026lt;Route path=\"login\" element={\u0026lt;Login /\u0026gt;} /\u0026gt;\n      \u0026lt;Route path=\"members\" element={\u0026lt;Members /\u0026gt;} /\u0026gt;\n    \u0026lt;/Routes\u0026gt;\n  );\n}\n\nexport default App;```",
+    "ts": "1668870206.412959",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ERF+t",
+        "elements": [
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"import '.\\/App.css';\\nimport { Route, Routes } from 'react-router-dom';\\nimport { Homepage } from '.\\/components\\/Homepage';\\nimport { Signup } from '.\\/components\\/Signup';\\nimport { Login } from '.\\/components\\/Login';\\nimport { Members } from '.\\/components\\/Members';\\n\\nfunction App() {\\n  return (\\n    \u003cRoutes\u003e\\n      \u003cRoute path=\\\"\\/\\\" element={\u003cHomepage \\/\u003e} \\/\u003e\\n      \u003cRoute path=\\\"signup\\\" element={\u003cSignup \\/\u003e} \\/\u003e\\n      \u003cRoute path=\\\"login\\\" element={\u003cLogin \\/\u003e} \\/\u003e\\n      \u003cRoute path=\\\"members\\\" element={\u003cMembers \\/\u003e} \\/\u003e\\n    \u003c\\/Routes\u003e\\n  );\\n}\\n\\nexport default App;\"}],\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3c72e470-af48-43bd-a625-1fbab0d367c4",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "```{\n  \"name\": \"client\",\n  \"version\": \"0.1.0\",\n  \"private\": true,\n  \"dependencies\": {\n    \"@auth0/auth0-react\": \"^1.12.0\",\n    \"@testing-library/jest-dom\": \"^5.16.5\",\n    \"@testing-library/react\": \"^13.4.0\",\n    \"@testing-library/user-event\": \"^13.5.0\",\n    \"react\": \"^18.2.0\",\n    \"react-dom\": \"^18.2.0\",\n    \"react-router\": \"^5.3.4\",\n    \"react-router-dom\": \"^5.3.4\",\n    \"react-scripts\": \"5.0.1\",\n    \"web-vitals\": \"^2.1.4\"\n  },\n  \"scripts\": {\n    \"start\": \"react-scripts start\",\n    \"build\": \"react-scripts build\",\n    \"test\": \"react-scripts test\",\n    \"eject\": \"react-scripts eject\"\n  },\n  \"eslintConfig\": {\n    \"extends\": [\n      \"react-app\",\n      \"react-app/jest\"\n    ]\n  },\n  \"browserslist\": {\n    \"production\": [\n      \"\u0026gt;0.2%\",\n      \"not dead\",\n      \"not op_mini all\"\n    ],\n    \"development\": [\n      \"last 1 chrome version\",\n      \"last 1 firefox version\",\n      \"last 1 safari version\"\n    ]\n  },\n  \"devDependencies\": {\n    \"prettier\": \"^2.7.1\"\n  }\n}```",
+    "ts": "1668870241.539189",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dbd",
+        "elements": [
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"{\\n  \\\"name\\\": \\\"client\\\",\\n  \\\"version\\\": \\\"0.1.0\\\",\\n  \\\"private\\\": true,\\n  \\\"dependencies\\\": {\\n    \\\"@auth0\\/auth0-react\\\": \\\"^1.12.0\\\",\\n    \\\"@testing-library\\/jest-dom\\\": \\\"^5.16.5\\\",\\n    \\\"@testing-library\\/react\\\": \\\"^13.4.0\\\",\\n    \\\"@testing-library\\/user-event\\\": \\\"^13.5.0\\\",\\n    \\\"react\\\": \\\"^18.2.0\\\",\\n    \\\"react-dom\\\": \\\"^18.2.0\\\",\\n    \\\"react-router\\\": \\\"^5.3.4\\\",\\n    \\\"react-router-dom\\\": \\\"^5.3.4\\\",\\n    \\\"react-scripts\\\": \\\"5.0.1\\\",\\n    \\\"web-vitals\\\": \\\"^2.1.4\\\"\\n  },\\n  \\\"scripts\\\": {\\n    \\\"start\\\": \\\"react-scripts start\\\",\\n    \\\"build\\\": \\\"react-scripts build\\\",\\n    \\\"test\\\": \\\"react-scripts test\\\",\\n    \\\"eject\\\": \\\"react-scripts eject\\\"\\n  },\\n  \\\"eslintConfig\\\": {\\n    \\\"extends\\\": [\\n      \\\"react-app\\\",\\n      \\\"react-app\\/jest\\\"\\n    ]\\n  },\\n  \\\"browserslist\\\": {\\n    \\\"production\\\": [\\n      \\\"\u003e0.2%\\\",\\n      \\\"not dead\\\",\\n      \\\"not op_mini all\\\"\\n    ],\\n    \\\"development\\\": [\\n      \\\"last 1 chrome version\\\",\\n      \\\"last 1 firefox version\\\",\\n      \\\"last 1 safari version\\\"\\n    ]\\n  },\\n  \\\"devDependencies\\\": {\\n    \\\"prettier\\\": \\\"^2.7.1\\\"\\n  }\\n}\"}],\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e8bf24c9-8b82-46a3-b79f-ef3df8b996a9",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "can you remove react-router as a dep + change the version back to 6.4.3 in the package.json?",
+    "ts": "1668870370.175099",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OGmO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "can you remove react-router as a dep + change the version back to 6.4.3 in the package.json?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "072fdd9a-6539-4daa-9e93-6ff9e65d3381",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "then remove node_modules + package-lock and npm i again.",
+    "ts": "1668870381.213849",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gKlK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "then remove node_modules + package-lock and npm i again."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "aeed4244-264b-4a96-a208-0009f45db244",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "btw. for this latter task, people usually make themselves a little script tag in the package.json :wink: because it's a typical - hey I got a node_modules problem debug step, that you want it aliased haha",
+    "ts": "1668870421.924049",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Vtkf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "btw. for this latter task, people usually make themselves a little script tag in the package.json "
+              },
+              {
+                "type": "emoji",
+                "name": "wink",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " because it's a typical - hey I got a node_modules problem debug step, that you want it aliased haha"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8987b929-32d0-4cdb-a6f9-255a23b3dd0d",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "so you can do something like npm run cleanModules or something like that.",
+    "ts": "1668870454.346049",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QRdp/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "so you can do something like npm run cleanModules or something like that."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "04969f70-b383-4bbb-a4cc-2128f738a4ea",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "i could do this. i had it before, but then i needed useHistory() for installing auth0 which is only in 5.3.4....",
+    "ts": "1668870467.149079",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OvCGd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i could do this. i had it before, but then i needed useHistory() for installing auth0 which is only in 5.3.4...."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "792d29ff-b30d-47ee-aeae-f03890532998",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "BUT even when i was using 6.4.3 this is where \"Routes\" was coming from (??) and could not be found in react-router-dom\n```import { Routes } from '../node_modules/react-router/dist/index';```",
+    "ts": "1668870518.560319",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lRKH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "BUT even when i was using 6.4.3 this is where \"Routes\" was coming from (??) and could not be found in react-router-dom\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"import { Routes } from '..\\/node_modules\\/react-router\\/dist\\/index';\"}],\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2648257b-0253-449a-b7dd-124bceeac9e2",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "headache",
+    "ts": "1668870521.772509",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nahMv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "headache"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c0debf6f-3e0e-4f65-ac63-5e25d4b14193",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "why are you importing from node_modules directly? :confused:",
+    "ts": "1668870564.528939",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LYxc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "why are you importing from node_modules directly? "
+              },
+              {
+                "type": "emoji",
+                "name": "confused",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "89e32a5a-c42b-4a5c-9c43-69d16c8a844e",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "it *should* definitely be exported from react-router-dom...",
+    "ts": "1668870621.109169",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "276S",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "it "
+              },
+              {
+                "type": "text",
+                "text": "should",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " definitely be exported from react-router-dom..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "be545e61-119e-4600-be0f-338ee81a4f2c",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "I am digging through the 5.3.4 source now, to see if it might not be imported there...",
+    "ts": "1668870780.553909",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MhXQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am digging through the 5.3.4 source now, to see if it might not be imported there..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "262f330a-7bdc-4275-84ca-e4889da62cdb",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "i am spinning up a new create-react project to attempt to import it clean, and make sure i'm not nuts",
+    "ts": "1668870884.379789",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uOSi+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i am spinning up a new create-react project to attempt to import it clean, and make sure i'm not nuts"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3d02112f-f35f-4a3e-b723-d4f52af9f127",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "but i remember it was a big headache on the lab",
+    "ts": "1668870898.505619",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "inoJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "but i remember it was a big headache on the lab"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "04b1b953-1029-48ef-9de2-104bcfa36b23",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "I think it's not there in 5.3.4 I think.",
+    "ts": "1668870908.510009",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5Kr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think it's not there in 5.3.4 I think."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "97032074-9671-499b-adc6-e9b4d71a6417",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "because routes were handled different back then.",
+    "ts": "1668870919.161639",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "N0n",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "because routes were handled different back then."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b4796017-a588-4c2d-9224-ccbd92d20662",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "ah ok",
+    "ts": "1668870925.865969",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SXB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ah ok"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "eba14e5a-d7d8-43b5-abe1-0f083348f859",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "you should go and read their old docs",
+    "ts": "1668870928.704559",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RHfWx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you should go and read their old docs"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a21b72f5-a48b-41df-8995-4598f5d98ba3",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "\u003chttps://v5.reactrouter.com/web/guides/quick-start\u003e",
+    "ts": "1668870929.641669",
+    "thread_ts": "1668869845.931079",
+    "attachments": [
+      {
+        "fallback": "ReactRouterWebsite: React Router: Declarative Routing for React",
+        "id": 1,
+        "title": "React Router: Declarative Routing for React",
+        "title_link": "https://v5.reactrouter.com/web/guides/quick-start",
+        "text": "Learn once, Route Anywhere",
+        "service_name": "ReactRouterWebsite",
+        "service_icon": "https://v5.reactrouter.com/apple-touch-icon.png",
+        "from_url": "https://v5.reactrouter.com/web/guides/quick-start",
+        "original_url": "https://v5.reactrouter.com/web/guides/quick-start",
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NNFM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://v5.reactrouter.com/web/guides/quick-start",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5cce41c4-29cc-48fc-a342-f118242a6033",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "specifically you'll find a Switch component + a Router component instead of Routes.",
+    "ts": "1668870960.087519",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U03NJ0VSF8A"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Zek",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "specifically you'll find a Switch component + a Router component instead of Routes."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "19587e8e-97be-4f79-a656-fb8366e15bbd",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "honestly, I doubt you have to use the old version though... there is probably a way to have auth0 play nicely with the new stuff.",
+    "ts": "1668870994.163899",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WDw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "honestly, I doubt you have to use the old version though... there is probably a way to have auth0 play nicely with the new stuff."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a206d10a-2556-490a-a03f-f3cf397f80fe",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "\u003chttps://community.auth0.com/t/implementing-auth0-protected-routes-using-react-router-v6/75667\u003e",
+    "ts": "1668871020.616159",
+    "thread_ts": "1668869845.931079",
+    "attachments": [
+      {
+        "fallback": "Auth0 Community: Implementing Auth0 Protected Routes using React Router v6...?",
+        "id": 1,
+        "title": "Implementing Auth0 Protected Routes using React Router v6...?",
+        "title_link": "https://community.auth0.com/t/implementing-auth0-protected-routes-using-react-router-v6/75667",
+        "text": "Hello Friends, I’m wondering if there’s anyone who could please provide a resource on how to implement Auth0 Protected Route functionality using React Router v6? The Auth0 React tutorial that currently exists, while very while authored, appears to be for React Router version 5 or earlier. Hence, it does not appear to work for those of us who are using v6. I have tried to make the logical updates that one would expect going from RR v5 to v6, such as using “Navigate to” instead of “Redirect,” us...",
+        "image_url": "https://aws1.discourse-cdn.com/auth0/original/2X/b/b85bc0cd2f3222f25da99f2d0998fce4b1bb5b1c.png",
+        "service_name": "Auth0 Community",
+        "service_icon": "https://aws1.discourse-cdn.com/auth0/optimized/2X/f/f7cf26110e00f22ceed8706f9f9ea86ace75359d_2_180x180.png",
+        "from_url": "https://community.auth0.com/t/implementing-auth0-protected-routes-using-react-router-v6/75667",
+        "original_url": "https://community.auth0.com/t/implementing-auth0-protected-routes-using-react-router-v6/75667",
+        "fields": [
+          {
+            "title": "Reading time",
+            "value": "2 mins :clock2:",
+            "short": true
+          },
+          {
+            "title": "Likes",
+            "value": "19 :heart:",
+            "short": true
+          }
+        ],
+        "blocks": null,
+        "ts": 1640952782
+      }
+    ],
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rKoA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://community.auth0.com/t/implementing-auth0-protected-routes-using-react-router-v6/75667",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "afce3f7c-67b9-4d70-a35b-87696a13edda",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "there is even an example in their github",
+    "ts": "1668871093.600159",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sjL7j",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "there is even an example in their github"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "dc4fb44c-7229-4908-a168-d38e2c5709d6",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "\u003chttps://github.com/auth0/auth0-react/blob/master/EXAMPLES.md\u003e",
+    "ts": "1668871094.120099",
+    "thread_ts": "1668869845.931079",
+    "attachments": [
+      {
+        "color": "24292f",
+        "fallback": "\u003chttps://github.com/auth0/auth0-react/blob/master/EXAMPLES.md | EXAMPLES.md\u003e",
+        "id": 1,
+        "title": "\u003chttps://github.com/auth0/auth0-react/blob/master/EXAMPLES.md | EXAMPLES.md\u003e",
+        "text": "*Examples*\n\n• \u003chttps://github.com/auth0/auth0-react/blob/master/EXAMPLES.md#use-with-a-class-component|Use with a Class Component\u003e\n• \u003chttps://github.com/auth0/auth0-react/blob/master/EXAMPLES.md#protect-a-route|Protect a Route\u003e\n• \u003chttps://github.com/auth0/auth0-react/blob/master/EXAMPLES.md#call-an-api|Call an API\u003e\n• \u003chttps://github.com/auth0/auth0-react/blob/master/EXAMPLES.md#protecting-a-route-in-a-react-router-dom-v6-app|Protecting a route in a `react-router-dom v6` app\u003e\n• \u003chttps://github.com/auth0/auth0-react/blob/master/EXAMPLES.md#protecting-a-route-in-a-gatsby-app|Protecting a route in a Gatsby app\u003e\n• \u003chttps://github.com/auth0/auth0-react/blob/master/EXAMPLES.md#protecting-a-route-in-a-nextjs-app-in-spa-mode|Protecting a route in a Next.js app (in SPA mode)\u003e\n• \u003chttps://github.com/auth0/auth0-react/blob/master/EXAMPLES.md#create-a-useapi-hook-for-accessing-protected-apis-with-an-access-token|Create a `useApi` hook for accessing protected APIs with an access token.\u003e\n• \u003chttps://github.com/auth0/auth0-react/blob/master/EXAMPLES.md#use-with-auth0-organizations|Use with Auth0 organizations\u003e\n\n*Use with a Class Component*\n\nUse the `withAuth0` higher order component to add the `auth0` property to Class components:\n\n```\nimport React, { Component } from 'react';\nimport { withAuth0 } from '@auth0/auth0-react';\n\nclass Profile extends Component {\n  render() {\n    // `this.props.auth0` has all the same properties as the `useAuth0` hook\n    const { user } = this.props.auth0;\n    return \u003cdiv\u003eHello {user.name}\u003c/div\u003e;\n  }\n}\n\nexport default withAuth0(Profile);\n```\n\n*Protect a Route*\n\nProtect a route component using the `withAuthenticationRequired` higher order component. Visits to this route when unauthenticated will redirect the user to the login page and back to this page after login:\n\n```\nimport React from 'react';\nimport { withAuthenticationRequired } from '@auth0/auth0-react';\n\nconst PrivateRoute = () =\u003e \u003cdiv\u003ePrivate\u003c/div\u003e;\n\nexport default withAuthenticationRequired(PrivateRoute, {\n  // Show a message while the user waits to be redirected to the login page.\n  onRedirecting: () =\u003e \u003cdiv\u003eRedirecting you to the login page...\u003c/div\u003e,\n});\n```\n\n*Note* If you are using a custom router, you will need to supply the `Auth0Provider` with a custom `onRedirectCallback` method to perform the action that returns the user to the protected page. See examples for \u003chttps://github.com/auth0/auth0-react/blob/master/EXAMPLES.md#1-protecting-a-route-in-a-react-router-dom-app|react-router\u003e, \u003chttps://github.com/auth0/auth0-react/blob/master/EXAMPLES.md#2-protecting-a-route-in-a-gatsby-app|Gatsby\u003e and \u003chttps://github.com/auth0/auth0-react/blob/master/EXAMPLES.md#3-protecting-a-route-in-a-nextjs-app-in-spa-mode|Next.js\u003e.\n\n*Call an API*\n\nCall a protected API with an Access Token:\n\n```\nimport React, { useEffect, useState } from 'react';\nimport { useAuth0 } from '@auth0/auth0-react';\n\nconst Posts = () =\u003e {\n  const { getAccessTokenSilently } = useAuth0();\n  const [posts, setPosts] = useState(null);\n\n  useEffect(() =\u003e {\n    (async () =\u003e {\n      try {\n        const token = await getAccessTokenSilently({\n          audience: '\u003chttps://api.example.com/\u003e',\n          scope: 'read:posts',\n        });\n        const response = await fetch('\u003chttps://api.example.com/posts\u003e', {\n          headers: {\n            Authorization: `Bearer ${token}`,\n          },\n        });\n        setPosts(await response.json());\n      } catch (e) {\n        console.error(e);\n      }\n    })();\n  }, [getAccessTokenSilently]);\n\n  if (!posts) {\n    return \u003cdiv\u003eLoading...\u003c/div\u003e;\n  }\n\n  return (\n    \u003cul\u003e\n      {posts.map((post, index) =\u003e {\n        return \u003cli key={index}\u003e{post}\u003c/li\u003e;\n      })}\n    \u003c/ul\u003e\n  );\n};\n\nexport default Posts;\n```\n\nFor a more detailed example see how to \u003chttps://github.com/auth0/auth0-react/blob/master/EXAMPLES.md#create-a-useapi-hook-for-accessing-protected-apis-with-an-access-token|create a `useApi` hook for accessing protected APIs with an access token\u003e.\n\n*Protecting a route in a `react-router-dom v6` app*\n\nWe need to access the `useNavigate` hook so we can use `navigate` in `onRedirectCallback` to return us to our `returnUrl`.\n\nIn order to access `useNavigate` when defining our `Auth0Provider` we must nest it in `BrowserRouter` and use the navigate method from the hook in our `onRedirectCallback` config.\n\nWe can then use the `withAuthenticationRequired` HOC (Higher Order Component) to create a `ProtectedRoute` component that redirects anonymous users to the login page, before returning them to the protected route:\n\n```\nimport React from 'react';\nimport { Route, BrowserRouter, Routes, useNavigate } from 'react-router-dom';\nimport { Auth0Provider, withAuthenticationRequired } from '@auth0/auth0-react';\nimport Profile from './Profile';\n\nconst ProtectedRoute = ({ component, ...args }) =\u003e {\n  const Component = withAuthenticationRequired(component, args);\n  return \u003cComponent /\u003e;\n};\n\nconst Auth0ProviderWithRedirectCallback = ({ children, ...props }) =\u003e {\n  const navigate = useNavigate();\n  const onRedirectCallback = (appState) =\u003e {\n    navigate((appState \u0026\u0026 appState.returnTo) || window.location.pathname);\n  };\n  return (\n    \u003cAuth0Provider onRedirectCallback={onRedirectCallback} {...props}\u003e\n      {children}\n    \u003c/Auth0Provider\u003e\n  );\n};\n\nexport default function App() {\n  return (\n    \u003cBrowserRouter\u003e\n      \u003cAuth0ProviderWithRedirectCallback\n        domain=\"YOUR_AUTH0_DOMAIN\"\n        clientId=\"YOUR_AUTH0_CLIENT_ID\"\n        redirectUri={window.location.origin}\n      \u003e\n        \u003cRoutes\u003e\n          \u003cRoute path=\"/\" exact /\u003e\n          \u003cRoute\n            path=\"/profile\"\n            element={\u003cProtectedRoute component={Profile} /\u003e}\n          /\u003e\n        \u003c/Routes\u003e\n      \u003c/Auth0ProviderWithRedirectCallback\u003e\n    \u003c/BrowserRouter\u003e\n  );\n}\n```\n\nSee \u003c./examples/cra-react-router|react-router example app\u003e\n\n*Protecting a route in a Gatsby app*\n\nWrap the root element in your `Auth0Provider` to configure the SDK and setup the context for the `useAuth0` hook.\n\nThe `onRedirectCallback` will use `gatsby`'s `navigate` function to return the user to the protected route after the login:\n\n```\n// gatsby-browser.js\nimport React from 'react';\nimport { Auth0Provider } from '@auth0/auth0-react';\nimport { navigate } from 'gatsby';\n\nconst onRedirectCallback = (appState) =\u003e {\n  // Use Gatsby's navigate method to replace the url\n  navigate(appState?.returnTo || '/', { replace: true });\n};\n\nexport const wrapRootElement = ({ element }) =\u003e {\n  return (\n    \u003cAuth0Provider\n      domain=\"YOUR_AUTH0_DOMAIN\"\n      clientId=\"YOUR_AUTH0_CLIENT_ID\"\n      redirectUri={window.location.origin}\n      onRedirectCallback={onRedirectCallback}\n    \u003e\n      {element}\n    \u003c/Auth0Provider\u003e\n  );\n};\n```\n\nCreate a page that you want to be protected, e.g. a profile page, and wrap it in the `withAuthenticationRequired` HOC:\n\n```\n// src/pages/profile.js\nimport React from 'react';\nimport { useAuth0, withAuthenticationRequired } from '@auth0/auth0-react';\n\nconst Profile = () =\u003e {\n  const { user } = useAuth0();\n  return (\n    \u003cul\u003e\n      \u003cli\u003eName: {user.nickname}\u003c/li\u003e\n      \u003cli\u003eE-mail: {user.email}\u003c/li\u003e\n    \u003c/ul\u003e\n  );\n};\n\n// Wrap the component in the withAuthenticationRequired handler\nexport default withAuthenticationRequired(Profile);\n```\n\nSee \u003c./examples/gatsby-app|Gatsby example app\u003e\n\n*Protecting a route in a Next.js app (in SPA mode)*\n\nWrap the root element in your `Auth0Provider` to configure the SDK and setup the context for the `useAuth0` hook.\n\nThe `onRedirectCallback` will use `next`'s `Router.replace` function to return the user to the protected route after the login:\n\n```\n// pages/_app.js\nimport React from 'react';\nimport App from 'next/app';\nimport Router from 'next/router';\nimport { Auth0Provider } from '@auth0/auth0-react';\n\nconst onRedirectCallback = (appState) =\u003e {\n  // Use Next.js's Router.replace method to replace the url\n  Router.replace(appState?.returnTo || '/');\n};\n\nclass MyApp extends App {\n  render() {\n    const { Component, pageProps } = this.props;\n    retu…",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "blocks": null,
+        "footer": "\u003chttps://github.com/auth0/auth0-react|auth0/auth0-react\u003e",
+        "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png"
+      }
+    ],
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Z2mm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/auth0/auth0-react/blob/master/EXAMPLES.md",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c33641f0-5079-4d7f-9a4d-af67283644ee",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "which has a link to an example repo which you can look at in case you have problems.",
+    "ts": "1668871143.738089",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dig7s",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "which has a link to an example repo which you can look at in case you have problems."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "61969489-4178-4b04-849d-f896f3295874",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "\u003chttps://github.com/auth0/auth0-react/tree/master/examples/cra-react-router\u003e",
+    "ts": "1668871144.846749",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UKy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/auth0/auth0-react/tree/master/examples/cra-react-router",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a1f9ae0a-9a81-47bf-bf83-77d6d69850f9",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "hope this helps :+1:",
+    "ts": "1668871162.457219",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "pray::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U03NJ0VSF8A"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sxG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hope this helps "
+              },
+              {
+                "type": "emoji",
+                "name": "thumbsup",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "06cc9b65-2637-4e23-9fa1-776a78da11d8",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "thank you",
+    "ts": "1668871214.488039",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "C4+fZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thank you"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8d8199bb-e9bb-48f1-b42b-60f1c7ff53b0",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "though I am still curious as to *why* the import on the 6.x version didn't work out haha",
+    "ts": "1668871219.942369",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wCW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "though I am still curious as to "
+              },
+              {
+                "type": "text",
+                "text": "why",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " the import on the 6.x version didn't work out haha"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "814d34e7-2cb7-4b5e-8799-0d053b99cc6b",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "that tickles my brain :confused_dog:",
+    "ts": "1668871228.504059",
+    "thread_ts": "1668869845.931079",
+    "edited": {
+      "user": "U03P4005U76",
+      "ts": "1668871247.000000"
+    },
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hNaKt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "that tickles my brain "
+              },
+              {
+                "type": "emoji",
+                "name": "confused_dog",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f5386fdf-fcf2-4a9e-97c8-aee6d130716b",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "i will go back to 6.4.3",
+    "ts": "1668871249.455459",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "izs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i will go back to 6.4.3"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4b39ca7b-34b8-424e-be33-a68ec950a969",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "and try to import again...",
+    "ts": "1668871260.472649",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AGN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "and try to import again..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0d9d79af-f21d-499c-840e-01eb4e82363f",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "let me know how it goes haha :slightly_smiling_face:",
+    "ts": "1668871275.449189",
+    "thread_ts": "1668869845.931079",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cZo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "let me know how it goes haha "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

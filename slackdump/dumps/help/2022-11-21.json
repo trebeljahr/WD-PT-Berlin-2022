@@ -1,0 +1,485 @@
+[
+  {
+    "client_msg_id": "e1e06077-6544-45f3-9077-bcc61d709b2a",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "I have a question about useState: why is it common to spread the old state before adding the new? I assume to avoid mutating the state, but why would that matter, and does this mean that this old state is still present in the current state?",
+    "ts": "1669041788.748759",
+    "thread_ts": "1669041788.748759",
+    "last_read": "1669132520.611039",
+    "subscribed": true,
+    "reply_count": 8,
+    "replies": [
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1669041803.546289"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1669041973.478519"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1669042021.615339"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1669042197.742879"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1669045957.293279"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1669132394.145679"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1669132464.337299"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1669132520.611039"
+      }
+    ],
+    "latest_reply": "1669132520.611039",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5yN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have a question about useState: why is it common to spread the old state before adding the new? I assume to avoid mutating the state, but why would that matter, and does this mean that this old state is still present in the current state?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U03NJ0V8G2W",
+      "U03NJ0VSF8A",
+      "U03P4005U76"
+    ]
+  },
+  {
+    "client_msg_id": "d5d8743c-7c2e-442f-9492-37215a6b770e",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "ts": "1669041803.546289",
+    "thread_ts": "1669041788.748759",
+    "parent_user_id": "U03NJ0VSF8A",
+    "files": [
+      {
+        "id": "F04C7P066Q1",
+        "created": 1669041794,
+        "timestamp": 1669041794,
+        "name": "Screenshot_3.jpg",
+        "title": "Screenshot_3.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U03NJ0VSF8A",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 18460,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04C7P066Q1-Screenshot_3.jpg",
+        "url_private_download": "attachments/F04C7P066Q1-Screenshot_3.jpg",
+        "original_h": 128,
+        "original_w": 845,
+        "thumb_64": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04C7P066Q1-2464d0a858/screenshot_3_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04C7P066Q1-2464d0a858/screenshot_3_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04C7P066Q1-2464d0a858/screenshot_3_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04C7P066Q1-2464d0a858/screenshot_3_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 55,
+        "thumb_480": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04C7P066Q1-2464d0a858/screenshot_3_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 73,
+        "thumb_720": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04C7P066Q1-2464d0a858/screenshot_3_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 109,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://wd-pt-12jul.slack.com/files/U03NJ0VSF8A/F04C7P066Q1/screenshot_3.jpg",
+        "permalink_public": "https://slack-files.com/T03NM2X0JCR-F04C7P066Q1-966dae7ee1",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F04C7P0Q2DP",
+        "created": 1669041801,
+        "timestamp": 1669041801,
+        "name": "Screenshot_2.jpg",
+        "title": "Screenshot_2.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U03NJ0VSF8A",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 21780,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04C7P0Q2DP-Screenshot_2.jpg",
+        "url_private_download": "attachments/F04C7P0Q2DP-Screenshot_2.jpg",
+        "original_h": 117,
+        "original_w": 1105,
+        "thumb_64": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04C7P0Q2DP-b57a4f96a6/screenshot_2_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04C7P0Q2DP-b57a4f96a6/screenshot_2_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04C7P0Q2DP-b57a4f96a6/screenshot_2_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04C7P0Q2DP-b57a4f96a6/screenshot_2_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 38,
+        "thumb_480": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04C7P0Q2DP-b57a4f96a6/screenshot_2_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 51,
+        "thumb_720": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04C7P0Q2DP-b57a4f96a6/screenshot_2_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 76,
+        "thumb_960": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04C7P0Q2DP-b57a4f96a6/screenshot_2_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 102,
+        "thumb_1024": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04C7P0Q2DP-b57a4f96a6/screenshot_2_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 108,
+        "permalink": "https://wd-pt-12jul.slack.com/files/U03NJ0VSF8A/F04C7P0Q2DP/screenshot_2.jpg",
+        "permalink_public": "https://slack-files.com/T03NM2X0JCR-F04C7P0Q2DP-42d94c14ff",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0e8cc2f7-8d2a-4594-9480-0be096606d87",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "I guess I could rephrase to ask, isn't state getting mutated anyway? if so why is it common to use the spread operator",
+    "ts": "1669041973.478519",
+    "thread_ts": "1669041788.748759",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fNg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I guess I could rephrase to ask, isn't state getting mutated anyway? if so why is it common to use the spread operator"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "81c9442e-96ab-4a47-93e4-192dda4e042b",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "I think I found the answer. The React docs say\n```Never mutate this.state directly, as calling setState() afterwards may replace the mutation you made. Treat this.state as if it were immutable.```",
+    "ts": "1669042021.615339",
+    "thread_ts": "1669041788.748759",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "z=m0m",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think I found the answer. The React docs say\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"Never mutate this.state directly, as calling setState() afterwards may replace the mutation you made. Treat this.state as if it were immutable.\"}],\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6acecb6d-9669-4754-bc30-7dc51726b5d5",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "\u0026amp; mutating state will not trigger a re-render.\n\nbut it still seems mysterious to me what  is happening to the old state that is ...spread into the new.",
+    "ts": "1669042197.742879",
+    "thread_ts": "1669041788.748759",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Yx44",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u0026 mutating state will not trigger a re-render.\n\nbut it still seems mysterious to me what  is happening to the old state that is ...spread into the new."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "975fad93-88b8-4b74-a2c4-787c9dbffd59",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "I think it´s about avoiding race conditions...\n\u003chttps://stackoverflow.com/questions/60188988/how-to-prevent-race-conditions-with-react-usestate-hook\u003e\n\u003chttps://reactjs.org/docs/hooks-reference.html#functional-updates\u003e",
+    "ts": "1669045957.293279",
+    "thread_ts": "1669041788.748759",
+    "attachments": [
+      {
+        "fallback": "Stack Overflow: How to prevent race conditions with react useState hook",
+        "id": 1,
+        "title": "How to prevent race conditions with react useState hook",
+        "title_link": "https://stackoverflow.com/questions/60188988/how-to-prevent-race-conditions-with-react-usestate-hook",
+        "text": "I have a component that uses hooks state (useState) api to track the data.\n\nThe object looks like this \n\nconst [data,setData] = React.useState({})\nNow I have multiple buttons which make API reque...",
+        "thumb_url": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+        "service_name": "Stack Overflow",
+        "service_icon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a",
+        "from_url": "https://stackoverflow.com/questions/60188988/how-to-prevent-race-conditions-with-react-usestate-hook",
+        "original_url": "https://stackoverflow.com/questions/60188988/how-to-prevent-race-conditions-with-react-usestate-hook",
+        "blocks": null
+      },
+      {
+        "fallback": "Hooks API Reference – React",
+        "id": 2,
+        "title": "Hooks API Reference – React",
+        "title_link": "https://reactjs.org/docs/hooks-reference.html#functional-updates",
+        "text": "A JavaScript library for building user interfaces",
+        "image_url": "https://reactjs.org/logo-og.png",
+        "service_name": "reactjs.org",
+        "service_icon": "https://reactjs.org/logo-180x180.png",
+        "from_url": "https://reactjs.org/docs/hooks-reference.html#functional-updates",
+        "original_url": "https://reactjs.org/docs/hooks-reference.html#functional-updates",
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nEg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think it´s about avoiding race conditions...\n"
+              },
+              {
+                "type": "link",
+                "url": "https://stackoverflow.com/questions/60188988/how-to-prevent-race-conditions-with-react-usestate-hook",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://reactjs.org/docs/hooks-reference.html#functional-updates",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

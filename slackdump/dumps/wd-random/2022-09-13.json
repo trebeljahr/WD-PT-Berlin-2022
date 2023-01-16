@@ -1,0 +1,31 @@
+[
+  {
+    "type": "message",
+    "user": "U041YEBQVHB",
+    "text": "\u003c@U041YEBQVHB\u003e se ha unido al canal",
+    "ts": "1663065735.943509",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "ccfdf74d252a",
+      "image_72": "https://avatars.slack-edge.com/2022-09-13/4073408751970_ccfdf74d252ae0213928_72.jpg",
+      "first_name": "Jesús",
+      "real_name": "Jesús Ramos",
+      "display_name": "Jesús Ramos",
+      "team": "T03NM2X0JCR",
+      "name": "jesus.ramos",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

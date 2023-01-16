@@ -1,0 +1,404 @@
+[
+  {
+    "client_msg_id": "35421b31-a7f5-48ca-9137-0125f7361907",
+    "type": "message",
+    "user": "U03NKPQSAA0",
+    "text": "Happy Monday \u003c!channel\u003e!\nIt's time for the...\n\n*WEEKLY UPDATE* :sparkles:\n_*Week 21* out of 24_\n_*Last day of the bootcamp:* Saturday, January 14th_\n_*Career Week:* 16-20th of January_\n\n• :speech_balloon: *1 on 1 \u0026gt; the whole week*\nIt's almost the end and we want to know once again how you are doing, how is the bootcamp experience going... :slightly_smiling_face: I will contact you soon to set up a tiny call! (15 min)\n\n\nHave a good week :rocket:",
+    "ts": "1669637543.557569",
+    "thread_ts": "1669637543.557569",
+    "reply_count": 6,
+    "replies": [
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1669644080.213339"
+      },
+      {
+        "user": "U03NKPQSAA0",
+        "ts": "1669644289.387459"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1669644414.049829"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1669644755.262719"
+      },
+      {
+        "user": "U03NKPQSAA0",
+        "ts": "1669736792.109659"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1669736825.484749"
+      }
+    ],
+    "latest_reply": "1669736825.484749",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-4",
+        "count": 1,
+        "users": [
+          "U03NWL0SHQR"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U03NJ0VSF8A"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qER7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Happy Monday "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": "!\nIt's time for the...\n\n"
+              },
+              {
+                "type": "text",
+                "text": "WEEKLY UPDATE ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "sparkles",
+                "skin_tone": 0,
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Week 21 ",
+                "style": {
+                  "bold": true,
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "out of 24",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Last day of the bootcamp:",
+                "style": {
+                  "bold": true,
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " Saturday, January 14th",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Career Week:",
+                "style": {
+                  "bold": true,
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 16-20th of January",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"emoji\",\"name\":\"speech_balloon\",\"unicode\":\"1f4ac\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"text\",\"text\":\"1 on 1 \u003e the whole week\",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It's almost the end and we want to know once again how you are doing, how is the bootcamp experience going... "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " I will contact you soon to set up a tiny call! (15 min)\n\n\nHave a good week "
+              },
+              {
+                "type": "emoji",
+                "name": "rocket",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "161b83e3a9a4",
+      "image_72": "https://avatars.slack-edge.com/2022-10-18/4224394580103_161b83e3a9a4989c5f84_72.png",
+      "first_name": "Joyce",
+      "real_name": "Joyce Bride - Program",
+      "display_name": "Joyce Bride",
+      "team": "T03NM2X0JCR",
+      "name": "joyce.bride",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U03NJ0V8G2W",
+      "U03NKPQSAA0"
+    ]
+  },
+  {
+    "client_msg_id": "c6fdd654-edb0-4697-aa1f-f0ff92ae2165",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "Hey Joice, at what times will we have classes during Career Week? Or is it only 1 on 1 sessions?",
+    "ts": "1669644080.213339",
+    "thread_ts": "1669637543.557569",
+    "parent_user_id": "U03NKPQSAA0",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "J9PWK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey Joice, at what times will we have classes during Career Week? Or is it only 1 on 1 sessions?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ab760fc8-5824-429b-b3f6-de74dd30db44",
+    "type": "message",
+    "user": "U03NKPQSAA0",
+    "text": "Hi! Career Week will have a similar schedule that you have now (evenings) and no Saturday! It will be in group: workshops, talks with recruiters... :slightly_smiling_face:",
+    "ts": "1669644289.387459",
+    "thread_ts": "1669637543.557569",
+    "parent_user_id": "U03NKPQSAA0",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SMX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi! Career Week will have a similar schedule that you have now (evenings) and no Saturday! It will be in group: workshops, talks with recruiters... "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "161b83e3a9a4",
+      "image_72": "https://avatars.slack-edge.com/2022-10-18/4224394580103_161b83e3a9a4989c5f84_72.png",
+      "first_name": "Joyce",
+      "real_name": "Joyce Bride - Program",
+      "display_name": "Joyce Bride",
+      "team": "T03NM2X0JCR",
+      "name": "joyce.bride",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fe3ec407-7f4a-455b-8fd0-c7786091e014",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "Thanks!",
+    "ts": "1669644414.049829",
+    "thread_ts": "1669637543.557569",
+    "parent_user_id": "U03NKPQSAA0",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qgn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1db283b7-ab2f-451a-9cd4-d3af8a9fa0dd",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "(sorry, but I would have to arrange that)\nIs it Tuesday and Thursday evening or every evening of the week?",
+    "ts": "1669644755.262719",
+    "thread_ts": "1669637543.557569",
+    "parent_user_id": "U03NKPQSAA0",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9HMF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "(sorry, but I would have to arrange that)\nIs it Tuesday and Thursday evening or every evening of the week?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

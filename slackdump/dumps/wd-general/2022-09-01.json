@@ -1,0 +1,526 @@
+[
+  {
+    "client_msg_id": "73ecd1e3-db96-4133-8c94-a01af8e4c97a",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "for the projects I created these forks:\n\u003chttps://github.com/trebeljahr/IRON-JHACK\u003e\n\u003chttps://github.com/trebeljahr/orb\u003e\n\u003chttps://github.com/trebeljahr/project-simon\u003e\n\u003chttps://github.com/trebeljahr/project1-1\u003e\n\u003chttps://github.com/trebeljahr/yahtzee-game\u003e\n\u003chttps://github.com/trebeljahr/jungle-commander\u003e\n\nfrom your repositories. If you could do a PR from your repos to the correct fork I can review that PR :slightly_smiling_face:",
+    "ts": "1662061817.022599",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YirM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "for the projects I created these forks:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/trebeljahr/IRON-JHACK",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/trebeljahr/orb",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/trebeljahr/project-simon",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/trebeljahr/project1-1",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/trebeljahr/yahtzee-game",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/trebeljahr/jungle-commander",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\nfrom your repositories. If you could do a PR from your repos to the correct fork I can review that PR "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2ea02b8b-96a6-4632-bdae-eb217e37b5a1",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "which should be the least amount of effort for you guys - I hope.",
+    "ts": "1662061837.164019",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9jKss",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "which should be the least amount of effort for you guys - I hope."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6c6bf03c-cfd2-4121-a687-1029bd4f0aae",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "I am not 100% sure though if that actually works, i.e. if you can pull request \"from\" the original \"to\" a fork... I think it should be possible, but have no good way of checking it out since I have no forks of repositories (at least that I know of...)",
+    "ts": "1662062588.563379",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "33J1V",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am not 100% sure though if that actually works, i.e. if you can pull request \"from\" the original \"to\" a fork... I think it should be possible, but have no good way of checking it out since I have no forks of repositories (at least that I know of...)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "30f0bb9c-34ba-41db-aab8-b36df543027a",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "next project I think it would make sense if you all fork from a central \"empty\" repo, and then you can PR into that, in the end then I guess :man-shrugging: but let's see...",
+    "ts": "1662062647.227269",
+    "edited": {
+      "user": "U03P4005U76",
+      "ts": "1662062664.000000"
+    },
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NzwE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "next project I think it would make sense if you all fork from a central \"empty\" repo, and then you can PR into that, in the end then I guess "
+              },
+              {
+                "type": "emoji",
+                "name": "man-shrugging",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " but let's see..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "eb303755-9b16-4ae7-8a71-af47058e5377",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "I am not sure if that works or if I´m doing something wrong...\nnah... I have now the pull request",
+    "ts": "1662062866.488399",
+    "edited": {
+      "user": "U03NJ0V8G2W",
+      "ts": "1662063046.000000"
+    },
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rhMGN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am not sure if that works or if I´m doing something wrong...\nnah... I have now the pull request"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "42e1ab01-866a-42d2-ba11-9085ad0d0333",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "This way works but the pull request is on my repo",
+    "ts": "1662063233.563699",
+    "files": [
+      {
+        "id": "F041FAGFBLG",
+        "created": 1662063131,
+        "timestamp": 1662063131,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03NJ0V8G2W",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 15989,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F041FAGFBLG-image.png",
+        "url_private_download": "attachments/F041FAGFBLG-image.png",
+        "original_h": 77,
+        "original_w": 1432,
+        "thumb_64": "https://files.slack.com/files-tmb/T03NM2X0JCR-F041FAGFBLG-bf32fc7468/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T03NM2X0JCR-F041FAGFBLG-bf32fc7468/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T03NM2X0JCR-F041FAGFBLG-bf32fc7468/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T03NM2X0JCR-F041FAGFBLG-bf32fc7468/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 19,
+        "thumb_480": "https://files.slack.com/files-tmb/T03NM2X0JCR-F041FAGFBLG-bf32fc7468/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 26,
+        "thumb_720": "https://files.slack.com/files-tmb/T03NM2X0JCR-F041FAGFBLG-bf32fc7468/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 39,
+        "thumb_960": "https://files.slack.com/files-tmb/T03NM2X0JCR-F041FAGFBLG-bf32fc7468/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 52,
+        "thumb_1024": "https://files.slack.com/files-tmb/T03NM2X0JCR-F041FAGFBLG-bf32fc7468/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 55,
+        "permalink": "https://wd-pt-12jul.slack.com/files/U03NJ0V8G2W/F041FAGFBLG/image.png",
+        "permalink_public": "https://slack-files.com/T03NM2X0JCR-F041FAGFBLG-b6ce527ea7",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9QaN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This way works but the pull request is on my repo"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "099d8ab2-d151-455e-b9f3-f9dc1655da16",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "The other way around  is not working",
+    "ts": "1662063264.922429",
+    "files": [
+      {
+        "id": "F040RGJJLV9",
+        "created": 1662063258,
+        "timestamp": 1662063258,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03NJ0V8G2W",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 38099,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F040RGJJLV9-image.png",
+        "url_private_download": "attachments/F040RGJJLV9-image.png",
+        "original_h": 339,
+        "original_w": 1216,
+        "thumb_64": "https://files.slack.com/files-tmb/T03NM2X0JCR-F040RGJJLV9-4ea2454735/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T03NM2X0JCR-F040RGJJLV9-4ea2454735/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T03NM2X0JCR-F040RGJJLV9-4ea2454735/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T03NM2X0JCR-F040RGJJLV9-4ea2454735/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 100,
+        "thumb_480": "https://files.slack.com/files-tmb/T03NM2X0JCR-F040RGJJLV9-4ea2454735/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 134,
+        "thumb_720": "https://files.slack.com/files-tmb/T03NM2X0JCR-F040RGJJLV9-4ea2454735/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 201,
+        "thumb_960": "https://files.slack.com/files-tmb/T03NM2X0JCR-F040RGJJLV9-4ea2454735/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 268,
+        "thumb_1024": "https://files.slack.com/files-tmb/T03NM2X0JCR-F040RGJJLV9-4ea2454735/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 285,
+        "permalink": "https://wd-pt-12jul.slack.com/files/U03NJ0V8G2W/F040RGJJLV9/image.png",
+        "permalink_public": "https://slack-files.com/T03NM2X0JCR-F040RGJJLV9-6cb2a12a21",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9+Df",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "The other way around  is not working"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

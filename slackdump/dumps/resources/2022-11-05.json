@@ -1,0 +1,132 @@
+[
+  {
+    "client_msg_id": "7f1c5a51-c9df-490f-ab1b-2adc19ce18cb",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "todays class:\n\u003chttps://rickandmortyapi.com/documentation/\u003e\n\u003chttps://www.davidhu.io/react-spinners/\u003e\n\u003chttps://developer.mozilla.org/en-US/docs/Web/API/AbortController\u003e\n\u003chttps://reactjs.org/docs/hooks-effect.html\u003e",
+    "ts": "1667653791.508329",
+    "attachments": [
+      {
+        "fallback": "Documentation",
+        "id": 1,
+        "title": "Documentation",
+        "title_link": "https://rickandmortyapi.com/documentation/",
+        "text": "This documentation will help you get familiar with the resources of the Rick and Morty API and show you how to make different queries.",
+        "image_url": "https://rickandmortyapi.com/images/docs.jpeg",
+        "service_name": "rickandmortyapi.com",
+        "service_icon": "https://rickandmortyapi.com/icons/icon-48x48.png?v=1538abef51e33ef514e8fe1ab9aeab4e",
+        "from_url": "https://rickandmortyapi.com/documentation/",
+        "original_url": "https://rickandmortyapi.com/documentation/",
+        "blocks": null
+      },
+      {
+        "fallback": "React Spinners",
+        "id": 2,
+        "title": "React Spinners",
+        "title_link": "https://www.davidhu.io/react-spinners/",
+        "text": "A collection of react loading spinners",
+        "service_name": "davidhu.io",
+        "from_url": "https://www.davidhu.io/react-spinners/",
+        "original_url": "https://www.davidhu.io/react-spinners/",
+        "blocks": null
+      },
+      {
+        "fallback": "AbortController - Web APIs | MDN",
+        "id": 3,
+        "title": "AbortController - Web APIs | MDN",
+        "title_link": "https://developer.mozilla.org/en-US/docs/Web/API/AbortController",
+        "text": "The AbortController interface represents a controller object that allows you to abort one or more Web requests as and when desired.",
+        "image_url": "https://developer.mozilla.org/mdn-social-share.cd6c4a5a.png",
+        "service_name": "developer.mozilla.org",
+        "service_icon": "https://developer.mozilla.org/apple-touch-icon.6803c6f0.png",
+        "from_url": "https://developer.mozilla.org/en-US/docs/Web/API/AbortController",
+        "original_url": "https://developer.mozilla.org/en-US/docs/Web/API/AbortController",
+        "blocks": null
+      },
+      {
+        "fallback": "Using the Effect Hook – React",
+        "id": 4,
+        "title": "Using the Effect Hook – React",
+        "title_link": "https://reactjs.org/docs/hooks-effect.html",
+        "text": "A JavaScript library for building user interfaces",
+        "image_url": "https://reactjs.org/logo-og.png",
+        "service_name": "reactjs.org",
+        "service_icon": "https://reactjs.org/logo-180x180.png",
+        "from_url": "https://reactjs.org/docs/hooks-effect.html",
+        "original_url": "https://reactjs.org/docs/hooks-effect.html",
+        "blocks": null
+      }
+    ],
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "onp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "todays class:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://rickandmortyapi.com/documentation/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.davidhu.io/react-spinners/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://developer.mozilla.org/en-US/docs/Web/API/AbortController",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://reactjs.org/docs/hooks-effect.html",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

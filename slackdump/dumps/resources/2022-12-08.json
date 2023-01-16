@@ -1,0 +1,354 @@
+[
+  {
+    "client_msg_id": "c9dd145c-9377-441d-af17-d687cc1e63ac",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "DO NOT INSTALL THE CONSOLE NINJA THINGY I POSTED EARLIER! :rolling_on_the_floor_laughing::this-is-fine:",
+    "ts": "1670526085.698889",
+    "thread_ts": "1670526085.698889",
+    "reply_count": 5,
+    "replies": [
+      {
+        "user": "U03NBCRJ99U",
+        "ts": "1670528845.354829"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1670528933.437589"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1670528988.001379"
+      },
+      {
+        "user": "U03NBCRJ99U",
+        "ts": "1670529026.530699"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1670529060.204089"
+      }
+    ],
+    "latest_reply": "1670529060.204089",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "fire",
+        "count": 1,
+        "users": [
+          "U03NF3FU4CD"
+        ]
+      },
+      {
+        "name": "rolling_on_the_floor_laughing",
+        "count": 3,
+        "users": [
+          "U03NF3FU4CD",
+          "U03NWL0SHQR",
+          "U03NJ0VSF8A"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bKL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "DO NOT INSTALL THE CONSOLE NINJA THINGY I POSTED EARLIER! "
+              },
+              {
+                "type": "emoji",
+                "name": "rolling_on_the_floor_laughing",
+                "skin_tone": 0
+              },
+              {
+                "type": "emoji",
+                "name": "this-is-fine",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U03NBCRJ99U",
+      "U03NJ0V8G2W"
+    ]
+  },
+  {
+    "client_msg_id": "9c684a2e-4f37-4cc7-a880-5c28da764072",
+    "type": "message",
+    "user": "U03NBCRJ99U",
+    "text": "why?",
+    "ts": "1670528845.354829",
+    "thread_ts": "1670526085.698889",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5B4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "why?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g573a376398a",
+      "image_72": "https://secure.gravatar.com/avatar/573a376398a82acb061e12fb20ba25f7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Antonio",
+      "real_name": "Antonio Vara Piquer",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "ghezath",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "93428474-3063-443e-911b-1a806201f7a5",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "I think it´s to early...\nSomehow it crashed my webpack-node-modules-stuff...",
+    "ts": "1670528933.437589",
+    "thread_ts": "1670526085.698889",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "j6Ou",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think it´s to early...\nSomehow it crashed my webpack-node-modules-stuff..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bb2be099-145b-48b7-bd1a-b5aa037ed221",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "I tried disabling it and got dozens of  \"no-websocket-connection-errors\" in the console",
+    "ts": "1670528988.001379",
+    "thread_ts": "1670526085.698889",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PHBGV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I tried disabling it and got dozens of  \"no-websocket-connection-errors\" in the console"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "463964e0-1df1-48b9-8380-da38a7d94911",
+    "type": "message",
+    "user": "U03NBCRJ99U",
+    "text": "tests always in a new branch",
+    "ts": "1670529026.530699",
+    "thread_ts": "1670526085.698889",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "roll-safe",
+        "count": 2,
+        "users": [
+          "U03NJ0V8G2W",
+          "U03NJ0VSF8A"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Gr3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "tests always in a new branch"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g573a376398a",
+      "image_72": "https://secure.gravatar.com/avatar/573a376398a82acb061e12fb20ba25f7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Antonio",
+      "real_name": "Antonio Vara Piquer",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "ghezath",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b30c57c6-fc31-4f39-8339-733a1ff21640",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "uninstalled it but same problems, nothing was working anymore...\nDeleting node modules and npm i fixed everything",
+    "ts": "1670529060.204089",
+    "thread_ts": "1670526085.698889",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3hA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "uninstalled it but same problems, nothing was working anymore...\nDeleting node modules and npm i fixed everything"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

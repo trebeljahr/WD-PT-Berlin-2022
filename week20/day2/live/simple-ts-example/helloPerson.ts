@@ -6,11 +6,19 @@ interface PersonInterface {
   lastName?: string;
 }
 
-interface PersonWithAgeInterface extends PersonInterface {
+type PersonWithOnlyName = Pick<PersonInterface, "name">;
+interface PersonWithAgeInterface extends PersonWithOnlyName {
   age: number;
 }
 
 type Person = { name: string; lastName?: string };
+
+function greet(person: PersonInterface) {
+  console.log(person.name);
+}
+
+const myPerson: PersonWithAgeInterface = { name: "Peter", age: 26 };
+greet(myPerson);
 
 interface PersonWithAge extends Person {
   age: number;

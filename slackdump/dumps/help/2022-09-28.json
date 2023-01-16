@@ -1,0 +1,1259 @@
+[
+  {
+    "client_msg_id": "55c9b19a-3902-48b3-91f4-8ef09cd30be6",
+    "type": "message",
+    "user": "U03NBCRJ99U",
+    "text": "Hi!! for the fetch-all button i try to clone the existing div:\nlet characterInfo = document.querySelector(\".character-info\");\ndata.forEach((elem)=\u0026gt;{\n      let clone = characterInfo.cloneNode(true);\n      characterInfo.after(clone);\n    });\nbut every time that i click fetch all, i have more and more items:sweat_smile:",
+    "ts": "1664386661.386229",
+    "thread_ts": "1664386661.386229",
+    "reply_count": 10,
+    "replies": [
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1664392192.108979"
+      },
+      {
+        "user": "U03NBCRJ99U",
+        "ts": "1664392233.196199"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1664392555.636359"
+      },
+      {
+        "user": "U03NBCRJ99U",
+        "ts": "1664392764.336789"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1664393106.622169"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1664393185.784649"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1664393294.047719"
+      },
+      {
+        "user": "U03NBCRJ99U",
+        "ts": "1664393371.287229"
+      },
+      {
+        "user": "U03NLD7B69J",
+        "ts": "1664446745.967409"
+      },
+      {
+        "user": "U03NBCRJ99U",
+        "ts": "1664447435.861459"
+      }
+    ],
+    "latest_reply": "1664447435.861459",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Yf=P",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi!! for the fetch-all button i try to clone the existing div:\nlet characterInfo = document.querySelector(\".character-info\");\ndata.forEach((elem)=\u003e{\n      let clone = characterInfo.cloneNode(true);\n      characterInfo.after(clone);\n    });\nbut every time that i click fetch all, i have more and more items"
+              },
+              {
+                "type": "emoji",
+                "name": "sweat_smile",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g573a376398a",
+      "image_72": "https://secure.gravatar.com/avatar/573a376398a82acb061e12fb20ba25f7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Antonio",
+      "real_name": "Antonio Vara Piquer",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "ghezath",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U03NBCRJ99U",
+      "U03NJ0V8G2W",
+      "U03NLD7B69J"
+    ]
+  },
+  {
+    "client_msg_id": "87e6ce23-7c60-4b16-9084-b9ec27b04bf7",
+    "type": "message",
+    "user": "U03NBCRJ99U",
+    "text": "maybe it is easier if i create the entire div",
+    "ts": "1664386810.907129",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SXzT=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "maybe it is easier if i create the entire div"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g573a376398a",
+      "image_72": "https://secure.gravatar.com/avatar/573a376398a82acb061e12fb20ba25f7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Antonio",
+      "real_name": "Antonio Vara Piquer",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "ghezath",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1ed17e9e-e72d-47fb-9345-bda08d2a75a1",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "I don't understand where Axios is in this lab. We aren't supposed to require it, but why? I was maybe too sick when Rico explained, I do remember seeing a wall of text...",
+    "ts": "1664388892.472219",
+    "thread_ts": "1664388892.472219",
+    "reply_count": 16,
+    "replies": [
+      {
+        "user": "U03NBCRJ99U",
+        "ts": "1664389043.386799"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1664389437.351349"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1664389447.148009"
+      },
+      {
+        "user": "U03NBCRJ99U",
+        "ts": "1664390212.629759"
+      },
+      {
+        "user": "U03NBCRJ99U",
+        "ts": "1664390226.068489"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1664390317.841039"
+      },
+      {
+        "user": "U03NF3FU4CD",
+        "ts": "1664391155.697979"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1664391350.103799"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1664392638.575229"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1664392669.440459"
+      },
+      {
+        "user": "U03NBCRJ99U",
+        "ts": "1664392845.017779"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1664458040.436449"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1664458088.525469"
+      },
+      {
+        "user": "U03NBCRJ99U",
+        "ts": "1664458147.781069"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1664458307.421239"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1664458316.671429"
+      }
+    ],
+    "latest_reply": "1664458316.671429",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nCg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I don't understand where Axios is in this lab. We aren't supposed to require it, but why? I was maybe too sick when Rico explained, I do remember seeing a wall of text..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 4,
+    "reply_users": [
+      "U03NBCRJ99U",
+      "U03NF3FU4CD",
+      "U03NJ0V8G2W",
+      "U03NJ0VSF8A"
+    ]
+  },
+  {
+    "client_msg_id": "aac11048-55ee-428e-bdb4-10a86c65f590",
+    "type": "message",
+    "user": "U03NBCRJ99U",
+    "text": "in the APIHandler.js, the require is in the html file",
+    "ts": "1664389043.386799",
+    "thread_ts": "1664388892.472219",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U03NJ0VSF8A"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eHgeq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "in the APIHandler.js, the require is in the html file"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g573a376398a",
+      "image_72": "https://secure.gravatar.com/avatar/573a376398a82acb061e12fb20ba25f7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Antonio",
+      "real_name": "Antonio Vara Piquer",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "ghezath",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f0629728-0fc6-4fc3-ace4-dc6b5282e4c2",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "so this is all I need?\n\n```  constructor (baseUrl) {\n    this.BASE_URL = baseUrl;\n  }```",
+    "ts": "1664389437.351349",
+    "thread_ts": "1664388892.472219",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "N29",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "so this is all I need?\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"  constructor (baseUrl) {\\n    this.BASE_URL = baseUrl;\\n  }\"}],\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e3cfe235-3a8e-422d-a066-da3817e037fa",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "do i need to add\n\n``` this.api = axios.create({ baseUrl });```",
+    "ts": "1664389447.148009",
+    "thread_ts": "1664388892.472219",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FRYX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "do i need to add\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\" this.api = axios.create({ baseUrl });\"}],\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8ad1864d-d518-4d32-91ef-8d8cf1df1b49",
+    "type": "message",
+    "user": "U03NBCRJ99U",
+    "text": "this.api = axios.create({ baseURL: this.BASE_URL });",
+    "ts": "1664390212.629759",
+    "thread_ts": "1664388892.472219",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UGN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this.api = axios.create({ baseURL: this.BASE_URL });"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g573a376398a",
+      "image_72": "https://secure.gravatar.com/avatar/573a376398a82acb061e12fb20ba25f7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Antonio",
+      "real_name": "Antonio Vara Piquer",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "ghezath",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "abbc36b2-5a79-4b71-9c99-51ca7534481d",
+    "type": "message",
+    "user": "U03NBCRJ99U",
+    "text": "right",
+    "ts": "1664390226.068489",
+    "thread_ts": "1664388892.472219",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nwUIm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "right"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g573a376398a",
+      "image_72": "https://secure.gravatar.com/avatar/573a376398a82acb061e12fb20ba25f7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Antonio",
+      "real_name": "Antonio Vara Piquer",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "ghezath",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cb48ceed-f078-4547-af27-9e103eda38f2",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "thanks Antonio!",
+    "ts": "1664390317.841039",
+    "thread_ts": "1664388892.472219",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "69idC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thanks Antonio!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "67D3664C-D89A-487C-B062-61C6ABDC130E",
+    "type": "message",
+    "user": "U03NF3FU4CD",
+    "text": "Oooh good hint! I was going crazy :joy:",
+    "ts": "1664391155.697979",
+    "thread_ts": "1664388892.472219",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Dr4rm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oooh good hint! I was going crazy "
+              },
+              {
+                "type": "emoji",
+                "name": "joy",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "gffbd1f8138d",
+      "image_72": "https://secure.gravatar.com/avatar/ffbd1f8138d8ce7282914f927aa4c382.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Hector",
+      "real_name": "Hector Fernandez",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "hfernandez04",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8d7e0412-43db-4bca-b0ef-460fe3e9a78c",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "This lab is painful... :sweat_smile:",
+    "ts": "1664391350.103799",
+    "thread_ts": "1664388892.472219",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GqsI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This lab is painful... "
+              },
+              {
+                "type": "emoji",
+                "name": "sweat_smile",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "44a438b6-8c06-4efb-b791-93bb9adf4a9c",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "Did you solved that?",
+    "ts": "1664392192.108979",
+    "thread_ts": "1664386661.386229",
+    "parent_user_id": "U03NBCRJ99U",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "L14cL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Did you solved that?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a7445ac6-2c6a-4fe2-b7bc-564ad1ecdb2c",
+    "type": "message",
+    "user": "U03NBCRJ99U",
+    "text": "not yet :smiling_face_with_tear:",
+    "ts": "1664392233.196199",
+    "thread_ts": "1664386661.386229",
+    "parent_user_id": "U03NBCRJ99U",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "p1RZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "not yet "
+              },
+              {
+                "type": "emoji",
+                "name": "smiling_face_with_tear",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g573a376398a",
+      "image_72": "https://secure.gravatar.com/avatar/573a376398a82acb061e12fb20ba25f7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Antonio",
+      "real_name": "Antonio Vara Piquer",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "ghezath",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9931fc9b-1fd2-422d-bcdd-d3077cb15650",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "Maybe we could give the container we create when \"fetch all\" is clicked  an id\nand every time we click fetch all we delete the element with that id before we creating it again...\nBut that doesn´t feel clean",
+    "ts": "1664392555.636359",
+    "thread_ts": "1664386661.386229",
+    "parent_user_id": "U03NBCRJ99U",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/1+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Maybe we could give the container we create when \"fetch all\" is clicked  an id\nand every time we click fetch all we delete the element with that id before we creating it again...\nBut that doesn´t feel clean"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f986b7d4-340f-44b3-a7d5-5ebff6e23e26",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "i agree",
+    "ts": "1664392638.575229",
+    "thread_ts": "1664388892.472219",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7/M",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i agree"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "08316526-275c-41bc-b23a-0347e1bc04e0",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "I want to use hbs so bad...\nWhy are we back to DOM-manipulation?? :sob:",
+    "ts": "1664392669.440459",
+    "thread_ts": "1664388892.472219",
+    "edited": {
+      "user": "U03NJ0V8G2W",
+      "ts": "1664392722.000000"
+    },
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "sob",
+        "count": 1,
+        "users": [
+          "U03NWL0SHQR"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bUNl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I want to use hbs so bad...\nWhy are we back to DOM-manipulation?? "
+              },
+              {
+                "type": "emoji",
+                "name": "sob",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fc5eec35-8561-4036-ba76-0022e43b2257",
+    "type": "message",
+    "user": "U03NBCRJ99U",
+    "text": "um, but maybe we can use instead of id a class to delete, like deleteMe and then with getelementsbyclass",
+    "ts": "1664392764.336789",
+    "thread_ts": "1664386661.386229",
+    "parent_user_id": "U03NBCRJ99U",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xJsyV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "um, but maybe we can use instead of id a class to delete, like deleteMe and then with getelementsbyclass"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g573a376398a",
+      "image_72": "https://secure.gravatar.com/avatar/573a376398a82acb061e12fb20ba25f7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Antonio",
+      "real_name": "Antonio Vara Piquer",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "ghezath",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b24c4b09-f88a-486f-a301-ca428fe0e161",
+    "type": "message",
+    "user": "U03NBCRJ99U",
+    "text": "we are closer to react :grin:",
+    "ts": "1664392845.017779",
+    "thread_ts": "1664388892.472219",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "laughing",
+        "count": 2,
+        "users": [
+          "U03NJ0VSF8A",
+          "U03NWL0SHQR"
+        ]
+      },
+      {
+        "name": "rolling_on_the_floor_laughing",
+        "count": 1,
+        "users": [
+          "U03NF3FU4CD"
+        ]
+      },
+      {
+        "name": "pray",
+        "count": 1,
+        "users": [
+          "U03NF3FU4CD"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qPj=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "we are closer to react "
+              },
+              {
+                "type": "emoji",
+                "name": "grin",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g573a376398a",
+      "image_72": "https://secure.gravatar.com/avatar/573a376398a82acb061e12fb20ba25f7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Antonio",
+      "real_name": "Antonio Vara Piquer",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "ghezath",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bbcb4e06-64c0-4f97-92e0-e9ceff5157ca",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "The id/class thing will not work properly, if there is nothing with that id/class there is nothing to remove -\u0026gt; it will break...",
+    "ts": "1664393106.622169",
+    "thread_ts": "1664386661.386229",
+    "parent_user_id": "U03NBCRJ99U",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "G8ag",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "The id/class thing will not work properly, if there is nothing with that id/class there is nothing to remove -\u003e it will break..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9ec921f4-55ae-4e5a-9875-50af487b3a26",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "I made a clickCounter that gets +1 every time I click \"fetch all\", and only if clickCounter \u0026lt; 1 the characters are added...",
+    "ts": "1664393185.784649",
+    "thread_ts": "1664386661.386229",
+    "parent_user_id": "U03NBCRJ99U",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5/A",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I made a clickCounter that gets +1 every time I click \"fetch all\", and only if clickCounter \u003c 1 the characters are added..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "286ecf63-92c1-4e5f-8a94-734bc538596d",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "Of course, later when updating/creating/deleting I have to reset the counter...",
+    "ts": "1664393294.047719",
+    "thread_ts": "1664386661.386229",
+    "parent_user_id": "U03NBCRJ99U",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RJSrM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Of course, later when updating/creating/deleting I have to reset the counter..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c825d0bd-cb6a-4f49-bfc3-7ab8045b39c0",
+    "type": "message",
+    "user": "U03NBCRJ99U",
+    "text": "and with a try/catch to control the error?",
+    "ts": "1664393371.287229",
+    "thread_ts": "1664386661.386229",
+    "parent_user_id": "U03NBCRJ99U",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CMQd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "and with a try/catch to control the error?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g573a376398a",
+      "image_72": "https://secure.gravatar.com/avatar/573a376398a82acb061e12fb20ba25f7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Antonio",
+      "real_name": "Antonio Vara Piquer",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "ghezath",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

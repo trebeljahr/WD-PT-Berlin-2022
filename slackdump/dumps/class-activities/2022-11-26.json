@@ -1,0 +1,111 @@
+[
+  {
+    "client_msg_id": "b2d399b6-5410-4abb-a7b8-7b7fc747440f",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "I hope today will be better with the internet. It's going to be a little bit of a potpourri session. Lot's of little things. I hope there's not too many people in the common room area during the day. Should be alright I think.",
+    "ts": "1669451841.989499",
+    "files": [
+      {
+        "id": "F04CK7PHVL3",
+        "created": 1669451719,
+        "timestamp": 1669451719,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03P4005U76",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 42591,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04CK7PHVL3-image.png",
+        "url_private_download": "attachments/F04CK7PHVL3-image.png",
+        "original_h": 850,
+        "original_w": 1692,
+        "thumb_64": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04CK7PHVL3-d2a5ec0dde/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04CK7PHVL3-d2a5ec0dde/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04CK7PHVL3-d2a5ec0dde/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04CK7PHVL3-d2a5ec0dde/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 181,
+        "thumb_480": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04CK7PHVL3-d2a5ec0dde/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 241,
+        "thumb_720": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04CK7PHVL3-d2a5ec0dde/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 362,
+        "thumb_960": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04CK7PHVL3-d2a5ec0dde/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 482,
+        "thumb_1024": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04CK7PHVL3-d2a5ec0dde/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 514,
+        "permalink": "https://wd-pt-12jul.slack.com/files/U03P4005U76/F04CK7PHVL3/image.png",
+        "permalink_public": "https://slack-files.com/T03NM2X0JCR-F04CK7PHVL3-17f779acd4",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nb=Q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I hope today will be better with the internet. It's going to be a little bit of a potpourri session. Lot's of little things. I hope there's not too many people in the common room area during the day. Should be alright I think."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

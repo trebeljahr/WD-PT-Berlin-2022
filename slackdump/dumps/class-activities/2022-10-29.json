@@ -1,0 +1,1094 @@
+[
+  {
+    "client_msg_id": "ed1081cb-5160-41e9-922c-ec5d2044bbe1",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "\u003chttps://prod.liveshare.vsengsaas.visualstudio.com/join?FC9C7B219755DB9BB4CA36AABFA4E5CFC063\u003e",
+    "ts": "1667031498.515299",
+    "attachments": [
+      {
+        "fallback": "Visual Studio Code for the Web",
+        "id": 1,
+        "title": "Visual Studio Code for the Web",
+        "title_link": "https://prod.liveshare.vsengsaas.visualstudio.com/join?FC9C7B219755DB9BB4CA36AABFA4E5CFC063",
+        "text": "Build with Visual Studio Code, anywhere, anytime, entirely in your browser.",
+        "service_name": "vscode.dev",
+        "from_url": "https://prod.liveshare.vsengsaas.visualstudio.com/join?FC9C7B219755DB9BB4CA36AABFA4E5CFC063",
+        "original_url": "https://prod.liveshare.vsengsaas.visualstudio.com/join?FC9C7B219755DB9BB4CA36AABFA4E5CFC063",
+        "blocks": null
+      }
+    ],
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2A=2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://prod.liveshare.vsengsaas.visualstudio.com/join?FC9C7B219755DB9BB4CA36AABFA4E5CFC063",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "87f7baf9-1db5-4c0c-a327-653232f5fcc3",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "\u003c@U03NJ0VSF8A\u003e and \u003c@U03NF3FU4CD\u003e I left feedback on your PR",
+    "ts": "1667047918.576879",
+    "thread_ts": "1666723839.960049",
+    "parent_user_id": "U03P4005U76",
+    "files": [
+      {
+        "id": "F048R5EBDFW",
+        "created": 1667047915,
+        "timestamp": 1667047915,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03P4005U76",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 58622,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F048R5EBDFW-image.png",
+        "url_private_download": "attachments/F048R5EBDFW-image.png",
+        "original_h": 364,
+        "original_w": 712,
+        "thumb_64": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048R5EBDFW-f36cc2fa0a/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048R5EBDFW-f36cc2fa0a/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048R5EBDFW-f36cc2fa0a/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048R5EBDFW-f36cc2fa0a/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 184,
+        "thumb_480": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048R5EBDFW-f36cc2fa0a/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 245,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://wd-pt-12jul.slack.com/files/U03P4005U76/F048R5EBDFW/image.png",
+        "permalink_public": "https://slack-files.com/T03NM2X0JCR-F048R5EBDFW-256433a912",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LKpk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03NJ0VSF8A"
+              },
+              {
+                "type": "text",
+                "text": " and "
+              },
+              {
+                "type": "user",
+                "user_id": "U03NF3FU4CD"
+              },
+              {
+                "type": "text",
+                "text": " I left feedback on your PR"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0a1cc0c7-4961-46d2-aa12-345669c91d7d",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "\u003c@U03NLD7B69J\u003e, \u003c@U03NJ0V8G2W\u003e and \u003c@U03NBCRJ99U\u003e, \u003c@U03NWL0SHQR\u003e if you could see how to prepare a PR similar to what \u003c@U03NJ0VSF8A\u003e and \u003c@U03NF3FU4CD\u003e did, that would really help me review your work and give some feedback :slightly_smiling_face:",
+    "ts": "1667048008.616859",
+    "thread_ts": "1666723839.960049",
+    "edited": {
+      "user": "U03P4005U76",
+      "ts": "1667048027.000000"
+    },
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NlE3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03NLD7B69J"
+              },
+              {
+                "type": "text",
+                "text": ", "
+              },
+              {
+                "type": "user",
+                "user_id": "U03NJ0V8G2W"
+              },
+              {
+                "type": "text",
+                "text": " and "
+              },
+              {
+                "type": "user",
+                "user_id": "U03NBCRJ99U"
+              },
+              {
+                "type": "text",
+                "text": ", "
+              },
+              {
+                "type": "user",
+                "user_id": "U03NWL0SHQR"
+              },
+              {
+                "type": "text",
+                "text": " if you could see how to prepare a PR similar to what "
+              },
+              {
+                "type": "user",
+                "user_id": "U03NJ0VSF8A"
+              },
+              {
+                "type": "text",
+                "text": " and "
+              },
+              {
+                "type": "user",
+                "user_id": "U03NF3FU4CD"
+              },
+              {
+                "type": "text",
+                "text": " did, that would really help me review your work and give some feedback "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6da4ce2a-9e7d-4252-86a7-4f8a2ba43aa7",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "I did this: Pull requests -\u0026gt; New pull request -\u0026gt; change base branch to \"final-review\" -\u0026gt; change compare Branch to \"main\" -\u0026gt; Create pull request",
+    "ts": "1667048839.866929",
+    "thread_ts": "1666723839.960049",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GTh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I did this: Pull requests -\u003e New pull request -\u003e change base branch to \"final-review\" -\u003e change compare Branch to \"main\" -\u003e Create pull request"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "58943ea1-e99b-4bf9-9327-2f30bba5c976",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": ":pray:",
+    "ts": "1667048857.622659",
+    "thread_ts": "1666723839.960049",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "f/28",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "pray",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5c15a188-a87a-41ed-9e6d-48c5d346f722",
+    "type": "message",
+    "user": "U03NLD7B69J",
+    "text": "I'll try that :slightly_smiling_face:",
+    "ts": "1667049150.419429",
+    "thread_ts": "1666723839.960049",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hj0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'll try that "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g5b3832c7bc9",
+      "image_72": "https://secure.gravatar.com/avatar/5b3832c7bc9769902f1c78b69eb42613.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Patrick",
+      "real_name": "Patrick",
+      "display_name": "Patrick",
+      "team": "T03NM2X0JCR",
+      "name": "patrick_groot",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c6854283-df4e-4828-be2c-cfaedcc559a4",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "cool.",
+    "ts": "1667049245.425479",
+    "thread_ts": "1666723839.960049",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/2D",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "cool."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ce2785ee-c289-423f-82ce-663fb67f3f64",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "if you have a link to the PR just send it here :slightly_smiling_face:",
+    "ts": "1667049911.487359",
+    "thread_ts": "1666723839.960049",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zW1W",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "if you have a link to the PR just send it here "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "89211f42-03c7-41bb-abda-fa49a68edefd",
+    "type": "message",
+    "user": "U03NBCRJ99U",
+    "text": "\u003chttps://github.com/avarap/RentalProp/pull/63\u003e",
+    "ts": "1667053724.278489",
+    "thread_ts": "1666723839.960049",
+    "attachments": [
+      {
+        "color": "36a64f",
+        "fallback": "\u003chttps://github.com/avarap/RentalProp/pull/63|#63 Merge pull request #62 from avarap/final-review\u003e",
+        "id": 1,
+        "title": "\u003chttps://github.com/avarap/RentalProp/pull/63|#63 Merge pull request #62 from avarap/final-review\u003e",
+        "text": "Merge pull request \u003chttps://github.com/avarap/RentalProp/pull/61|#61\u003e from avarap/main",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "blocks": null,
+        "footer": "\u003chttps://github.com/avarap/RentalProp|avarap/RentalProp\u003e",
+        "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+        "ts": 1667053624
+      }
+    ],
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mfvd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/avarap/RentalProp/pull/63",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g573a376398a",
+      "image_72": "https://secure.gravatar.com/avatar/573a376398a82acb061e12fb20ba25f7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Antonio",
+      "real_name": "Antonio Vara Piquer",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "ghezath",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b485b5d0-f6e9-4cca-8ec5-92d7ffdf9b16",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "this seems wrong, there are no commits on that particular PR",
+    "ts": "1667053829.498349",
+    "thread_ts": "1666723839.960049",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZuTCp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this seems wrong, there are no commits on that particular PR"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f5cead6a-48b9-45ed-a6e5-a6c6a2f35416",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "I think this is the same issue \u003c@U03NLD7B69J\u003e ran into. On the final-review branch run this command:\n\n```git reset --hard f8c32752919fa972d3f8394e9ff0e633555d87d2```\nthen run `git push -f`",
+    "ts": "1667053916.546859",
+    "thread_ts": "1666723839.960049",
+    "edited": {
+      "user": "U03P4005U76",
+      "ts": "1667054023.000000"
+    },
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8MSc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think this is the same issue "
+              },
+              {
+                "type": "user",
+                "user_id": "U03NLD7B69J"
+              },
+              {
+                "type": "text",
+                "text": " ran into. On the final-review branch run this command:\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"git reset --hard f8c32752919fa972d3f8394e9ff0e633555d87d2\"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "then run "
+              },
+              {
+                "type": "text",
+                "text": "git push -f",
+                "style": {
+                  "code": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5df23f42-20ad-4983-a106-4ec1311b7529",
+    "type": "message",
+    "user": "U03NBCRJ99U",
+    "text": "\u003chttps://github.com/avarap/RentalProp/pull/41\u003e",
+    "ts": "1667054045.140619",
+    "thread_ts": "1666723839.960049",
+    "attachments": [
+      {
+        "color": "6f42c1",
+        "fallback": "\u003chttps://github.com/avarap/RentalProp/pull/41|#41 Final review\u003e",
+        "id": 1,
+        "title": "\u003chttps://github.com/avarap/RentalProp/pull/41|#41 Final review\u003e",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "blocks": null,
+        "footer": "\u003chttps://github.com/avarap/RentalProp|avarap/RentalProp\u003e",
+        "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+        "ts": 1666462198
+      }
+    ],
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FYz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/avarap/RentalProp/pull/41",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g573a376398a",
+      "image_72": "https://secure.gravatar.com/avatar/573a376398a82acb061e12fb20ba25f7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Antonio",
+      "real_name": "Antonio Vara Piquer",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "ghezath",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b60904b0-c448-4441-b889-597eb1ba1d72",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "this will essentially reset the git state of the final-review branch to this commit hash which is the first commit hash in the repo",
+    "ts": "1667054058.587929",
+    "thread_ts": "1666723839.960049",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8Ly",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this will essentially reset the git state of the final-review branch to this commit hash which is the first commit hash in the repo"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "167f0baf-d30d-4d25-a9ed-98ae5e681725",
+    "type": "message",
+    "user": "U03NBCRJ99U",
+    "text": "there were some extra PR later",
+    "ts": "1667054066.922009",
+    "thread_ts": "1666723839.960049",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9al",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "there were some extra PR later"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g573a376398a",
+      "image_72": "https://secure.gravatar.com/avatar/573a376398a82acb061e12fb20ba25f7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Antonio",
+      "real_name": "Antonio Vara Piquer",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "ghezath",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b2f978d1-009c-48aa-8465-1672fd8d0566",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "yes perfect :+1:",
+    "ts": "1667054073.738219",
+    "thread_ts": "1666723839.960049",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "taGC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes perfect "
+              },
+              {
+                "type": "emoji",
+                "name": "thumbsup",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f439dc59-56e9-4b1c-bf10-faef4566f4a8",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "this I can review.",
+    "ts": "1667054077.886309",
+    "thread_ts": "1666723839.960049",
+    "parent_user_id": "U03P4005U76",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xNnap",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this I can review."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a2ce4652-b62e-4c94-9952-4c3ace2e31a1",
+    "type": "message",
+    "user": "U03P4005U76",
+    "ts": "1667054094.155859",
+    "thread_ts": "1666723839.960049",
+    "parent_user_id": "U03P4005U76",
+    "files": [
+      {
+        "id": "F048NMUT7FD",
+        "created": 1667054091,
+        "timestamp": 1667054091,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03P4005U76",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 9651,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F048NMUT7FD-image.png",
+        "url_private_download": "attachments/F048NMUT7FD-image.png",
+        "original_h": 124,
+        "original_w": 466,
+        "thumb_64": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048NMUT7FD-ab7779c75f/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048NMUT7FD-ab7779c75f/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048NMUT7FD-ab7779c75f/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T03NM2X0JCR-F048NMUT7FD-ab7779c75f/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 96,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://wd-pt-12jul.slack.com/files/U03P4005U76/F048NMUT7FD/image.png",
+        "permalink_public": "https://slack-files.com/T03NM2X0JCR-F048NMUT7FD-beaeb58a34",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U03NBCRJ99U"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

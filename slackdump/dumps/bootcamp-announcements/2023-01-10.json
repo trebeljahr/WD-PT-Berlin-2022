@@ -1,0 +1,211 @@
+[
+  {
+    "client_msg_id": "0fe2cc38-a01d-4a12-a0ee-ccf0e2ed600f",
+    "type": "message",
+    "user": "U03NKPQSAA0",
+    "text": "Happy new year my dear *\u003c!channel\u003e*! All the best for 2023 :tada:\n\nIt’s time for the last…\n\n*WEEKLY UPDATE* :sparkles:\n_*Week 24* out of 24_\n_*Last day of the bootcamp:* Saturday, January 14th_\n_*Career Week:* 16-20th of January - *Info \u0026amp; schedule coming soon*_\n\n• *Hackshow* :tada:\n*WEDNESDAY, JANUARY 25TH - 6:00 to 8:00 PM*\n\u003chttps://www.meetup.com/de-DE/ironhack-berlin/events/290690660/?isFirstPublish=true|Here you can find the link of the event\u003e, please invite your family and friends to join on Zoom if they are interested in watching amazing projects from our students.\n\n• If you have a key from the Berlin campus, please bring it back on Saturday or next time you are around! :key:\nLet me know if I can help you with anything.\n\nYour Program Manager :rocket:",
+    "ts": "1673356641.190519",
+    "attachments": [
+      {
+        "fallback": "Meetup: [Online] The Hackshow - Tech bootcamp final projects contest, Mi., 25. Jan. 2023, 18:00   | Meetup",
+        "id": 1,
+        "title": "[Online] The Hackshow - Tech bootcamp final projects contest, Mi., 25. Jan. 2023, 18:00   | Meetup",
+        "title_link": "https://www.meetup.com/de-DE/ironhack-berlin/events/290690660/?isFirstPublish=true",
+        "text": "**Are you ready for the Ironhack Hackshow? :nerd_face:**\n\nOur students have intensely dedicated the last 9 weeks to develop a new skillset or improve an existing one, and we want to",
+        "thumb_url": "https://secure.meetupstatic.com/photos/event/b/c/5/c/global_509628220.jpeg",
+        "service_name": "Meetup",
+        "service_icon": "https://secure.meetupstatic.com/next/images/general/m_swarm_120x120.png",
+        "from_url": "https://www.meetup.com/de-DE/ironhack-berlin/events/290690660/?isFirstPublish=true",
+        "original_url": "https://www.meetup.com/de-DE/ironhack-berlin/events/290690660/?isFirstPublish=true",
+        "blocks": null
+      }
+    ],
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "l93",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Happy new year my dear "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": "! All the best for 2023 "
+              },
+              {
+                "type": "emoji",
+                "name": "tada",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\nIt’s time for the last…\n\n"
+              },
+              {
+                "type": "text",
+                "text": "WEEKLY UPDATE ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "sparkles",
+                "skin_tone": 0,
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Week 24 ",
+                "style": {
+                  "bold": true,
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "out of 24",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Last day of the bootcamp:",
+                "style": {
+                  "bold": true,
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " Saturday, January 14th",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Career Week:",
+                "style": {
+                  "bold": true,
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 16-20th of January - ",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "Info \u0026 schedule coming soon",
+                "style": {
+                  "bold": true,
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Hackshow \",\"style\":{\"bold\":true}},{\"type\":\"emoji\",\"name\":\"tada\",\"unicode\":\"1f389\",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "WEDNESDAY, JANUARY 25TH - 6:00 to 8:00 PM",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.meetup.com/de-DE/ironhack-berlin/events/290690660/?isFirstPublish=true",
+                "text": "Here you can find the link of the event"
+              },
+              {
+                "type": "text",
+                "text": ", please invite your family and friends to join on Zoom if they are interested in watching amazing projects from our students.\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"If you have a key from the Berlin campus, please bring it back on Saturday or next time you are around! \"},{\"type\":\"emoji\",\"name\":\"key\",\"unicode\":\"1f511\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nLet me know if I can help you with anything.\n\nYour Program Manager "
+              },
+              {
+                "type": "emoji",
+                "name": "rocket",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "161b83e3a9a4",
+      "image_72": "https://avatars.slack-edge.com/2022-10-18/4224394580103_161b83e3a9a4989c5f84_72.png",
+      "first_name": "Joyce",
+      "real_name": "Joyce Bride - Program",
+      "display_name": "Joyce Bride",
+      "team": "T03NM2X0JCR",
+      "name": "joyce.bride",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

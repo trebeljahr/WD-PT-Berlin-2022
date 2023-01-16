@@ -1,0 +1,77 @@
+[
+  {
+    "client_msg_id": "bcea5565-1fb1-4a29-b972-854af790da45",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "found this randomly, it's interesting! \u003chttps://maximorlov.com/why-you-shouldnt-mix-promise-then-with-async-await/\u003e",
+    "ts": "1664131118.750119",
+    "attachments": [
+      {
+        "fallback": "Maxim Orlov: Why You Shouldn't Mix Promise.then() With Async/Await Syntax",
+        "id": 1,
+        "title": "Why You Shouldn't Mix Promise.then() With Async/Await Syntax",
+        "title_link": "https://maximorlov.com/why-you-shouldnt-mix-promise-then-with-async-await/",
+        "text": "Mixing Promise.then() with async/await syntax is a recipe for bugs. Here's why you shouldn't do it.",
+        "image_url": "https://maximorlov.com/images/why-you-shouldnt-mix-promise-then-with-async-await-cover.png",
+        "service_name": "Maxim Orlov",
+        "service_icon": "https://maximorlov.com/apple-touch-icon.png?v=rMBb5NyvPK",
+        "from_url": "https://maximorlov.com/why-you-shouldnt-mix-promise-then-with-async-await/",
+        "original_url": "https://maximorlov.com/why-you-shouldnt-mix-promise-then-with-async-await/",
+        "blocks": null
+      }
+    ],
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-4",
+        "count": 1,
+        "users": [
+          "U03NWL0SHQR"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Gbj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "found this randomly, it's interesting! "
+              },
+              {
+                "type": "link",
+                "url": "https://maximorlov.com/why-you-shouldnt-mix-promise-then-with-async-await/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

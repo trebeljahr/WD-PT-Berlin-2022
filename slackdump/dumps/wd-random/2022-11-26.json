@@ -1,0 +1,124 @@
+[
+  {
+    "client_msg_id": "4ba9d774-2669-4545-8b8a-7fe2c66fe2a2",
+    "type": "message",
+    "user": "U03NF3FU4CD",
+    "text": "btw I just saw a typo in my presentation  :smile: It should be 440 Hz. Have a nice weekend!",
+    "ts": "1669478461.278899",
+    "edited": {
+      "user": "U03NF3FU4CD",
+      "ts": "1669478469.000000"
+    },
+    "files": [
+      {
+        "id": "F04CN80QQS0",
+        "created": 1669478436,
+        "timestamp": 1669478436,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03NF3FU4CD",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 434220,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04CN80QQS0-image.png",
+        "url_private_download": "attachments/F04CN80QQS0-image.png",
+        "original_h": 607,
+        "original_w": 1397,
+        "thumb_64": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04CN80QQS0-25ac57cb7d/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04CN80QQS0-25ac57cb7d/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04CN80QQS0-25ac57cb7d/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04CN80QQS0-25ac57cb7d/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 156,
+        "thumb_480": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04CN80QQS0-25ac57cb7d/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 209,
+        "thumb_720": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04CN80QQS0-25ac57cb7d/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 313,
+        "thumb_960": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04CN80QQS0-25ac57cb7d/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 417,
+        "thumb_1024": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04CN80QQS0-25ac57cb7d/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 445,
+        "permalink": "https://wd-pt-12jul.slack.com/files/U03NF3FU4CD/F04CN80QQS0/image.png",
+        "permalink_public": "https://slack-files.com/T03NM2X0JCR-F04CN80QQS0-cc443c4a18",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "09N",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "btw I just saw a typo in my presentation  "
+              },
+              {
+                "type": "emoji",
+                "name": "smile",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " It should be 440 Hz. Have a nice weekend!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "gffbd1f8138d",
+      "image_72": "https://secure.gravatar.com/avatar/ffbd1f8138d8ce7282914f927aa4c382.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Hector",
+      "real_name": "Hector Fernandez",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "hfernandez04",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

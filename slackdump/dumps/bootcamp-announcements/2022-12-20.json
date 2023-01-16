@@ -1,0 +1,97 @@
+[
+  {
+    "client_msg_id": "631be3ea-9f43-4e20-bd6b-4137cb49af7f",
+    "type": "message",
+    "user": "U03NKPQSAA0",
+    "text": "Hi my favourite part-timers,\nI will be out of office :christmas_tree:from tomorrow and will be back on Thursday December 29th.\n\nI am looking forward to see your final projects and can already share the date of the *Hackshow: January 25th!*\n\nI wish you a happy holiday and nice end of the year  :blue_heart: \u003c!channel\u003e",
+    "ts": "1671555675.330089",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-4",
+        "count": 1,
+        "users": [
+          "U03NWL0SHQR"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U03NJ0VSF8A"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aBx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi my favourite part-timers,\nI will be out of office "
+              },
+              {
+                "type": "emoji",
+                "name": "christmas_tree",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "from tomorrow and will be back on Thursday December 29th.\n\nI am looking forward to see your final projects and can already share the date of the "
+              },
+              {
+                "type": "text",
+                "text": "Hackshow: January 25th!",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\nI wish you a happy holiday and nice end of the year  "
+              },
+              {
+                "type": "emoji",
+                "name": "blue_heart",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "161b83e3a9a4",
+      "image_72": "https://avatars.slack-edge.com/2022-10-18/4224394580103_161b83e3a9a4989c5f84_72.png",
+      "first_name": "Joyce",
+      "real_name": "Joyce Bride - Program",
+      "display_name": "Joyce Bride",
+      "team": "T03NM2X0JCR",
+      "name": "joyce.bride",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

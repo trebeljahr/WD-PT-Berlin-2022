@@ -1,0 +1,498 @@
+[
+  {
+    "client_msg_id": "21d169aa-5bfc-491a-afb6-ee0dd1b2048b",
+    "type": "message",
+    "user": "U03NF3FU4CD",
+    "text": "I would like to ask you something about the last iteration of the last lab",
+    "ts": "1663094986.923139",
+    "thread_ts": "1663094986.923139",
+    "last_read": "1663095726.889899",
+    "subscribed": true,
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U03P4005U76",
+        "ts": "1663095726.889899"
+      }
+    ],
+    "latest_reply": "1663095726.889899",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Nu6w",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I would like to ask you something about the last iteration of the last lab"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "gffbd1f8138d",
+      "image_72": "https://secure.gravatar.com/avatar/ffbd1f8138d8ce7282914f927aa4c382.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Hector",
+      "real_name": "Hector Fernandez",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "hfernandez04",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U03P4005U76"
+    ]
+  },
+  {
+    "client_msg_id": "2a9bb4b1-abb4-4769-a564-ce7e608a3d4a",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "be  there shortly.",
+    "ts": "1663095726.889899",
+    "thread_ts": "1663094986.923139",
+    "parent_user_id": "U03NF3FU4CD",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U03NF3FU4CD"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Vb13",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "be  there shortly."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ddf9d247-3689-451e-97a8-e3ba41a73df4",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "Just wondering here why you wrote default and in an object. Sorry if you already said\n\n```const { default: mongoose } = require(\"mongoose\");```",
+    "ts": "1663096769.002239",
+    "thread_ts": "1663096769.002239",
+    "last_read": "1663099127.285609",
+    "subscribed": true,
+    "reply_count": 5,
+    "replies": [
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1663096810.868189"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1663097240.182719"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1663098654.029369"
+      },
+      {
+        "user": "U03P4005U76",
+        "ts": "1663098702.994129"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1663099127.285609"
+      }
+    ],
+    "latest_reply": "1663099127.285609",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "eyes",
+        "count": 1,
+        "users": [
+          "U03P4005U76"
+        ]
+      },
+      {
+        "name": "white_check_mark",
+        "count": 1,
+        "users": [
+          "U03P4005U76"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4nO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Just wondering here why you wrote default and in an object. Sorry if you already said\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"const { default: mongoose } = require(\\\"mongoose\\\");\"}],\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U03NJ0V8G2W",
+      "U03P4005U76"
+    ]
+  },
+  {
+    "client_msg_id": "a78fa9a4-db6e-4265-874f-a6c3d05ce597",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "I second that, also, I don´t understand\n```require(\"../db\");```\nbut I´m pretty lost today anyway... I think I will need the recordings for this lab",
+    "ts": "1663096810.868189",
+    "thread_ts": "1663096769.002239",
+    "edited": {
+      "user": "U03NJ0V8G2W",
+      "ts": "1663096983.000000"
+    },
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LK1t",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I second that, also, I don´t understand\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"require(\\\"..\\/db\\\");\"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "but I´m pretty lost today anyway... I think I will need the recordings for this lab"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "30883ead-eaec-490f-8dd0-7943ed6134d9",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "I'll answer that after the sitdown. If you want in person as well :slightly_smiling_face:",
+    "ts": "1663097240.182719",
+    "thread_ts": "1663096769.002239",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gEO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'll answer that after the sitdown. If you want in person as well "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4519d420-fba9-4f14-bb70-29b53d75483a",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "recordings should be in the student portal now \u003c@U03NJ0V8G2W\u003e\nhere's the link direct to Zoom.\n\u003chttps://ironhack.zoom.us/rec/play/nDOReNF12hOLs8JtTDLiZ4Gmh3s_XBjrr15oIASratNU3AJ76ci6psidP5nnpoxv_T-mkvI4w0VK4kLe.7tVLLam5yNJFCpUH?continueMode=true|https://ironhack.zoom.us/rec/play/nDOReNF12hOLs8JtTDLiZ4Gmh3s_XBjrr15oIASratNU3AJ76ci[…]dP5nnpoxv_T-mkvI4w0VK4kLe.7tVLLam5yNJFCpUH?continueMode=true\u003e",
+    "ts": "1663098654.029369",
+    "thread_ts": "1663096769.002239",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GCWrA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "recordings should be in the student portal now "
+              },
+              {
+                "type": "user",
+                "user_id": "U03NJ0V8G2W"
+              },
+              {
+                "type": "text",
+                "text": "\nhere's the link direct to Zoom.\n"
+              },
+              {
+                "type": "link",
+                "url": "https://ironhack.zoom.us/rec/play/nDOReNF12hOLs8JtTDLiZ4Gmh3s_XBjrr15oIASratNU3AJ76ci6psidP5nnpoxv_T-mkvI4w0VK4kLe.7tVLLam5yNJFCpUH?continueMode=true",
+                "text": "https://ironhack.zoom.us/rec/play/nDOReNF12hOLs8JtTDLiZ4Gmh3s_XBjrr15oIASratNU3AJ76ci[…]dP5nnpoxv_T-mkvI4w0VK4kLe.7tVLLam5yNJFCpUH?continueMode=true"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cffe9364-bf39-479b-be92-7606c6467e9b",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "I think I should have recorded that last help section as well :disappointed: but too tired.",
+    "ts": "1663098702.994129",
+    "thread_ts": "1663096769.002239",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OW7hC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think I should have recorded that last help section as well "
+              },
+              {
+                "type": "emoji",
+                "name": "disappointed",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " but too tired."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7f5fe322-0864-4c90-87e9-ba5529426cb1",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "Thanks",
+    "ts": "1663099127.285609",
+    "thread_ts": "1663096769.002239",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GY36",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

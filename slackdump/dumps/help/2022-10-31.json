@@ -1,0 +1,277 @@
+[
+  {
+    "client_msg_id": "1e87ac69-789c-459a-b09d-176e20ff9f22",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "I got this html form problem I can't solve.",
+    "ts": "1667219291.597419",
+    "thread_ts": "1667219291.597419",
+    "reply_count": 16,
+    "replies": [
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1667219320.635709"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1667219374.932249"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1667219464.251399"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1667312281.913219"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1667320715.226219"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1667320769.888789"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1667320822.299459"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1667320941.685189"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1667320950.481979"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1667320975.549549"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1667321018.999179"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1667321047.307909"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1667321196.042059"
+      },
+      {
+        "user": "U03NJ0V8G2W",
+        "ts": "1667321254.711889"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1667323251.489379"
+      },
+      {
+        "user": "U03NJ0VSF8A",
+        "ts": "1667323325.348679"
+      }
+    ],
+    "latest_reply": "1667323325.348679",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "count": 1,
+        "users": [
+          "U03NJ0VSF8A"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "w6k",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I got this html form problem I can't solve."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U03NJ0V8G2W",
+      "U03NJ0VSF8A"
+    ]
+  },
+  {
+    "client_msg_id": "347a089a-2e03-4a78-841e-9cae72faf44a",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "I cannot get any values out of this form.\n```\u0026lt;form action=\"/upcoming\" method=\"GET\"\u0026gt;\n\u0026lt;select form=\"select-country\" id=\"region\" name=\"region\" class=\"form-control\"\u0026gt;\n  \u0026lt;option value=\"DE\"\u0026gt;Germany\u0026lt;/option\u0026gt;\n  \u0026lt;option value=\"US\"\u0026gt;United States\u0026lt;/option\u0026gt;\n\u0026lt;/select\u0026gt;\n\u0026lt;h4\u0026gt;Select a language:\u0026lt;/h4\u0026gt;\n\u0026lt;select form=\"select-language\" id=\"language\" name=\"language\" class=\"form-control\"\u0026gt;\n  \u0026lt;option value=\"de\"\u0026gt;German\u0026lt;/option\u0026gt;\n  \u0026lt;option value=\"en-US\"\u0026gt;English (US)\u0026lt;/option\u0026gt;\n\u0026lt;/select\u0026gt;\n\u0026lt;br /\u0026gt;\n  \u0026lt;input type=\"submit\" value=\"Upcoming Films\" /\u0026gt;\n\u0026lt;/form\u0026gt;```",
+    "ts": "1667219320.635709",
+    "thread_ts": "1667219291.597419",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8MVm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I cannot get any values out of this form.\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"\u003cform action=\\\"\\/upcoming\\\" method=\\\"GET\\\"\u003e\\n\u003cselect form=\\\"select-country\\\" id=\\\"region\\\" name=\\\"region\\\" class=\\\"form-control\\\"\u003e\\n  \u003coption value=\\\"DE\\\"\u003eGermany\u003c\\/option\u003e\\n  \u003coption value=\\\"US\\\"\u003eUnited States\u003c\\/option\u003e\\n\u003c\\/select\u003e\\n\u003ch4\u003eSelect a language:\u003c\\/h4\u003e\\n\u003cselect form=\\\"select-language\\\" id=\\\"language\\\" name=\\\"language\\\" class=\\\"form-control\\\"\u003e\\n  \u003coption value=\\\"de\\\"\u003eGerman\u003c\\/option\u003e\\n  \u003coption value=\\\"en-US\\\"\u003eEnglish (US)\u003c\\/option\u003e\\n\u003c\\/select\u003e\\n\u003cbr \\/\u003e\\n  \u003cinput type=\\\"submit\\\" value=\\\"Upcoming Films\\\" \\/\u003e\\n\u003c\\/form\u003e\"}],\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "800544c4-7e8f-48d5-afbf-01c00f252270",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "How do I tie both select forms to the single form action?",
+    "ts": "1667219374.932249",
+    "thread_ts": "1667219291.597419",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "R3bR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "How do I tie both select forms to the single form action?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d7221ab1-7eea-4613-a286-f2cddf25a3aa",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "It works with just one select form, req.query.region returns region, for example.",
+    "ts": "1667219464.251399",
+    "thread_ts": "1667219291.597419",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5uPc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It works with just one select form, req.query.region returns region, for example."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

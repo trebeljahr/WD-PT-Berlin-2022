@@ -1,0 +1,55 @@
+[
+  {
+    "client_msg_id": "0fb0f00a-3ffc-4b0f-977c-c4ca63fb8eb7",
+    "type": "message",
+    "user": "U03NKPQSAA0",
+    "text": "It's until 8pm, feel free to join if you have time!! :blush:",
+    "ts": "1661327197.366659",
+    "thread_ts": "1661267247.998019",
+    "parent_user_id": "U03NKPQSAA0",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Krk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It's until 8pm, feel free to join if you have time!! "
+              },
+              {
+                "type": "emoji",
+                "name": "blush",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "161b83e3a9a4",
+      "image_72": "https://avatars.slack-edge.com/2022-10-18/4224394580103_161b83e3a9a4989c5f84_72.png",
+      "first_name": "Joyce",
+      "real_name": "Joyce Bride - Program",
+      "display_name": "Joyce Bride",
+      "team": "T03NM2X0JCR",
+      "name": "joyce.bride",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

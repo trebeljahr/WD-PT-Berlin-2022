@@ -1,0 +1,227 @@
+[
+  {
+    "client_msg_id": "342807d5-1e10-4a9b-ae00-f09695ca819d",
+    "type": "message",
+    "user": "U03NWL0SHQR",
+    "text": "I took me about 40 days to build the laser cutter (counting between the first and the last pictures), maybe with an average time of 3h to 4h/day.",
+    "ts": "1668866423.736269",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "fire",
+        "count": 2,
+        "users": [
+          "U03NF3FU4CD",
+          "U03P4005U76"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ewNCl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I took me about 40 days to build the laser cutter (counting between the first and the last pictures), maybe with an average time of 3h to 4h/day."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "74ac6c12d62e",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3767739155858_74ac6c12d62eaa26467e_72.jpg",
+      "first_name": "João",
+      "real_name": "João Serafim",
+      "display_name": "João Serafim",
+      "team": "T03NM2X0JCR",
+      "name": "serafim.joao",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "eeebc897-71ce-414c-a97d-f01daf9e8368",
+    "type": "message",
+    "user": "U03NBCRJ99U",
+    "text": ":scream:",
+    "ts": "1668866448.866659",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MGtq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "scream",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "g573a376398a",
+      "image_72": "https://secure.gravatar.com/avatar/573a376398a82acb061e12fb20ba25f7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Antonio",
+      "real_name": "Antonio Vara Piquer",
+      "display_name": "",
+      "team": "T03NM2X0JCR",
+      "name": "ghezath",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0ba348b3-e306-4745-8bc7-382792aa2046",
+    "type": "message",
+    "user": "U03NWL0SHQR",
+    "text": "\u003c@U03P4005U76\u003e this is a picture of the raising bed building",
+    "ts": "1668866843.779929",
+    "files": [
+      {
+        "id": "F04BQ0V62MQ",
+        "created": 1668866788,
+        "timestamp": 1668866788,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03NWL0SHQR",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 1072350,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04BQ0V62MQ-image.png",
+        "url_private_download": "attachments/F04BQ0V62MQ-image.png",
+        "original_h": 1286,
+        "original_w": 723,
+        "thumb_64": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BQ0V62MQ-4a542cb01f/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BQ0V62MQ-4a542cb01f/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BQ0V62MQ-4a542cb01f/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BQ0V62MQ-4a542cb01f/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 202,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BQ0V62MQ-4a542cb01f/image_480.png",
+        "thumb_480_w": 270,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BQ0V62MQ-4a542cb01f/image_720.png",
+        "thumb_720_w": 405,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BQ0V62MQ-4a542cb01f/image_960.png",
+        "thumb_960_w": 540,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BQ0V62MQ-4a542cb01f/image_1024.png",
+        "thumb_1024_w": 576,
+        "thumb_1024_h": 1024,
+        "permalink": "https://wd-pt-12jul.slack.com/files/U03NWL0SHQR/F04BQ0V62MQ/image.png",
+        "permalink_public": "https://slack-files.com/T03NM2X0JCR-F04BQ0V62MQ-42d90197b1",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U03P4005U76"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8iz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03P4005U76"
+              },
+              {
+                "type": "text",
+                "text": " this is a picture of the raising bed building"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "74ac6c12d62e",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3767739155858_74ac6c12d62eaa26467e_72.jpg",
+      "first_name": "João",
+      "real_name": "João Serafim",
+      "display_name": "João Serafim",
+      "team": "T03NM2X0JCR",
+      "name": "serafim.joao",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

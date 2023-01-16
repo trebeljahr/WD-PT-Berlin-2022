@@ -1,0 +1,351 @@
+[
+  {
+    "client_msg_id": "aadfb774-c581-40fe-84a2-56d0520ad0e7",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "\u003c@U041YEBQVHB\u003e same zoom room as the last time?\n\u003chttps://ironhack.zoom.us/s/6417782276#success|https://ironhack.zoom.us/s/6417782276#success\u003e",
+    "ts": "1669048914.106439",
+    "thread_ts": "1669048914.106439",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U041YEBQVHB",
+        "ts": "1669049776.810579"
+      }
+    ],
+    "latest_reply": "1669049776.810579",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U041YEBQVHB"
+        ]
+      },
+      {
+        "name": "eyes",
+        "count": 1,
+        "users": [
+          "U041YEBQVHB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jU+p",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U041YEBQVHB"
+              },
+              {
+                "type": "text",
+                "text": " same zoom room as the last time?\n"
+              },
+              {
+                "type": "link",
+                "url": "https://ironhack.zoom.us/s/6417782276#success",
+                "text": "https://ironhack.zoom.us/s/6417782276#success"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U041YEBQVHB"
+    ]
+  },
+  {
+    "client_msg_id": "d6de8b6d-020d-4fca-9f50-fa6599d047ba",
+    "type": "message",
+    "user": "U041YEBQVHB",
+    "text": "Hi \u003c!channel\u003e!\n:mega: Remember, tonight we will have another Touchpoint Session! *\u003c!channel\u003e*\n\n:dart: *Please, confirm your attendance by* :white_check_mark: *to this message.*\n\n:computer: *Join us  remotely today at 18pm sharp \u0026gt;* \u003chttps://ironhack.zoom.us/s/6417782276#success\u003e",
+    "ts": "1669049759.978179",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "count": 3,
+        "users": [
+          "U041YEBQVHB",
+          "U03NJ0V8G2W",
+          "U03NBCRJ99U"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MD/H",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": "!\n"
+              },
+              {
+                "type": "emoji",
+                "name": "mega",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Remember, tonight we will have another Touchpoint Session! "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "emoji",
+                "name": "dart",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "Please, confirm your attendance by ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "white_check_mark",
+                "skin_tone": 0,
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " to this message.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "emoji",
+                "name": "computer",
+                "skin_tone": 0,
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " Join us  remotely today at 18pm sharp \u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "link",
+                "url": "https://ironhack.zoom.us/s/6417782276#success",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "ccfdf74d252a",
+      "image_72": "https://avatars.slack-edge.com/2022-09-13/4073408751970_ccfdf74d252ae0213928_72.jpg",
+      "first_name": "Jesús",
+      "real_name": "Jesús Ramos",
+      "display_name": "Jesús Ramos",
+      "team": "T03NM2X0JCR",
+      "name": "jesus.ramos",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4c0e533e-3381-43c4-8775-2fb504b0416d",
+    "type": "message",
+    "user": "U041YEBQVHB",
+    "text": "yes sir! see you there in a moment :slightly_smiling_face:",
+    "ts": "1669049776.810579",
+    "thread_ts": "1669048914.106439",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QFPa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes sir! see you there in a moment "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "ccfdf74d252a",
+      "image_72": "https://avatars.slack-edge.com/2022-09-13/4073408751970_ccfdf74d252ae0213928_72.jpg",
+      "first_name": "Jesús",
+      "real_name": "Jesús Ramos",
+      "display_name": "Jesús Ramos",
+      "team": "T03NM2X0JCR",
+      "name": "jesus.ramos",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2dd3ef41-43a3-4581-b002-87814e1d8377",
+    "type": "message",
+    "user": "U041YEBQVHB",
+    "text": "*\u003c!channel\u003e* Thanks for attending this touchpoint session!\n\nAs promised, please find here the presentation: \u003chttps://docs.google.com/presentation/d/1b05LqCvreqsVctg_0w2bsGZjdGzqnYqiyccT0TtuPvQ/edit?usp=sharing\u003e\n\nLet me know if you have any questions. :)\n\nHave a great rest of the day ahead!:raised_hands:\n\nJesús :innocent:",
+    "ts": "1669053738.963259",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OTb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " Thanks for attending this touchpoint session!\n\nAs promised, please find here the presentation: "
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/presentation/d/1b05LqCvreqsVctg_0w2bsGZjdGzqnYqiyccT0TtuPvQ/edit?usp=sharing",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\nLet me know if you have any questions. :)\n\nHave a great rest of the day ahead!"
+              },
+              {
+                "type": "emoji",
+                "name": "raised_hands",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\nJesús "
+              },
+              {
+                "type": "emoji",
+                "name": "innocent",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "ccfdf74d252a",
+      "image_72": "https://avatars.slack-edge.com/2022-09-13/4073408751970_ccfdf74d252ae0213928_72.jpg",
+      "first_name": "Jesús",
+      "real_name": "Jesús Ramos",
+      "display_name": "Jesús Ramos",
+      "team": "T03NM2X0JCR",
+      "name": "jesus.ramos",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

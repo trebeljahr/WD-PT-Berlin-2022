@@ -1,0 +1,358 @@
+[
+  {
+    "client_msg_id": "f2500cf8-6c60-4282-8475-ff4433a30928",
+    "type": "message",
+    "user": "U03NKPQSAA0",
+    "text": "Happy Tuesday *\u003c!channel\u003e*!\nIt's time for the...\n\n*WEEKLY UPDATE* :sparkles:\n_*Week 22* out of 24_\n_*Last day of the bootcamp:* Saturday, January 14th_\n_*Career Week:* 16-20th of January_\n\n:bulb: *Happening on Berlin campus*\n\n*FRIDAY*\n• :mortar_board: *Alumni Panel + Ironbeers* :beers:  *- 5.30-8pm - 5th floor*\nAt this event, we invite alumni from each course, already working in the field, for them to share their experience during and after bootcamp with you.\nAll questions are welcome!\n\n*NEXT WEEK FRIDAY*\n• *Full-time bootcamp Hackshow* :tada:  *- 5.00-10pm - 6th floor*\nIt's time to celebrate! We will hear the presentations of the finalists of each class and vote together for the best final project! Then we will share some food and drinks.\n:warning: *Please book (free) a seat here if you want to attend: \u003chttps://www.eventbrite.com/e/the-hackshow-tech-bootcamp-final-projects-contest-tickets-466253977197?aff=ebdssbcategorybrowse|HERE\u003e*\n\nHave a good week dear Ironhackers! :rocket:",
+    "ts": "1670339599.373769",
+    "edited": {
+      "user": "U03NKPQSAA0",
+      "ts": "1670339816.000000"
+    },
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "j=823",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Happy Tuesday "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": "!\nIt's time for the...\n\n"
+              },
+              {
+                "type": "text",
+                "text": "WEEKLY UPDATE ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "sparkles",
+                "skin_tone": 0,
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Week 22 ",
+                "style": {
+                  "bold": true,
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "out of 24",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Last day of the bootcamp:",
+                "style": {
+                  "bold": true,
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " Saturday, January 14th",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Career Week:",
+                "style": {
+                  "bold": true,
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 16-20th of January",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "emoji",
+                "name": "bulb",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Happening on Berlin campus",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "FRIDAY",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"emoji\",\"name\":\"mortar_board\",\"unicode\":\"1f393\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\" Alumni Panel + Ironbeers \",\"style\":{\"bold\":true}},{\"type\":\"emoji\",\"name\":\"beers\",\"unicode\":\"1f37b\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"  - 5.30-8pm - 5th floor\",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "At this event, we invite alumni from each course, already working in the field, for them to share their experience during and after bootcamp with you.\nAll questions are welcome!\n\n"
+              },
+              {
+                "type": "text",
+                "text": "NEXT WEEK FRIDAY",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Full-time bootcamp Hackshow \",\"style\":{\"bold\":true}},{\"type\":\"emoji\",\"name\":\"tada\",\"unicode\":\"1f389\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"  - 5.00-10pm - 6th floor\",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It's time to celebrate! We will hear the presentations of the finalists of each class and vote together for the best final project! Then we will share some food and drinks.\n"
+              },
+              {
+                "type": "emoji",
+                "name": "warning",
+                "skin_tone": 0,
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " Please book (free) a seat here if you want to attend: ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "link",
+                "url": "https://www.eventbrite.com/e/the-hackshow-tech-bootcamp-final-projects-contest-tickets-466253977197?aff=ebdssbcategorybrowse",
+                "text": "HERE",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\nHave a good week dear Ironhackers! "
+              },
+              {
+                "type": "emoji",
+                "name": "rocket",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "161b83e3a9a4",
+      "image_72": "https://avatars.slack-edge.com/2022-10-18/4224394580103_161b83e3a9a4989c5f84_72.png",
+      "first_name": "Joyce",
+      "real_name": "Joyce Bride - Program",
+      "display_name": "Joyce Bride",
+      "team": "T03NM2X0JCR",
+      "name": "joyce.bride",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "22e34256-6c27-4d80-8bc9-6160ea2cb920",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "Just as I introduced in the Standup today we have the opportunity to participate in the Ironhack Hackshow in January :tada:\n\nJust to summarize the main points again:\n1. it'll be remote :roll-safe: \n2. it'll be on some Friday evening toward the end of January. Exact date is still to be decided. \n3. best project from us will present too! :partyparrot: \n4. attendance is *not* mandatory. But you'd miss out on some fun! :partying_face: \n5. with other cohorts from Data Science, UI/UX and yes. WebDev. \n6. Rico will do a short presentation/introduction about the cohort :face_holding_back_tears: \nI think it's only fair to vote on this, so vote by emojis!\n\n:+1: - if you want to participate\n:-1: - if you don't want to participate\n:zero: - if you don't care",
+    "ts": "1670349501.032509",
+    "team": "T03NM2X0JCR",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U03NJ0VSF8A"
+        ]
+      },
+      {
+        "name": "zero",
+        "count": 1,
+        "users": [
+          "U03NLD7B69J"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-4",
+        "count": 1,
+        "users": [
+          "U03NWL0SHQR"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U03NBCRJ99U",
+          "U03NJ0V8G2W"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QommE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Just as I introduced in the Standup today we have the opportunity to participate in the Ironhack Hackshow in January "
+              },
+              {
+                "type": "emoji",
+                "name": "tada",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\nJust to summarize the main points again:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"it'll be remote \"},{\"type\":\"emoji\",\"name\":\"roll-safe\"},{\"type\":\"text\",\"text\":\" \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"it'll be on some Friday evening toward the end of January. Exact date is still to be decided. \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"best project from us will present too! \"},{\"type\":\"emoji\",\"name\":\"partyparrot\"},{\"type\":\"text\",\"text\":\" \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"attendance is \"},{\"type\":\"text\",\"text\":\"not\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\" mandatory. But you'd miss out on some fun! \"},{\"type\":\"emoji\",\"name\":\"partying_face\",\"unicode\":\"1f973\"},{\"type\":\"text\",\"text\":\" \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"with other cohorts from Data Science, UI\\/UX and yes. WebDev. \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Rico will do a short presentation\\/introduction about the cohort \"},{\"type\":\"emoji\",\"name\":\"face_holding_back_tears\",\"unicode\":\"1f979\"},{\"type\":\"text\",\"text\":\" \"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nI think it's only fair to vote on this, so vote by emojis!\n\n"
+              },
+              {
+                "type": "emoji",
+                "name": "thumbsup",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " - if you want to participate\n"
+              },
+              {
+                "type": "emoji",
+                "name": "thumbsdown",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " - if you don't want to participate\n"
+              },
+              {
+                "type": "emoji",
+                "name": "zero",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " - if you don't care"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

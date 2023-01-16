@@ -1,0 +1,223 @@
+[
+  {
+    "client_msg_id": "ffebd4d5-98d0-4342-8459-cce7c50fecb0",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "And, also if possible, the Tuesday ones as well??",
+    "ts": "1668761602.307509",
+    "thread_ts": "1668717633.186399",
+    "parent_user_id": "U03NJ0VSF8A",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "o021w",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "And, also if possible, the Tuesday ones as well??"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d36ecb15-04b2-40c3-9431-6d1f5161167d",
+    "type": "message",
+    "user": "U03NJ0V8G2W",
+    "text": "Found them! :sweat_smile:",
+    "ts": "1668764219.032489",
+    "thread_ts": "1667501853.691429",
+    "parent_user_id": "U03NJ0V8G2W",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uyujI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Found them! "
+              },
+              {
+                "type": "emoji",
+                "name": "sweat_smile",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "193d3988ff32",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3760201470326_193d3988ff32e024463a_72.jpg",
+      "first_name": "bernd",
+      "real_name": "bernd havekost",
+      "display_name": "bernd",
+      "team": "T03NM2X0JCR",
+      "name": "bernd",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "82d35b71-c76a-4cbe-a2bc-616f3b46a3a9",
+    "type": "message",
+    "user": "U03NWL0SHQR",
+    "text": "Does anyone get this empty components folder when trying to see the files from the assessment solutions?",
+    "ts": "1668812824.545819",
+    "thread_ts": "1668812824.545819",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U03NF3FU4CD",
+        "ts": "1668847932.428919"
+      }
+    ],
+    "latest_reply": "1668847932.428919",
+    "files": [
+      {
+        "id": "F04BGBGNW4W",
+        "created": 1668812649,
+        "timestamp": 1668812649,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03NWL0SHQR",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 19635,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04BGBGNW4W-image.png",
+        "url_private_download": "attachments/F04BGBGNW4W-image.png",
+        "original_h": 536,
+        "original_w": 1458,
+        "thumb_64": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BGBGNW4W-f2daa9da8c/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BGBGNW4W-f2daa9da8c/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BGBGNW4W-f2daa9da8c/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BGBGNW4W-f2daa9da8c/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 132,
+        "thumb_480": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BGBGNW4W-f2daa9da8c/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 176,
+        "thumb_720": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BGBGNW4W-f2daa9da8c/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 265,
+        "thumb_960": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BGBGNW4W-f2daa9da8c/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 353,
+        "thumb_1024": "https://files.slack.com/files-tmb/T03NM2X0JCR-F04BGBGNW4W-f2daa9da8c/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 376,
+        "permalink": "https://wd-pt-12jul.slack.com/files/U03NWL0SHQR/F04BGBGNW4W/image.png",
+        "permalink_public": "https://slack-files.com/T03NM2X0JCR-F04BGBGNW4W-462b11fe22",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BiU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Does anyone get this empty components folder when trying to see the files from the assessment solutions?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "74ac6c12d62e",
+      "image_72": "https://avatars.slack-edge.com/2022-07-06/3767739155858_74ac6c12d62eaa26467e_72.jpg",
+      "first_name": "João",
+      "real_name": "João Serafim",
+      "display_name": "João Serafim",
+      "team": "T03NM2X0JCR",
+      "name": "serafim.joao",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U03NF3FU4CD"
+    ]
+  }
+]

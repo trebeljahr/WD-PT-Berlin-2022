@@ -1,0 +1,53 @@
+[
+  {
+    "client_msg_id": "32052460-7f11-4a29-9a02-adfe188d79b3",
+    "type": "message",
+    "user": "U03NJ0VSF8A",
+    "text": "Maybe this is something for the problem Rico? \u003chttps://github.com/mui/material-ui/issues/31192\u003e",
+    "ts": "1670960347.966269",
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PJ5wZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Maybe this is something for the problem Rico? "
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/mui/material-ui/issues/31192",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "04411a049b06",
+      "image_72": "https://avatars.slack-edge.com/2022-07-14/3795254892613_04411a049b06f552bb4d_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua LaMorey-Salzmann",
+      "display_name": "Joshua",
+      "team": "T03NM2X0JCR",
+      "name": "lamorey.joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

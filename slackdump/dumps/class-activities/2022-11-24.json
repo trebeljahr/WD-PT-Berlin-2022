@@ -1,0 +1,62 @@
+[
+  {
+    "client_msg_id": "ed650bf2-206c-4ec1-9026-775532948c6c",
+    "type": "message",
+    "user": "U03P4005U76",
+    "text": "\u003chttps://prod.liveshare.vsengsaas.visualstudio.com/join?3D9E26BAF1FBEEA8FE85F9C23A3BDD8AD8F3\u003e",
+    "ts": "1669311102.708699",
+    "attachments": [
+      {
+        "fallback": "Visual Studio Code for the Web",
+        "id": 1,
+        "title": "Visual Studio Code for the Web",
+        "title_link": "https://prod.liveshare.vsengsaas.visualstudio.com/join?3D9E26BAF1FBEEA8FE85F9C23A3BDD8AD8F3",
+        "text": "Build with Visual Studio Code, anywhere, anytime, entirely in your browser.",
+        "service_name": "vscode.dev",
+        "from_url": "https://prod.liveshare.vsengsaas.visualstudio.com/join?3D9E26BAF1FBEEA8FE85F9C23A3BDD8AD8F3",
+        "original_url": "https://prod.liveshare.vsengsaas.visualstudio.com/join?3D9E26BAF1FBEEA8FE85F9C23A3BDD8AD8F3",
+        "blocks": null
+      }
+    ],
+    "team": "T03NM2X0JCR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iPg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://prod.liveshare.vsengsaas.visualstudio.com/join?3D9E26BAF1FBEEA8FE85F9C23A3BDD8AD8F3",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T03NM2X0JCR",
+    "source_team": "T03NM2X0JCR",
+    "user_profile": {
+      "avatar_hash": "19c4be189f84",
+      "image_72": "https://avatars.slack-edge.com/2022-07-11/3783657200355_19c4be189f84d880b03e_72.jpg",
+      "first_name": "Rico",
+      "real_name": "Rico Trebeljahr",
+      "display_name": "Rico Trebeljahr",
+      "team": "T03NM2X0JCR",
+      "name": "rico.trebeljahr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]
